@@ -1,0 +1,3656 @@
+{
+    "message": "hello i18n !!",
+    "menu": {
+        "view_31": "資料審核",
+        "view_34": "遊戲、平台管理",
+        "view_35": "個人管理",
+        "view_36": "個人資料",
+        "view_38": "交易記錄(加盟主)",
+        "view_46": "系統管理",
+        "view_48": "角色權限管理",
+        "view_49": "俱樂部管理",
+        "view_50": "選單管理",
+        "view_51": "接口(API)管理",
+        "view_52": "平台管理",
+        "view_53": "遊戲類型管理",
+        "view_54": "遊戲管理",
+        "view_55": "公司成員管理",
+        "view_56": "組織管理",
+        "view_57": "會員管理",
+        "view_58": "會員註冊審核",
+        "view_60": "站內信管理",
+        "view_61": "類型管理",
+        "view_62": "跑馬燈管理",
+        "view_63": "站內信通知",
+        "view_66": "訊息",
+        "view_67": "審核/通知管理",
+        "view_69": "輪播圖管理",
+        "view_72": "優惠活動",
+        "view_73": "公司帳戶管理",
+        "view_77": "會員標籤管理",
+        "view_79": "代理申請優惠",
+        "view_80": "會員存款",
+        "view_82": "審核代理優惠申請",
+        "view_84": "會員資料修改",
+        "view_85": "簡訊平台帳號管理",
+        "view_86": "簡訊",
+        "view_87": "發信文本管理",
+        "view_94": "遊戲標籤管理",
+        "view_105": "錯誤補點與回收",
+        "view_111": "報表",
+        "view_112": "遊戲報表",
+        "view_115": "會員優惠",
+        "view_116": "優惠群組",
+        "view_117": "優惠管理",
+        "view_119": "首頁",
+        "view_123": "月結算",
+        "view_124": "簡訊記錄",
+        "view_126": "加盟商管理",
+        "view_127": "預借額度",
+        "view_129": "預借紀錄(加盟主)",
+        "view_131": "會員提款",
+        "view_132": "會員銀行卡管理",
+        "view_133": "日結算",
+        "view_134": "登入紀錄",
+        "view_137": "系統記錄",
+        "view_138": "錯誤記錄",
+        "view_139": "報表同步記錄",
+        "view_140": "遊戲請求記錄",
+        "view_141": "操作記錄",
+        "view_142": "退水派發",
+        "view_143": "紅利派發",
+        "view_144": "登入記錄",
+        "view_145": "會員管理",
+        "view_146": "電話修改記錄",
+        "view_147": "會員銀行卡記錄",
+        "view_148": "任務",
+        "view_149": "贈送固定型點數",
+        "view_150": "流水贈送百分比點數",
+        "view_151": "會員任務審核",
+        "view_152": "優惠管理",
+        "view_153": "贈點活動",
+        "view_154": "版本資訊",
+        "view_156": "會員交易紀錄",
+        "view_157": "進板公告",
+        "view_158": "公告列表",
+        "view_159": "自動派發",
+        "view_160": "第三方儲值記錄",
+        "view_161": "第三方提款紀錄",
+        "view_162": "優惠活動(新)",
+        "view_163": "會員出款",
+        "view_164": "公司帳戶報表",
+        "view_165": "俱樂部會員升等",
+        "view_166": "代客儲值",
+        "view_167": "金流管理",
+        "view_168": "第三方代儲值",
+        "view_169": "會員活躍情況",
+        "view_170": "活動錢包報表",
+        "view_171": "活動錢包管理",
+        "view_172": "活動錢包紀錄",
+        "view_173": "遊戲報表(會員部分查詢)",
+        "view_174": "優惠報表",
+        "view_175": "活動錢包",
+        "view_177": "審核原因管理",
+        "view_178": "總報表",
+        "view_179": "帳戶群組",
+        "view_180": "推廣連結管理",
+        "view_181": "歷史遊戲報表",
+        "view_182": "會員帳號查詢",
+        "view_185": "優惠活動群組",
+        "view_186": "會員活躍情況",
+        "view_187": "首頁",
+        "view_188": "卡錢紀錄",
+        "view_189": "平台部分功能管理",
+        "view_190": "舊系統歷史報表",
+        "view_191": "會員遊戲報表",
+        "view_192": "存款公告",
+        "view_193": "未轉移的會員"
+    },
+    "common": {
+        "all": "全部",
+        "type": "類型",
+        "status-label": "狀態",
+        "status-enabled": "啟用",
+        "status-disabled": "停用",
+        "api-disabled": "無操作權限",
+        "noLimit": "不限制",
+        "status-enabled-label": "啟用狀態",
+        "edit": "編輯",
+        "clone": "複製",
+        "copied": "已複製",
+        "announcement": "公告",
+        "system": "系統訊息",
+        "agent-send": "代理發信",
+        "status-locked": "鎖定",
+        "status-unlocked": "未鎖定",
+        "status-locked-label": "鎖定狀態",
+        "edit-password": "修改密碼",
+        "invite-host": "推廣連結",
+        "add": "新增",
+        "copy": "複製",
+        "dialog-add": "新增{name}",
+        "dialog-edit": "修改{name}",
+        "select": "請選擇",
+        "select-all": "全選",
+        "select-other": "其他",
+        "send": "送出",
+        "franchisee": "加盟商",
+        "testing-line": "測試線",
+        "is-fun": "測試版",
+        "query": "查詢",
+        "save": "儲存",
+        "search": "查詢",
+        "clear": "清除",
+        "reset": "重設",
+        "submit": "提交",
+        "agent": "代理",
+        "member": "會員",
+        "member-name": "會員名稱",
+        "remove": "移除",
+        "close": "關閉",
+        "delete": "刪除",
+        "option": "操作",
+        "detail": "詳細",
+        "not-set": "未設定",
+        "date": "日期",
+        "site": "端口",
+        "account": "帳號",
+        "account-and-name": "{account}【{name}】",
+        "ok": "確定",
+        "cancel": "取消",
+        "unset": "未設定",
+        "setup-is-complete": "設定完成",
+        "no-data": "無資料",
+        "device": "設備",
+        "os": "系統",
+        "list": "列表",
+        "display": "展開",
+        "hide": "隱藏",
+        "browser": "瀏覽器",
+        "referrer": "來源",
+        "fullpay-channel": "三方通道",
+        "show-qrcode": "QR code",
+        "dialog-add-title": "新增 {name}",
+        "dialog-edit-title": "修改 {name}",
+        "level-label": "組織層級",
+        "level-0": "公司",
+        "level-1": "加盟主",
+        "level-2": "大股東",
+        "level-3": "股東",
+        "level-4": "總代理",
+        "level-5": "代理",
+        "level-6": "會員",
+        "level-sub": "子帳號",
+        "level-member": "會員",
+        "col-member-parent": "上層代理",
+        "col-franchisee": "加盟商",
+        "col-enabled": "啟 / 停用",
+        "col-bank": "銀行卡",
+        "col-bet_amount": "存款流水",
+        "col-locked": "鎖定",
+        "col-ip-white": "白名單",
+        "col-committed-at": "送審時間",
+        "col-date": "日期",
+        "col-week": "星期",
+        "col-updated-at": "修改時間",
+        "col-finished-at": "完成時間",
+        "col-created-at": "建立時間",
+        "col-transaction-at": "出款時間",
+        "col-register-at": "註冊時間",
+        "col-deleted-at": "刪除時間",
+        "col-show-time": "顯示時間",
+        "col-editor": "修改人",
+        "col-creator": "創建人",
+        "col-operator": "操作人",
+        "col-options": "操作",
+        "col-percent": "佔成",
+        "col-remark": "備註",
+        "col-status": "狀態",
+        "col-ip": "IP",
+        "col-phone": "手機號碼",
+        "col-account-name": "帳號 / 名稱",
+        "col-loggedin": "登入資訊",
+        "col-loggedin-at": "登入時間",
+        "col-role": "角色",
+        "col-countryName": "國家",
+        "col-loggedin-errors": "失敗次數",
+        "all-franchisee": "所有加盟商",
+        "franchisee-label": "加盟商",
+        "col-multi_wallet": "平台點數",
+        "col-transform_log": "交易歷程",
+        "col-forthDialog": "四代組織",
+        "col-reset-lock": "全部歸零",
+        "col-last-summary": "會員備註",
+        "col-company": "公司名稱",
+        "col-game-platform": "平臺鎖定",
+        "col-short-link": "短網址",
+        "upgradeRank": "升等設定",
+        "start_at": "開始時間",
+        "end_at": "結束時間",
+        "change": "替換",
+        "fast-setting": "快速設定",
+        "giveUp": "已放棄",
+        "default": "預設",
+        "index-no-auth": "沒有首頁權限",
+        "bank": {
+            "name": "戶名",
+            "account": "帳戶",
+            "bank-name": "銀行名稱",
+            "branch-name": "分行名稱",
+            "status": {
+                "title": "狀態",
+                "create": "新增",
+                "modify": "修改",
+                "delete": "刪除"
+            },
+            "auto-pass": "自動通過"
+        },
+        "common": "共用",
+        "setting": {
+            "use-money-format": "使用貨幣格式"
+        },
+        "gender": {
+            "F": "女",
+            "M": "男",
+            "NA": "未設定"
+        },
+        "franchisee-options": {
+            "company-label": "公司專屬"
+        },
+        "year": "年",
+        "month": "月",
+        "week": {
+            "sunday": "日",
+            "monday": "一",
+            "tuesday": "二",
+            "wednesday": "三",
+            "thursday": "四",
+            "friday": "五",
+            "saturday": "六"
+        },
+        "minute": "分",
+        "seconds": "秒",
+        "alert": {
+            "info": "提醒",
+            "warning": "警告",
+            "error": "錯誤"
+        },
+        "wallet": "錢包",
+        "agent-wallet": {
+            "money": "可用點數",
+            "settlement": "結算金",
+            "betAmount": "流水量",
+            "deductionBetAmount": "回補流水量"
+        },
+        "member-wallet": {
+            "money": "點數",
+            "bonus": "紅利"
+        },
+        "agent-wallet-type": {
+            "edit-money": "可用點數修改(公司)",
+            "edit-settlement": "結算金修改(公司)",
+            "month-settlement": "月結入帳",
+            "month-settlement-from": "月結交收",
+            "undo-month-settlement": "撤消月結",
+            "undo-month-settlement-from": "撤消月結交收",
+            "give-member": "派點 - 會員",
+            "give-agent": "派點 - 代理",
+            "give-error": "派點 - 錯誤補點",
+            "take-back-member": "派點收回 - 會員",
+            "take-back-agent": "派點收回 - 代理",
+            "get-from-agent": "上層派點",
+            "get-from-error": "錯誤補點",
+            "be-taken-back-agent": "上層回收",
+            "be-taken-back-error": "錯誤回收",
+            "deposit-bank": "存款(銀行)",
+            "deposit-third": "存款(第三方)",
+            "money-to-settlement": "兌換結算金",
+            "settlement-to-money": "兌換可用點數",
+            "loan": "預借額度",
+            "compensatory": "官方核發 - 錯誤補點",
+            "settlement": "月結算"
+        },
+        "member-wallet-type": {
+            "all": "全部",
+            "be-taken-back-agent": "代理回收點數",
+            "be-taken-back-error": "錯誤回收",
+            "bet-completed": "注單完成",
+            "bet": "下注",
+            "bonus-to-money": "紅利轉點數",
+            "bonus": "分紅",
+            "commission": "抽傭結算",
+            "coupon": "優惠活動贈點",
+            "deposit-bank": "銀行存款",
+            "deposit-fee": "存款手續費",
+            "deposit-third": "第三方存款",
+            "edit-bonus": "公司補紅利點數",
+            "edit-money": "可用點數修改（公司）",
+            "error": "錯誤補點/收回",
+            "exchange": "紅利兌換",
+            "get-from-agent": "代理派點",
+            "get-from-error": "錯誤補點",
+            "get-or-be-taken-back": "收到點數/被收回",
+            "payin": "單錢包扣點數",
+            "payout": "單錢包加點數",
+            "prize": "彩金",
+            "reward": "點數轉現金",
+            "rollback": "注單重算",
+            "settle": "開獎",
+            "transfer-game": "點數轉出至遊戲",
+            "transfer-wallet": "點數轉回至平臺",
+            "undo-bonus": "撤消分紅",
+            "undo-water": "撤消退水",
+            "water": "退水",
+            "withdraw": "提款",
+            "withdraw-fee": "提款手續費",
+            "application-withdraw": "申請提款",
+            "locked-amount": "鎖定金額",
+            "edit-reward": "上層修改優惠活動贈點",
+            "withdraw-disapproved": "提款審核不通過",
+            "transaction-cancel": "取消出款",
+            "agent-edit-deposit": "代客儲值",
+            "agent-edit-deposit-rollback": "代客儲值收回",
+            "third-party-deposit": "第三方代儲值",
+            "third-party-deposit-rollback": "第三方代儲值收回",
+            "manual-edit-add": "人工增加額度",
+            "manual-edit-sub": "人工減少額度",
+            "activity-wallet-buy": "活動錢包",
+            "activity-wallet-disapprove": "活動錢包不通過",
+            "get-from-activity-wallet": "活動錢包轉回",
+            "activity-wallet-cancel": "取消已購買的活動錢包",
+            "lost-money-from-platform": "點數遺失補點"
+        },
+        "invalids": {
+            "required": "此為必填欄位",
+            "confirm-password-invalid": "兩次密碼不相同",
+            "franchisee-required": "請選擇加盟商"
+        },
+        "review-status": {
+            "approved": "已通過",
+            "disapproved": "不通過",
+            "review": "審核中",
+            "cancel": "取消",
+            "pending": "未送審",
+            "none": "未審核",
+            "transaction": {
+                "completed": "已出款",
+                "none": "未出款",
+                "error": "出款失敗",
+                "transaction-cancel": "取消出款",
+                "manual-transaction": "已手動出款"
+            }
+        },
+        "report-status": {
+            "completed": "已結算",
+            "error": "注單錯誤",
+            "cancel": "已取消",
+            "betting": "下注中",
+            "settle": "已開獎",
+            "rollback": "回滾",
+            "invalid": "無效"
+        },
+        "carousel": {
+            "position": {
+                "web-home": "web / 首頁",
+                "web-slot": "web / slot 頁面",
+                "mobile-home": "mobile / 首頁",
+                "mobile-slot": "mobile / slot頁面"
+            },
+            "link-type": {
+                "none": "無轉頁",
+                "link": "連結",
+                "game": "遊戲",
+                "coupon": "優惠"
+            }
+        },
+        "log-data-modify": {
+            "model": {
+                "Agent": "使用者/代理",
+                "Member": "會員",
+                "Marquee": "跑馬燈",
+                "Carousel": "輪播圖",
+                "MemberBank": "會員銀行卡",
+                "Franchisee": "加盟商",
+                "FranchiseePlatformConfig": "加盟商-遊戲平臺佔成",
+                "FranchiseePercentConfig": "加盟商-手續費佔成",
+                "AgentPlatformConfig": "代理組織-遊戲平臺佔成",
+                "AgentPercentConfig": "代理組織-手續費佔成",
+                "Bank": "公司銀行卡",
+                "Game": "遊戲",
+                "GamePlatform": "遊戲平臺",
+                "Role": "角色",
+                "RoleView": "角色-選單權限",
+                "RoleApi": "角色-API權限",
+                "Club": "俱樂部",
+                "ClubRank": "俱樂部層級",
+                "ClubRankConfig": "俱樂部層級-退水設定",
+                "InvitationHost": "推廣連結管理",
+                "QuestRewardCombine": "優惠活動"
+            },
+            "action": {
+                "updated": "更新資料",
+                "replace": "批次更新",
+                "created": "新增資料",
+                "deleted": "刪除資料"
+            }
+        }
+    },
+    "component": {
+        "move-invitation-code": {
+            "title": "轉移邀請碼",
+            "log": "操作紀錄",
+            "btn-move": "轉移",
+            "col-code": "邀請碼",
+            "col-from": "原本代理",
+            "col-to": "目前代理",
+            "col-operator": "操作者",
+            "col-created-at": "操作時間",
+            "confirm": "確認轉移邀請碼給 {name}【{account}】？"
+        },
+        "app-header": {
+            "franchisee-label": "加盟商",
+            "role-label": "角色",
+            "user-label": "帳號 / 名稱",
+            "logout": "登出",
+            "btn-loan": "預借額度",
+            "language": "語系",
+            "loans": {
+                "title": "預借申請記錄",
+                "more-link": "更多記錄",
+                "col-committed-at": "提交日期",
+                "col-apply-amount": "申請額度",
+                "col-status": "狀態"
+            }
+        },
+        "app-menu": {
+            "title": "選單"
+        },
+        "socket": {
+            "socket-bar": {
+                "status": {
+                    "connected": "已連線",
+                    "connecting": "連線中",
+                    "disconnected": "斷線"
+                },
+                "online-agents": "控端人數",
+                "online-members": "會員人數",
+                "base-members": "基本人數",
+                "min-base-members": "最低基本人數",
+                "max-base-members": "最高基本人數",
+                "more": "更多",
+                "refresh-online": "刷新",
+                "edit-base-member-propmpt": "修改會員在線基本人數",
+                "invalids": {
+                    "number-only": "必需為數字",
+                    "positive-intege-only": "必需為正整數"
+                }
+            },
+            "review-notification-bar": {
+                "agent-group": "代理",
+                "member-group": "會員",
+                "badge-label": {
+                    "bank-limit": "銀行帳戶限額",
+                    "bank-limit-short": "銀",
+                    "agent-compensatory": "錯誤補點",
+                    "agent-compensatory-short": "補",
+                    "agent-loan": "代理預借",
+                    "agent-loan-short": "借",
+                    "member-register": "會員註冊",
+                    "member-register-short": "註",
+                    "member-deposit": "會員存款",
+                    "member-deposit-short": "存",
+                    "member-information": "資料修改",
+                    "member-information-short": "資",
+                    "member-withdraw": "會員提款",
+                    "member-withdraw-short": "提",
+                    "member-bank": "銀行卡申請",
+                    "member-bank-short": "卡",
+                    "letter-message": "站內信訊息",
+                    "letter-message-short": "信",
+                    "member-quest": "會員任務",
+                    "member-quest-short": "任",
+                    "member-transaction": "會員出款",
+                    "member-transaction-short": "款",
+                    "agent-edit-deposit": "代客儲值",
+                    "agent-edit-deposit-short": "代",
+                    "agent-third-deposit": "第三方代儲值",
+                    "agent-third-deposit-short": "三",
+                    "member-activity-wallet": "活動錢包",
+                    "member-activity-wallet-short": "活",
+                    "path-limit": "三方通道限額",
+                    "path-limit-short": "通"
+                }
+            },
+            "online-dialog": {
+                "title": "更多資訊",
+                "refresh": "刷新",
+                "col": {
+                    "name": "加盟商",
+                    "agents": "控端人數",
+                    "members": "會員人數",
+                    "base": "基本人數",
+                    "sum": "人數加總"
+                }
+            },
+            "online-agents-dialog": {
+                "title": "在線控端成員列表",
+                "col": {
+                    "id": "編號",
+                    "ip": "IP",
+                    "login-at": "登入時間",
+                    "account-name": "帳號 / 名稱",
+                    "role-rank": "角色 (階層)",
+                    "token": "Session",
+                    "level": "層級",
+                    "num-connections": "連線數"
+                },
+                "logout": "登出",
+                "confirm-logout-user": "確定要將 {name} 強制登出？"
+            },
+            "online-members-dialog": {
+                "title": "在線會員列表",
+                "col": {
+                    "id": "編號",
+                    "account-name": "帳號 / 名稱",
+                    "token": "Session",
+                    "ip": "IP",
+                    "login-at": "登入時間"
+                },
+                "logout": "登出",
+                "confirm-logout-user": "確定要將 {name} 強制登出？"
+            }
+        },
+        "notify": {
+            "title": {
+                "info": "提醒",
+                "success": "成功",
+                "warning": "警告",
+                "error": "錯誤"
+            }
+        },
+        "announcement": {
+            "list": {
+                "dialog-name": "進板公告",
+                "title": "標題",
+                "show-time": "顯示時間",
+                "no-limit": "無限制",
+                "updatedAt": "修改時間",
+                "createdAt": "建立時間",
+                "add": "新增"
+            },
+            "edit": {
+                "dialog-name-add": "新增公告",
+                "dialog-name-edit": "修改公告",
+                "title": "標題",
+                "content": "內容",
+                "start-at": "開始時間",
+                "end-at": "結束時間",
+                "visable": "是否可視",
+                "sendAll": "發送全部"
+            }
+        },
+        "old-system-transfer-log": {
+            "list":{
+                "title": "會員轉移紀錄(手機異動)",
+                "account": "會員帳號",
+                "phone": "手機號碼",
+                "phone_old": "舊手機號碼",
+                "transfer_at": "轉移時間"
+            }
+        },
+        "common": {
+            "status-setting": {
+                "status-setting": "設定狀態",
+                "enabled-status": "啟用狀態",
+                "locked-status": "鎖定狀態",
+                "is-activity-wallet": "是否啟用活動錢包"
+            },
+            "testing-setting": {
+                "testing-setting": "測試狀態",
+                "enable-testing": "啟用測試"
+            },
+            "time": {
+                "createdAt": "建立時間",
+                "updatedAt": "修改時間",
+                "startTime": "開始時間",
+                "startTimeLimit": "開始時間不限制",
+                "endTime": "結束時間",
+                "endTimeLimit": "結束時間不限制",
+                "showTime": "顯示時間"
+            },
+            "ip-whitelist-dialog": {
+                "title": "IP 白名單",
+                "input-ip-label": "請輸入 ip"
+            },
+            "franchisee-select": {
+                "label": "加盟商",
+                "no-select": "請選擇加盟商"
+            },
+            "wallet-operate-dialog": {
+                "no-select": "請選擇交易類型",
+                "mode-give": "派點",
+                "mode-take-back": "收回",
+                "mode-edit-add": "增加額度",
+                "mode-edit-sub": "減少額度",
+                "mode-manual-edit-add": "人工增加額度",
+                "mode-manual-edit-sub": "人工減少額度",
+                "mode-give-error": "錯誤補點",
+                "mode-take-back-error": "錯誤收回",
+                "mode-loan": "預借額度",
+                "mode-write-off-in": "交收(收款)",
+                "mode-write-off-out": "交收(出款)",
+                "mode-add-reward": "增加優惠活動贈點",
+                "mode-sub-reward": "減少優惠活動贈點",
+                "mode-add-deposit": "代客儲值",
+                "mode-third-deposit": "第三方代儲值",
+                "mode-lost-money-from-platform": "點數遺失補點",
+                "target": "對象",
+                "target-amount": "對象額度",
+                "user-amount": "您的額度",
+                "label-money": "可用點數",
+                "label-settlement": "結算金",
+                "remark-label": "備註",
+                "explain-label": "原因/說明",
+                "transaction-at": "匯款時間",
+                "transaction-id": "存款帳號末5碼",
+                "select-lost-money-from-platform": "轉回的平臺名稱",
+                "invalid": {
+                    "user-money-insufficient": "您的餘額不足",
+                    "can-not-zero": "不得為零",
+                    "required": "此為必填"
+                },
+                "description": {
+                    "edit-add": "增加對象「{target}」的額度，不會影響您的可用點數額",
+                    "edit-sub": "減沙對象「{target}」的額度，不會影響您的可用點數額",
+                    "give": "扣除您的「可用點數額」來派給對象「{target}」 (PS: 必需有足夠的可用點數)。",
+                    "take-back": "從對象對象「{target}」收回額度至您的「可用點數額」 (PS: 對象必需有足夠的可用點數)。",
+                    "give-error": "因系統錯誤造成點數不正確，由公司審核後該額度，再將補發點數給對象。",
+                    "take-back-error": "因系統錯誤造成點數不正確，將該點數回收給公司處理。(PS: 回收的點數不會計入您的錢包)",
+                    "loan": "預借額度給指定的「加盟成員」，並在「結算金」中增加預借的負債。",
+                    "write-off-in": "交收/收款，從對象的「結算金」收回額度並累計到自己的「結算金」中。",
+                    "write-off-out": "交收/付款，從對象的「結算金」收回額度並累計到自己的「結算金」中。",
+                    "add-reward": "增加對象「{target}」的優惠活動贈點",
+                    "sub-reward": "減少對象「{target}」的優惠活動贈點",
+                    "add-deposit": "增加對象「{target}」的存款額度，不會影響您的可用點數額",
+                    "third-party-deposit": "增加對象「{target}」的存款額度，不會影響您的可用點數額",
+                    "manual-edit-add": "增加對象「{target}」的額度，不會影響您的可用點數額，備註為必填",
+                    "manual-edit-sub": "減沙對象「{target}」的額度，不會影響您的可用點數額，備註為必填",
+                    "lost-money-from-platform": "增加對象「{target}」的額度，點數遺失補點"
+                }
+            },
+            "edit-password-dialog": {
+                "title": "修改密碼",
+                "target": "對象",
+                "old-password": "舊密碼",
+                "new-password": "新密碼",
+                "confirm-password": "確認密碼"
+            },
+            "invite-host-dialog": {
+                "title": "邀請連結",
+                "invite-code": "邀請碼"
+            }
+        },
+        "role": {
+            "role-edit-dialog": {
+                "title-edit": "修改角色",
+                "title-add": "新增角色",
+                "name": "角色名稱",
+                "rank": "角色層級",
+                "level": "使用階級",
+                "level-0": "公司",
+                "level-1": "加盟主",
+                "level-2": "大股東",
+                "level-3": "股東",
+                "level-4": "總代理",
+                "level-5": "代理",
+                "status": "狀態設定",
+                "common-status": "共用狀態",
+                "enabled-status": "啟用狀態",
+                "full-ip-status": "檢視完整 IP",
+                "full-info-status": "檢視完整資訊",
+                "rank-tip": "階級大的角色可操作階級低的角色設定(越接近 0, 階級越大)。"
+            },
+            "role-authority-dialog": {
+                "title": "【{name}】角色權限",
+                "filter-only": "篩選狀態",
+                "filter-keyword": "關鍵字",
+                "copy-role-auth": "套用角色權限",
+                "btn-display-detail": "顯示群組底下 apis",
+                "query": {
+                    "checked": "已啟用",
+                    "unchecked": "未啟用",
+                    "allowed": "可管理"
+                },
+                "checkbox": {
+                    "list": "列表",
+                    "add": "新增",
+                    "edit": "編輯",
+                    "delete": "刪除",
+                    "member-add": "會員-新增成員",
+                    "member-edit": "會員-編輯",
+                    "member-destroy": "會員-註銷",
+                    "member-password": "會員-修改密碼",
+                    "member-platform": "會員-平台帳號",
+                    "member-log": "會員-交易歷程",
+                    "member-bank": "會員-銀行卡",
+                    "member-bet-amount": "會員-存款流水",
+                    "member-quest": "會員-優惠",
+                    "member-game-platform": "會員-平台點數",
+                    "member-forth-gen-org": "會員-四代組織",
+                    "member-reset-lock-money": "會員-全部歸零",
+                    "member-summary": "會員-備註",
+                    "member-transfer-old": "會員-手動轉移",
+                    "mamber-activity-wallet": "會員-活動錢包",
+                    "member-bank-group": "會員-帳戶群組",
+                    "agent-add": "代理-新增成員",
+                    "agent-move-invitation-code": "代理-轉移邀請碼",
+                    "agent-invitation": "代理-推廣連結",
+                    "member-edit-money": "會員-增加/減少額度",
+                    "member-manual-edit-money": "會員-人工增加/減少額度",
+                    "member-edit-bonus": "會員-公司補紅利點數",
+                    "member-give": "會員-派點",
+                    "member-take-back": "會員-收回",
+                    "member-give-error": "會員-錯誤補點",
+                    "member-take-back-error": "會員-錯誤收回",
+                    "member-edit-reward": "會員-增加/減少優惠活動贈點",
+                    "member-add-deposit": "會員-代客儲值",
+                    "member-third-party-deposit": "會員-第三方代儲值",
+                    "member-loan": "會員-預借額度",
+                    "member-fullpay-channel": "會員-三方通道",
+                    "member-locked-game-platform": "會員-平臺鎖定",
+                    "member-confirm-data": "會員-手動驗證",
+                    "agent-sub-list": "子帳號-列表",
+                    "agent-sub-add": "子帳號-新增",
+                    "agent-sub-edit": "子帳號-編輯",
+                    "agent-edit-money": "代理-修改點數相關",
+                    "socket-bank-group-fullpay": "通知-三方通道限額",
+                    "socket-bank-limit": "通知-銀行帳戶限額",
+                    "member-lost-money-from-platform": "會員-點數遺失補點",
+                    "member-toggle-enabled": "會員-啟停用",
+                    "member-toggle-locked": "會員-鎖定",
+                    "member-reset-login-error": "會員-重置登入錯誤",
+                    "member-info": "會員-個人資料",
+                    "logger-third-deposit-manual": "第三方手動通過",
+                    "old-transfer-member": "會員轉移資訊",
+                    "link-365": "成數-365",
+                    "link-sg": "成數-SG"
+                }
+            },
+            "role-authority-tree": {
+                "default-group-name": "其它"
+            }
+        },
+        "company": {
+            "company-edit-dialog": {
+                "account": "帳號",
+                "password": "密碼",
+                "name": "名稱",
+                "title-edit": "修改公司",
+                "title-add": "新增公司",
+                "role-options": "角色權限"
+            }
+        },
+        "franchisee": {
+            "franchisee-edit-dialog": {
+                "title-add": "新增加盟商",
+                "title-edit": "修改加盟商",
+                "name": "加盟商名稱",
+                "host": "官網host",
+                "add-host": "新增host",
+                "default-agent": "預設代理",
+                "default-club-rank": "預設俱樂部層級",
+                "resetLock": "歸零 (當會員點數低於此時鎖定金額歸零)",
+                "resetLockActTrue": "啟用",
+                "resetLockActFalse": "不啟用",
+                "fullpayCrtPath": "FP認證位置",
+                "fullpayId": "FP ID",
+                "fullpayManageUrl": "FP 管理位置",
+                "fullpayServerUrl": "FP 連線位置",
+                "default-bank-group": "預設帳戶群組",
+                "member-fullpay-mode": "三方通道只查上層",
+                "paymentFlowMode": "金流管理模式",
+                "handIn": "上繳",
+                "agentTake": "下放",
+                "reviewWithdrawSingleStep": "合併提款跟出款步驟",
+                "member-mode": "會員四代模式"
+            },
+            "franchisee-config-dialog": {
+                "title": "各項佔成設定",
+                "name": "名稱",
+                "agent": "代理線名稱",
+                "default-percent": "預設佔成比",
+                "real-percent": "佔 {value} %",
+                "fee-percent": "手續費佔成比(%)",
+                "fee-enabled": "啟用手續費設定",
+                "coupon-percent": "優惠佔成比(%)",
+                "commission-percent": "退佣佔成比(%)",
+                "coupon-enabled": "啟用優惠設定",
+                "fast-setting": "快速設定",
+                "game-platform": "遊戲平臺",
+                "percent": "佔成比(%)",
+                "water-percent": "代理退水(%)",
+                "bonus-percent": "代理紅利(%)",
+                "member-bonus": "會員紅利(四代循環)",
+                "allocate-agent-water-percent": "提撥比(%)",
+                "allocate-agent-bonus-percent": "提撥比(%)",
+                "allocate-member-bonus-percent": "提撥比(%)",
+                "member-upper-3-bonus-percent": "上3層佔比(%)",
+                "member-upper-2-bonus-percent": "上2層佔比(%)",
+                "member-upper-1-bonus-percent": "上1層佔比(%)",
+                "exists": "(未設定)"
+            },
+            "franchisee-commission-dialog": {
+                "title": "退佣設定",
+                "is-open": "是否啟用",
+                "real-percent": "佔 {value} %",
+                "allocate-agent-water-percent": "提撥比(%)"
+            },
+            "franchisee-ration-dialog": {
+                "title": "自動派發",
+                "name": "名稱",
+                "agent": "代理線名稱"
+            },
+            "franchisee-ration-edit-dialog": {
+                "autoBonus": "自動紅利派發",
+                "autoBonusAt": "派發時間",
+                "enable": "啟用",
+                "disable": "不啟用"
+            },
+            "clubRankWater": {
+                "title": "自動退水",
+                "autoBonus": "自動派發紅利",
+                "autoBonusAt": "派發時間",
+                "enable": "啟用",
+                "name": "俱樂部",
+                "autoWater": "自動派發退水",
+                "autoWaterAt": "派發時間",
+                "disable": "不啟用"
+            }
+        },
+        "marquee": {
+            "marquee-edit-dialog": {
+                "title-add": "新增跑馬燈",
+                "title-edit": "修改跑馬燈",
+                "franchisee": "加盟商",
+                "suitable": {
+                    "label": "站臺",
+                    "agent": "控端",
+                    "member": "會員端"
+                },
+                "type": {
+                    "label": "類型",
+                    "normal": "一般",
+                    "hot": "熱門",
+                    "deposit": "存款專區"
+                },
+                "content": "跑馬燈內容",
+                "time-range": {
+                    "label": "時間區間",
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "invalids": {
+                    "required": "此為必填",
+                    "must-over-start-time": "必需大於啟始時間"
+                }
+            }
+        },
+        "carousel": {
+            "carousel-edit-dialog": {
+                "title-add": "新增輪播圖",
+                "title-edit": "修改輪播圖",
+                "franchisee": "加盟商",
+                "position": "選擇位置",
+                "link-type": "轉頁類型",
+                "name": "名稱",
+                "order": "排序",
+                "image": "圖片上傳",
+                "mobile-image": "手機圖片上傳",
+                "click-upload": "點擊選擇圖片",
+                "showOrgImg": "檢視原始圖檔",
+                "link": "連結網址",
+                "platform": "遊戲所屬平臺",
+                "game": "選擇遊戲",
+                "coupon": "選擇優惠",
+                "time-range": {
+                    "label": "時間區間",
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                }
+            }
+        },
+        "api": {
+            "api-edit-dialog": {
+                "remark-label": "備註 / 名稱",
+                "view-label": "綁定頁面",
+                "group-name-label": "群組名稱",
+                "path-label": "api 路徑",
+                "no-select-view": "請選擇綁定頁面",
+                "filter-label": "過濾路徑"
+            }
+        },
+        "agent": {
+            "agent-list": {
+                "type-agent": "組織成員",
+                "type-sub-agent": "子帳號",
+                "type-member": "會員",
+                "edit-percent": "佔成",
+                "go-365": "佔成365",
+                "percent-setting": "個人成數設定:",
+                "go-sg": "佔成SG",
+                "col": {
+                    "parent": "上層",
+                    "account-name": "帳號 / 名稱",
+                    "role": "角色",
+                    "children": "下層",
+                    "sub-agent": "子帳號",
+                    "wallets": "可用點數 / 結算金",
+                    "status": "狀態 / 鎖定 / 白名單",
+                    "member-money-total": "會員餘額",
+                    "member-number-total": "會員人數",
+                    "loggedin": "登入資訊",
+                    "editor": "修改者",
+                    "invitation-code": "邀請碼"
+                },
+                "member-money-total": "會員總額度",
+                "member-number-total": "會員總人數",
+                "confirm-reset-error-count": "確定重設 {account}【{name}】成員的登入錯誤次數？"
+            },
+            "agent-fullpay-channel": {
+                "title": "第三方金流 通道管理",
+                "channel": "通道",
+                "bankGroup": "帳戶群組",
+                "confirm-msg": "異動 {account}【{name}】成員的通道 將自動拔除底下所有成員 不該具有的通道!!!",
+                "inherit": "繼承於："
+            },
+            "sub-agent-list": {
+                "subRole": "子帳號角色管理",
+                "col": {
+                    "extend": "繼承",
+                    "account-name": "帳號 / 名稱",
+                    "role": "角色",
+                    "children": "下層",
+                    "sub-agent": "子帳號",
+                    "status": "狀態 / 白名單",
+                    "loggedin": "登入資訊",
+                    "editor": "修改者"
+                },
+                "dialog": {
+                    "title": "子帳號角色管理"
+                }
+            },
+            "agent-edit-dialog": {
+                "title-add": "新增成員",
+                "title-edit": "修改成員",
+                "account": "帳號",
+                "password": "密碼",
+                "confirm-password": "確認密碼",
+                "name": "名稱",
+                "role": "帳號角色",
+                "parent": "上層成員",
+                "no-select-rule": "請選擇角色",
+                "invalids": {
+                    "confirm-password-invalid": "兩次密碼不相同"
+                },
+                "line-id": "Line ID",
+                "line-link": "Line連結"
+            },
+            "agent-percent-dialog": {
+                "title": "各項佔成設定",
+                "fee-percent": "手續費佔成比(%)",
+                "commission-percent": "退佣佔成比(%)",
+                "coupon-percent": "優惠佔成比(%)",
+                "upper-limit": "上限 {value} %",
+                "parent-percent": "上層 {value} %",
+                "fast-setting": "快速設定",
+                "game-platform": "遊戲平臺",
+                "percent": "佔成比(%)",
+                "water-percent": "退水佔成比(%)",
+                "bonus-percent": "紅利佔成比(%)",
+                "no-setting": "(未設定)",
+                "confirm-save": "如超出的佔成比將以上限為準,請問確定送出嗎?"
+            },
+            "agent-wallet-list": {
+                "type-options": {
+                    "deposit": "存款",
+                    "widthdraw": "提款",
+                    "edit": "公司修改",
+                    "give-take-back": "派點/收回",
+                    "get-or-be-taken-back": "收到點數/被收回",
+                    "error": "錯誤補點/收回",
+                    "exchange": "兌換結算/可用點數",
+                    "loan-write-off": "預借 / 交收"
+
+                }
+            },
+            "agent-wallet-dialog": {
+                "account": "會員帳號",
+                "title": "交易記錄",
+                "col-type": "交易類型",
+                "col-settlement": "結算金",
+                "col-money": "可用點數",
+                "col-change": "異動額",
+                "col-result": "異動後",
+                "col-editor": "操作人",
+                "col-platform-name": "遊戲平台",
+                "give": "派點",
+                "take-back": "收回",
+                "edit": "修改",
+                "edit-money-title": "可用點數修改",
+                "edit-settlement-title": "結算金修改"
+            },
+            "agent-loan-dialog": {
+                "title": "預借額度",
+                "label-loan-amount": "預借的額度",
+                "message-confirm-loan": "確定要預借 {amount} 額度？ (預借的額度將會算在「結算金」的成本)"
+            },
+            "sub-agent-edit-dialog": {
+                "extend": "繼承",
+                "title-add": "新增子帳號",
+                "title-edit": "修改子帳號",
+                "account": "帳號",
+                "password": "密碼",
+                "confirm-password": "確認密碼",
+                "name": "名稱",
+                "role": "帳號角色",
+                "no-select-rule": "請選擇角色",
+                "invalids": {
+                    "confirm-password-invalid": "兩次密碼不相同"
+                }
+            }
+        },
+        "review": {
+            "review-list": {
+                "col-applicate": "申請人",
+                "col-serial-num": "編號",
+                "col-review-role": "審核角色",
+                "col-status": "審核狀態",
+                "col-committed-at": "送審時間",
+                "col-finished-at": "完成時間",
+                "btn-review": "審核",
+                "btn-record": "紀錄",
+                "operator": "操作者",
+                "col-committed-pass-at": "審核通過時間",
+                "col-transaction-at": "出款時間",
+                "manual": "手動通過",
+                "col-pass": "快速通過"
+            },
+            "review-search-bar": {
+                "label-status": "審核狀態",
+                "label-club-rank": "俱樂部層級",
+                "label-member-account": "會員帳號",
+                "label-apply-account": "申請人帳號",
+                "label-review-account": "最後審核角色",
+                "label-exclude-tester": "排除測試帳號",
+                "label-only-tester": "只有測試帳號",
+                "time-range": {
+                    "label": "時間區間",
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "money-range": {
+                    "label-deposit": "存款額度範圍",
+                    "label-withdraw": "提款金額範圍",
+                    "label-compensatory": "申請金額範圍",
+                    "to": "至",
+                    "min": "最小金額",
+                    "max": "最大金額"
+                },
+                "invalid-money": "金額有誤，最小金額 {min}，最大金額 {max}",
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本週",
+                "last-week": "上週",
+                "this-month": "本月",
+                "last-month": "上月",
+                "transaction-status-options": {
+                    "none": "未出款",
+                    "pending": "出款中",
+                    "completed": "已出款",
+                    "error": "出款失敗",
+                    "transaction-cancel": "取消出款",
+                    "transaction-manual": "已手動出款"
+                },
+                "total-money": "實際總額度",
+                "total-apply-money": "申請提款總額度",
+                "total-withdraw-fee": "總提款手續費",
+                "total-deposit-fee": "總手續費",
+                "total-deposit-apply-money": "申請存款總額度",
+                "total-number": "總筆數"
+            },
+            "review-dialog": {
+                "title": "審核資料",
+                "record-title": "審核紀錄",
+                "record-title-change": "審核紀錄(只顯示更動欄位)",
+                "record-title-auto": "審核紀錄(自動通過)",
+                "label-review-options": "審核選項",
+                "label-reason": "不通過原因",
+                "label-remark": "備註",
+                "label-bet-amount": "流水量",
+                "btn-approve": "通過",
+                "btn-disapprove": "不通過",
+                "btn-rollback-detail": "回滾任務",
+                "btn-reset-detail": "重置任務",
+                "btn-none": "請選擇",
+                "cheated": "是否有作弊",
+                "has-cheated": "有作弊",
+                "not-has-cheated": "沒作弊",
+                "deductionBetAmount": "被扣除流水",
+                "btn-before-change": "更動前",
+                "btn-change": "更改項目",
+                "transaction-record-title": "出款紀錄",
+                "withdraw-detail": "審核細項",
+                "withdrawFee": "提款手續費",
+                "manual-remark": "手動通過原因(必填)"
+            },
+            "review-steps-dialog": {
+                "title": "審核狀態",
+                "step": "第 {step} 步驟",
+                "auto-pass": "自動通過",
+                "col-step": "步驟",
+                "col-reviewer": "審核人",
+                "col-applicate": "申請人",
+                "col-status": "審核狀態",
+                "col-review-at": "審核時間",
+                "col-trans-reviewer": "出款人",
+                "col-trans-status": "出款狀態",
+                "col-trans-review-at": "出款時間",
+                "trans-title": "出款"
+            },
+            "transaction-dialog": {
+                "title": "出款",
+                "fee": "手續費",
+                "type": "付款方式",
+                "payer-name": "出款人戶名",
+                "payer-account": "出款銀行帳號",
+                "payer-bank-name": "出款銀行名稱",
+                "payer-branch-name": "出款分行",
+                "transaction-id": "交易序號",
+                "transaction-at": "交易時間",
+                "withdraw-id": "第三方代付平臺",
+                "bank-account-name": "收款人戶名",
+                "bank-name": "收款人銀行名稱",
+                "bank-code": "收款人銀行代碼",
+                "bank-branch-name": "收款人分行名稱",
+                "bank-branch-code": "收款人分行代碼",
+                "bank-province-name": "收款人省份名稱",
+                "bank-province-code": "收款人省份代碼",
+                "bank-city-name": "收款人城市名稱",
+                "bank-city-code": "收款人城市代碼",
+                "select-bank": "選擇付款銀行帳號",
+                "select-third": "選擇第三方支付平臺",
+                "withdrawFee": "提款手續費",
+                "cancel": "取消出款",
+                "cancel-notice": "取消出款原因(取消出款必填)",
+                "manual-transaction": "手動出款"
+            },
+            "report-col": {
+                "game-id": "遊戲編號",
+                "type": "遊戲類型",
+                "mid": "注單主編號",
+                "franchisee-name": "加盟商",
+                "round": "局號",
+                "table": "桌號",
+                "status": "注單狀態",
+                "bet-amount": "下注額度",
+                "valid-amount": "有效注額",
+                "water-amount": "會員退水",
+                "win-amount": "中獎金額",
+                "prize": "彩金",
+                "num-settles": "開獎次數",
+                "report-at": "報表時間"
+            },
+            "review-type-key": {
+                "AgentCompensatory": "錯誤補償與回收",
+                "AgentCoupon": "代理申請優惠",
+                "AgentDepositBank": "代理銀行存款",
+                "AgentEditDeposit": "代客儲值",
+                "AgentLoan": "預借額度",
+                "AgentSettlement": "代理月結額度",
+                "MemberActivityWallet": "活動錢包",
+                "MemberBank": "會員銀行卡",
+                "MemberCoupon": "會員優惠申請",
+                "MemberDepositBank": "會員存款",
+                "MemberInformation": "會員資料修改",
+                "MemberQuest": "會員任務",
+                "MemberRegister": "會員註冊",
+                "MemberTransaction": "會員出款",
+                "MemberWithdraw": "會員提款",
+                "ThirdPartyDeposit": "第三方代儲值"
+            }
+        },
+        "member": {
+            "info": "會員基本資料",
+            "member-forth-dialog": {
+                "upper-member-1": "上一層",
+                "upper-member-2": "上二層",
+                "upper-member-3": "上三層",
+                "lower-member-1": "下一層",
+                "lower-member-2": "下二層",
+                "lower-member-3": "下三層",
+                "level": "層級",
+                "member": "成員",
+                "account": "帳號"
+            },
+            "member-list": {
+                "col": {
+                    "parent": "上層",
+                    "account-name": "帳號 / 名稱",
+                    "wallets": "可用點數 / 紅利",
+                    "status": "狀態 / 鎖定",
+                    "loggedin": "登入資訊",
+                    "editor": "修改者",
+                    "tags": "標籤",
+                    "club-rank": "俱樂部層級",
+                    "invitation-code": "邀請碼"
+                },
+                "active-setting": "平臺帳號",
+                "edit-bank": "銀行卡",
+                "edit-member": "編輯會員",
+                "confirm-reset-error-count": "確定重設 {account}【{name}】成員的登入錯誤次數？",
+                "bank-and-phone-confirm": "手動驗證",
+                "manual-transfer-confirm": "手動轉移",
+                "check-manual-transfer-confirm": "是否確認手動轉移",
+                "check-manual-transfer-confirm-success": "手動轉移成功",
+                "check-manual-transfer-confirm-failed": "手動轉移失敗",
+                "destroy": "已註銷"
+            },
+            "member-edit-dialog": {
+                "parent": "上層代理",
+                "title-add": "新增會員",
+                "title-edit": "修改會員",
+                "account": "帳號",
+                "password": "密碼",
+                "confirm-password": "確認密碼",
+                "name": "名稱",
+                "phone": "電話",
+                "club-rank": "俱樂部層級",
+                "gender": "性別",
+                "email": "Email",
+                "qq": "QQ",
+                "wechat": "微信",
+                "weibo": "微博",
+                "birth": "生日",
+                "nickname": "暱稱",
+                "address": "地址",
+                "line": "Line",
+                "btn-destroy": "註銷",
+                "more": "更多設定",
+                "confirm-destroy-phone": "確定註銷 {account}【{name}】成員的電話?",
+                "confirm-club-change": "此處修改會員層級不會重計流水, 是否確認?"
+            },
+            "member-tag-dialog": {
+                "title": "會員標籤管理",
+                "tag-default-name": "新標籤",
+                "confirm-delete-tag": "確定要刪除標籤 {name} ？ (會員標記的此標籤類型也會一併刪除)",
+                "member": "會員",
+                "new-tag": "新增標籤"
+            },
+            "member-search-dialog": {
+                "title": "搜尋帳號"
+            },
+            "member-bank-dialog": {
+                "title": "會員 {name} 銀行卡管理",
+                "sub-title-add": "新增銀行卡",
+                "sub-title-edit": "修改銀行卡",
+                "name": "戶名",
+                "bank-account": "帳戶",
+                "bank-name": "銀行名稱",
+                "branch-name": "分行名稱",
+                "delete-bank": "刪除銀行卡",
+                "bank_code": "銀行代碼",
+                "confirm-delete-bank": "您確定要刪除 {bank} 銀行卡資料嗎？"
+            },
+            "member-bet-amount-log": {
+                "title": "會員 {name} 存款的流水紀錄",
+                "serial_num": "編號",
+                "type": "狀態",
+                "member_deposit": "會員存款",
+                "give": "派點",
+                "deduction_bet_amount": "回扣流水",
+                "take_back_agent": "派點收回 - 代理",
+                "compensatory": "補點",
+                "amount": "金額",
+                "bet_amount_multiple": "流水倍數",
+                "bet_amount_limit": "流水限制",
+                "bet_amount": "當下流水",
+                "is_unlock": "是否解鎖",
+                "created_at": "建立日期",
+                "col-editor": "操作人",
+                "remark": "備註",
+                "btn": "明細",
+                "locked": "鎖定金額",
+                "take-back": "收回",
+                "edit-add": "增加額度",
+                "edit-sub": "減少額度",
+                "give-error": "錯誤補點",
+                "take-back-error": "錯誤收回",
+                "add-reward": "增加優惠活動贈點",
+                "sub-reward": "減少優惠活動贈點",
+                "reward": "活動贈點",
+                "agent-edit-deposit": "代客儲值",
+                "third-party-deposit": "第三方代儲值",
+                "member-third-party-deposit": "第三方存款",
+                "manual-edit-add": "人工增加額度",
+                "manual-edit-sub": "人工減少額度",
+                "sub-agent-edit-deposit": "代客儲值回收",
+                "quest": "優惠活動鎖定流水",
+                "report_approval_water": "退水派發",
+                "report_approval_bonus": "紅利派發",
+                "lock_water": "未完成流水",
+                "unlock_amount": "可提資金",
+                "activity-wallet-record": "活動錢包紀錄",
+                "backfill": "回補",
+                "buy_activity_wallet": "購買活動錢包",
+                "cancel_buy_activity_wallet": "取消購買活動錢包",
+                "freeMoney": "可提領金額",
+                "confirm-msg":"確定強制歸零 {account}【{name}】成員的【{sn}】？"
+            },
+            "member-bet-amount-log-detail": {
+                "title": "注單明細",
+                "mid": "編號",
+                "deduction_bet_amount": "回扣流水總額",
+                "make_up_bet_amount": "回補流水總額",
+                "money": "金額",
+                "platform": "平臺",
+                "bet_amount_multiple": "流水倍數",
+                "created_at": "日期",
+                "type": "類型",
+                "backfill-title": "回補明細"
+            },
+            "member-bet-amount-log-modify": {
+                "title": "手動修改 流水紀錄[ 編號:{num} ]",
+                "status": "狀態",
+                "before": "修改前流水",
+                "after": "修改後流水",
+                "before_limit": "修改前流水限制",
+                "after_limit": "修改後流水限制",
+                "edit_input": "修改當下流水量:",
+                "edit_limit_input": "修改 流水限制:",
+                "created_at": "日期",
+                "reset_lock": "強制歸零",
+                "edit": "修改流水量",
+                "editor": "操作人"
+            },
+            "member-activity-wallet-mount-log": {
+                "title": "活動錢包點數交易歷程",
+                "status": {
+                    "mounted": "掛載",
+                    "unmounted": "卸載",
+                    "processing": "執行中"
+                },
+                "mount-at": "掛載時間",
+                "mount-amount": "掛載金額",
+                "unmount-at": "卸載時間",
+                "unmount-amount": "卸載金額",
+                "platform": "遊戲平臺",
+                "product": "活動錢包"
+            },
+            "member-transform-log": {
+                "title": "會員 {name} 交易歷程",
+                "type": {
+                    "title": "類型",
+                    "select-title": "交易類型",
+                    "platform-title": "遊戲平台",
+                    "total": "異動總計"
+                },
+                "time-range": {
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "id": "編號",
+                "last-bonus": "剩餘紅利",
+                "change-bonus": "變動紅利",
+                "last-money": "剩餘金額",
+                "change-money": "變動金額",
+                "remark": "備註",
+                "creator": "建立者",
+                "createdAt": "建立時間",
+                "no-remark": "無備註",
+                "gamePlatformName": "遊戲",
+                "activityWalletName": "活動錢包"
+            },
+            "member-wallet-dialog": {
+                "time-range": {
+                    "label": "時間區間",
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "transaction-not-yet": "(尚未出款)",
+                "transaction-already": "(已出款)",
+                "wallet-money": "可用點數",
+                "wallet-bonus": "紅利",
+                "title": "交易記錄",
+                "col-type": "交易類型",
+                "col-bonus": "紅利",
+                "col-money": "可用點數",
+                "col-change": "異動額",
+                "col-result": "結果",
+                "col-editor": "操作人",
+                "col-quest-name": "優惠名稱",
+                "give": "派點",
+                "take-back": "收回",
+                "edit": "修改",
+                "remark": "備註",
+                "order_id": "第三方存款訂單編號",
+                "reason": "不通過原因",
+                "type-options": {
+                    "deposit-or-withdraw": "存 / 提款",
+                    "bet": "遊戲操作",
+                    "edit": "公司修改",
+                    "get-or-be-taken-back": "收到點數/被收回",
+                    "error": "錯誤補點/收回",
+                    "exchange": "紅利兌換",
+                    "bonus": "分紅",
+                    "bet-completed": "結算",
+                    "payin": "轉入",
+                    "payout": "轉出",
+                    "coupon": "優惠活動贈點",
+                    "edit-reward": "上層修改優惠活動贈點",
+                    "disapproved": "審核不通過",
+                    "cancel": "取消出款",
+                    "agent-edit-deposit": "代客儲值",
+                    "agent-third-deposit": "第三方代儲值",
+                    "manual-edit-add": "人工增加額度",
+                    "manual-edit-sub": "人工減少額度",
+                    "lost-money-from-platform": "點數遺失補點"
+                },
+                "totalChangeMoneyAbs": "總異動額",
+                "totalChangeMoney": "異動加總",
+                "full-type-cates": {
+                    "bank": "存提相關",
+                    "bet": "投注相關 （單一錢包）",
+                    "wallet": "錢包相關 （多錢包）",
+                    "water": "紅利相關",
+                    "agent": "人員相關",
+                    "franchisee-agent": "組織線選擇"
+                },
+                "full-type-options": {
+                    "all": "全選",
+                    "cancelAll": "取消全選",
+                    "commission": "抽傭結算",
+                    "reward": "點數轉現金",
+                    "edit-bonus": "公司補點「紅利點數」",
+                    "deposit-bank": "存款 - 銀行轉帳",
+                    "deposit-fee": "存款手續費",
+                    "deposit-third": "存款 - 第三方",
+                    "withdraw": "提款",
+                    "get-from-agent": "代理派點",
+                    "be-taken-back-agent": "代理回收點數",
+                    "get-from-error": "錯誤補點",
+                    "be-taken-back-error": "錯誤點數回收",
+                    "edit-money": "公司補額度",
+                    "transfer-game": "會員轉點至遊戲",
+                    "transfer-wallet": "遊戲轉回錢包",
+                    "coupon": "領取優惠額度",
+                    "bet": "下注",
+                    "prize": "派彩",
+                    "settle": "開獎",
+                    "rollback": "回滾",
+                    "diviend": "分紅",
+                    "bet-completed": "注單完成",
+                    "water": "退水",
+                    "undo-water": "撤消退水",
+                    "bonus": "分紅",
+                    "undo-bonus": "撤消分紅",
+                    "payin": "遊戲商加點請求",
+                    "payout": "遊戲商扣點請求",
+                    "edit-reward": "上層修改優惠活動贈點",
+                    "agent-edit-deposit": "代客儲值",
+                    "agent-edit-deposit-rollback": "代客儲值收回",
+                    "agent-third-deposit": "第三方代儲值",
+                    "agent-third-deposit-rollback": "第三方代儲值收回",
+                    "third-party-deposit": "第三方代儲值",
+                    "third-party-deposit-rollback": "第三方代儲值收回",
+                    "manual-edit-add": "人工增加額度",
+                    "manual-edit-sub": "人工減少額度",
+                    "lost-money-from-platform": "點數遺失補點"
+                },
+                "edit-money-title": "可用點數修改",
+                "edit-bonus-title": "紅利修改"
+            },
+            "member-active-dialog": {
+                "title": "會員平臺設定",
+                "unactive": "未開通",
+                "is-fun": "測試版",
+                "col": {
+                    "platform-name": "平臺名稱",
+                    "player-id": "玩家 id",
+                    "loggined-at": "最後登入"
+                }
+            },
+            "member-multi-wallet-trans": {
+                "title": "會員 {name} 中心錢包",
+                "game-platform-key": "平臺代號",
+                "game-platform": "平臺名稱",
+                "balance": "餘額",
+                "option": "操作",
+                "trans-money": "金額",
+                "submit": "提交",
+                "confirm": "確認",
+                "deposit": "存入遊戲平臺",
+                "withdraw": "提出遊戲平臺",
+                "cancel": "取消",
+                "confirm_text": "確定送出嗎",
+                "money": "可用點數"
+            },
+            "member-quest-dialog": {
+                "title": "會員 {name} 的優惠列表",
+                "locked": "鎖定金額",
+                "col-cancel-log": "取消紀錄",
+                "col-diff-amount": "當前流水差額",
+                "btn-cancel": "取消",
+                "btn-unlock": "解鎖",
+                "confirm-msg":"異動 {account}【{name}】成員的【{quest}】 直接解鎖流水，點數不異動!!!",
+                "title-cancael-reward": "取消優惠贈點",
+                "forced-unlock": "強制解鎖流水，不異動點數",
+                "select": {
+                    "applied": "已申請",
+                    "cancel": "取消",
+                    "all": "全部"
+                },
+                "cancel-log": {
+                    "change_amount": "異動流水",
+                    "change_reward": "異動點數",
+                    "operator": "操作者",
+                    "created_at": "操作時間",
+                    "remark": "備註"
+                },
+                "status": {
+                    "pending": "-",
+                    "processing": "執行中",
+                    "completed": "達成",
+                    "claimed": "申請提領",
+                    "cancel": "已取消",
+                    "force-unlock": "強制解鎖"
+                },
+                "locked-money-status": {
+                    "locked": "鎖定中",
+                    "enabled": "可申請",
+                    "applied": "審核中",
+                    "unlock": "解鎖",
+                    "disapproved": "審核不通過"
+                }
+            },
+            "member-info-dialog": {
+                "title": {
+                    "login": "登入",
+                    "register": "註冊",
+                    "deposit": "充值",
+                    "re-deposit": "再次充值",
+                    "all-deposit": "總充值",
+                    "withdraw": "提現",
+                    "re-withdraw": "再次提現",
+                    "all-withdraw": "總提現"
+                },
+                "col": {
+                    "loggedin-at": "登入時間",
+                    "register-at": "註冊時間",
+                    "finished-at": "完成時間",
+                    "type": "交易類型",
+                    "money": "金額",
+                    "fee": "手續費"
+                }
+            },
+            "game-platform-dialog": {
+                "title": "鎖定遊戲平台管理",
+                "select": "鎖定的遊戲平台"
+            }
+        },
+        "gameType": {
+            "gameType-edit-dialog": {
+                "title-add": "新增遊戲類型",
+                "title-edit": "修改遊戲類型",
+                "type": "遊戲類型",
+                "name": "名稱"
+            }
+        },
+        "gameTag": {
+            "gameTag-edit-dialog": {
+                "title-add": "新增遊戲標籤",
+                "title-edit": "修改遊戲標籤",
+                "type": "遊戲類型",
+                "tag": "遊戲標籤",
+                "name": "標籤名稱"
+            }
+        },
+        "gamePlatform": {
+            "gamePlatform-edit-dialog": {
+                "title-add": "新增遊戲平臺",
+                "title-edit": "修改遊戲平臺",
+                "name": "平臺名稱",
+                "key": "平臺代號",
+                "setting-maintain": "例行維修時間",
+                "start-time": "例行維修起始時間",
+                "maintain-time": "例行維修時長(分鐘)",
+                "disposable-start-time": "臨時維修(單次)",
+                "disposable-maintain-time": "臨時維修時長(分鐘)(單次)",
+                "order": "順序",
+                "limit-member": "限制會員",
+                "query-member": "查詢會員",
+                "status-maintain": "臨時維修狀態",
+                "is-fun": "測試版",
+                "select-relation-platform": "請選擇關聯的正式遊戲平臺",
+                "namespace": "模組路徑",
+                "member-prefix": "會員帳號前綴",
+                "sync-report": "同步報表",
+                "sync-report-delay": "同步時間間隔",
+                "image": "平台列表用圖示",
+                "icon": "遊戲列表上面的平台ICON",
+                "pageBgImg": "平台頁面用的背景圖",
+                "indexImg": "首頁平台圖片",
+                "headerImg": "標頭下滑選單圖片",
+                "setting": "平臺參數",
+                "clickUpload": "點擊選擇圖片",
+                "showOrgImg": "檢視原始圖檔",
+                "whitelist": "白名單",
+                "jsonFormat": "格式化",
+                "placeholder": "請輸入內容",
+                "invalid": {
+                    "error-json": "不正確的 json 格式"
+                },
+                "hasApp": "是否有APP"
+            },
+            "limit-members-dialog": {
+                "title": "會員列表"
+            }
+        },
+        "game": {
+            "game-edit-dialog": {
+                "title-add": "新增遊戲",
+                "title-edit": "修改遊戲",
+                "id": "編號",
+                "platformName": "平臺名稱",
+                "type": "遊戲類型",
+                "name": {
+                    "en": "遊戲名稱(英)",
+                    "zh-tw": "遊戲名稱(繁)",
+                    "zh-cn": "遊戲名稱(簡)",
+                    "jp": "遊戲名稱(日)"
+                },
+                "code": {
+                    "code": "遊戲代號",
+                    "code-report": "報表代碼",
+                    "code-mobile": "mobile 代碼 (未填入時，啟動遊戲使用 code 編號)"
+                },
+                "game-hall": "遊戲廠商",
+                "status-maintain": "臨時維修狀態",
+                "image": "上傳圖片",
+                "clickUpload": "點擊選擇圖片",
+                "showOrgImg": "檢視原始圖檔",
+                "order": "順序",
+                "remark": "備註",
+                "tag": "遊戲標籤"
+            }
+        },
+        "letter": {
+            "sendListDialog": {
+                "title": "發送的會員列表",
+                "id": "公告id",
+                "account": "會員帳號",
+                "name": "會員姓名",
+                "readedAt": "已讀時間",
+                "removedAt": "刪除時間",
+                "add": "新增信件"
+            },
+            "letter-tag-edit-dialog": {
+                "tag-name": "標簽名稱"
+            },
+            "add-announcement-dialog": {
+                "title": "主旨",
+                "tag": "標籤",
+                "selectTag": "選擇標籤",
+                "content": "內容",
+                "selectAddressee": "選擇收件人",
+                "addressee-options": {
+                    "inputMemberAccount": "請輸入會員帳號",
+                    "inputAgentAccount": "請輸入代理帳號",
+                    "selectReceiver": "選擇收件人",
+                    "member": "會員",
+                    "memberTag": "會員標籤",
+                    "clubRank": "俱樂部層級",
+                    "agent": "代理",
+                    "registTime": "會員註冊時間",
+                    "registStartTime": "會員註冊時間(起)",
+                    "registEndTime": "會員註冊時間(迄)",
+                    "all": "全部會員",
+                    "submit": "提交",
+                    "selectAll": "全選",
+                    "selectDateTime": "選擇日期時間",
+                    "none": "不限制",
+                    "registAmount": "收信總人數為：{num}人"
+                }
+            },
+            "addMessageDialog": {
+                "newMessage": "新增訊息",
+                "receiver": "收信會員",
+                "title": "標題",
+                "content": "內容"
+            },
+            "replyMessageDialog": {
+                "replyMessage": "回覆訊息",
+                "from": "發信方",
+                "reply": "回覆"
+            }
+        },
+        "review-type": {
+            "review-type-step-dialog": {
+                "title": "可審核角色",
+                "label-name": "流程名稱",
+                "label-step": "審核角色",
+                "label-add-step": "新增步驟",
+                "label-review-role": "審核角色"
+            },
+            "review-type-notify-dialog": {
+                "title": "審核通知",
+                "label-name": "流程名稱",
+                "label-status": "通知條件",
+                "label-sms": "簡詢通知",
+                "label-letter-tag": "站內信通知",
+                "label-email": "Email通知",
+                "label-title": "標題",
+                "label-content": "內容",
+                "status": {
+                    "approved": "審核通過時",
+                    "disapproved": "審核不通過時",
+                    "transaction": "交易完成時",
+                    "transaction-cancel": "取消出款時"
+                },
+                "params": {
+                    "user-name": "申請人姓名",
+                    "user-account": "申請人帳號",
+                    "deposit-money": "存款金額",
+                    "withdraw-money": "提款金額",
+                    "coupon-name": "優惠名稱",
+                    "bank-username": "銀行戶名",
+                    "bank-account": "銀行帳號",
+                    "bank-name": "銀行名稱",
+                    "committed-at": "申請時間",
+                    "reason": "不通過原因",
+                    "reward": "優惠贈點",
+                    "quest-name": "優惠名稱"
+                }
+            }
+        },
+        "review-reason": {
+            "list": {
+                "reason": "不通過原因",
+                "reviewType": "審核頁面",
+                "confirm-delete": "確定要刪除此筆資料？"
+            },
+            "dialog": {
+                "add": "新增 不通過原因",
+                "edit": "修改 不通過原因"
+            }
+        },
+        "club": {
+            "club-edit-dialog": {
+                "title-add": "新增俱樂部",
+                "title-edit": "修改俱樂部",
+                "name": "俱樂部名稱",
+                "describe": "描述",
+                "remark": "備註",
+                "game-list": "遊戲清單",
+                "select-all": "全選",
+                "comment": "（如果沒得選，代表該加盟商已有俱樂部）"
+            },
+            "clubRank-edit-dialog": {
+                "title-add": "新增俱樂部層級",
+                "title-edit": "修改俱樂部層級",
+                "name": "層級名稱",
+                "depositPer": "每次存款額度",
+                "depositPerMax": "每次最高存款額度 (零代表無限)",
+                "depositPerMin": "每次最低存款額度 (零代表無限)",
+                "depositDayTimes": "每日存款次數上限 (零代表無限)",
+                "withdrawPer": "每次提款額度",
+                "withdrawPerMax": "每次最高提款額度 (零代表無限)",
+                "withdrawPerMin": "每次最低提款額度 (零代表無限)",
+                "withdrawDayTimes": "每日提款次數上限 (零代表無限)",
+                "order": "順序",
+                "setting-default": "預設層級",
+                "game-list": "遊戲清單",
+                "fast-setting": "快速設定",
+                "game-water-percent": "遊戲退水設定",
+                "fullpay": "金流設定",
+                "bankLimit": "設定銀行卡數量上限 (零代表無限)",
+                "withdrawFee": "提款手續費",
+                "withdrawFeePercent": "提款手續費(%)",
+                "withdrawFreeTimes": "免費提款次數上限",
+                "withdrawFeePeriod": "免費提款次數週期",
+                "withdrawFeeType": "提款手續費類型",
+                "fixed": "固定型",
+                "percent": "百分比型",
+                "month": "每月",
+                "day": "每日",
+                "week": "每周",
+                "withdraw-deposit-ok": "存提款設定",
+                "water-ok": "退水設定",
+                "bonus-limit": "紅利限額 (零代表無限)",
+                "water-limit": "返水限额 (零代表無限)",
+                "depositAccumulationPeriod": "存款限額週期(含三方)",
+                "withdrawAccumulationPeriod": "提款限額週期(含三方)",
+                "depositAccumulationAmount": "存款限額額度(0不限制)(含三方)",
+                "withdrawAccumulationAmount": "提款限額額度(0不限制)(含三方)"
+            },
+            "club-upgrade-rank": {
+                "title": "升等條件",
+                "upgradeByDeposit": "會員總存金額",
+                "upgradeBywithdraw": "總提金額",
+                "upgradeByTotalBetAmount": "總投注量",
+                "clubRankList": "俱樂部",
+                "newClubRank": "更換等級",
+                "list": "會員列表",
+                "upgradeAt": "前次升級時間",
+                "name": "名稱",
+                "account": "帳號",
+                "clubRankName": "俱樂部等級",
+                "search": {
+                    "title": "搜尋條件",
+                    "finish": "已達成",
+                    "not-finish": "未達成"
+                }
+            },
+            "club-rank-members": {
+                "title": "會員列表",
+                "account": "帳號",
+                "name": "名稱",
+                "birth": "生日",
+                "phone": "手機號碼"
+            },
+            "clubRank-edit-all-water-dialog": {
+                "water": "退水",
+                "title": "退水管理",
+                "game": "遊戲名稱",
+                "clubRankName": "俱樂部名稱"
+            }
+        },
+        "bank": {
+            "bank-edit-dialog": {
+                "title-add": "新增帳戶",
+                "title-edit": "編輯帳戶",
+                "type": "帳戶用途",
+                "suitable": "適用對象",
+                "useable": "使用限制",
+                "name": "戶名",
+                "account": "帳號",
+                "bankName": "銀行名稱",
+                "branchName": "分行名稱",
+                "clubRanks": "可使用俱樂部",
+                "agents": "可使用代理",
+                "getClub": "選擇俱樂部",
+                "getClubRank": "選擇層級",
+                "limitAmount": "限額(0為不限制)",
+                "getAgent": "選擇代理",
+                "getBankGroup": "選擇帳戶群組"
+            }
+        },
+        "report": {
+            "stg-report-detail": {
+                "lib": "聯盟",
+                "ht": "主隊",
+                "ct": "客隊",
+                "profit": "獲利%數",
+                "fee": "手續費",
+                "lid2": "賽場",
+                "title": "賽事明細",
+                "final": "賽事結果",
+                "bet": "投注比分",
+                "game-at": "賽事時間"
+            },
+            "formula-popover": {
+                "total": "結果"
+            },
+            "approval-water-dialog": {
+                "title": "退水記錄",
+                "water-amount": "退水額度",
+                "delete-approval": "刪除退水記錄",
+                "confirm-delete-approval": "確定移除 「{amount}元」 的退水記錄？"
+            },
+            "approval-bonus-dialog": {
+                "title": "紅利記錄",
+                "bonus-amount": "紅利額度",
+                "delete-approval": "刪除紅利記錄",
+                "confirm-delete-approval": "確定移除 「{amount}元」 的紅利記錄？"
+            },
+            "approval-bonus-detail-dialog": {
+                "title": "詳細資訊",
+                "post": "下",
+                "level": "層級",
+                "valid-amount": "有效注額",
+                "total": "會員小計",
+                "amount": "紅利額度"
+            },
+            "settlement-month-records-dialog": {
+                "title": "結算記錄",
+                "delete-record-confirm": "確定刪除「{amount}元」的結算資料？",
+                "col": {
+                    "amount": "結算額度",
+                    "write-off": "交收額度",
+                    "from": "結算來源"
+                }
+            },
+            "settlement-month-dialog": {
+                "user": "帳號/名稱",
+                "title": "代理月結算",
+                "write-off-options": {
+                    "in": "收款",
+                    "out": "出款"
+                },
+                "label": {
+                    "report-total": "本月營運額",
+                    "fee-amount": "手續費",
+                    "record-amount": "已結算額",
+                    "total": "本月結算小計",
+                    "receivable-amount": "前次結餘",
+                    "result-receivable-amount": "結後應收款",
+                    "write-off-amount": "交收金額"
+                }
+            }
+        },
+        "logger": {
+            "log-point-dialog": {
+                "title": "遊戲請求記錄",
+                "platform": "遊戲平台",
+                "serial-num": "平台單號",
+                "before-point": "轉點前平台點數",
+                "after-point": "轉點後平台點數"
+            },
+            "log-login-list": {
+                "title": "登入紀錄",
+                "success": "成功",
+                "failed": "失敗",
+                "error-message": "錯誤訊息",
+                "login-at": "登入時間"
+            },
+            "log-exception-dialog": {
+                "title": "錯誤詳細內容"
+            },
+            "log-sync-report-dialog": {
+                "title": "報表同步記錄",
+                "platform": "遊戲平臺",
+                "total": "總筆數",
+                "num-completes": "完成筆數",
+                "num-fails": "失敗筆數",
+                "stime": "時間 - 起",
+                "etime": "時間 - 訖",
+                "execute-time": "執行時間(秒)",
+                "message": "訊息",
+                "fail-items": "失敗項目",
+                "manual-sync": "手動同步"
+            },
+            "log-provider-request-dialog": {
+                "title": "遊戲請求記錄",
+                "platform": "遊戲平臺",
+                "player-id": "玩家代號",
+                "action": "請求類型",
+                "execute-time": "執行時間(秒)",
+                "request-data": "請求資料",
+                "response-data": "回應資料",
+                "status": {
+                    "label": "執行結果",
+                    "completed": "成功",
+                    "failed": "失敗"
+                }
+            },
+            "log-data-modify-dialog": {
+                "franchisee": "加盟商",
+                "operator": "操作者",
+                "site": "端口",
+                "model": "資料類型",
+                "action": "操作行為",
+                "content": "操作內容",
+                "message": "訊息",
+                "add": "新增資料",
+                "remove": "移除資料",
+                "updated": "資料更新",
+                "content-type": {
+                    "table": "列表",
+                    "json": "JSON"
+                },
+                "content-column": "資料欄位",
+                "content-before": "修改前",
+                "content-after": "修改後",
+                "content-value": "數值",
+                "content-value-change": "數值變更"
+            },
+            "log-reward-detail": {
+                "title": "會員 {name} 的 {quest} 贈點流水量紀錄",
+                "col-mid": "注單編號",
+                "col-platform": "遊戲平臺",
+                "col-quest-name": "優惠名稱",
+                "col-change-reward": "贈點-變異",
+                "col-valid-amount": "每次有效流水量",
+                "col-required-amount": "須達到流水量",
+                "col-cumulative-amount": "累積流水量",
+                "col-status": "狀態",
+                "col-created-at": "交易時間",
+                "col-remark": "審查備註",
+                "status": {
+                    "count": "第 {number} 筆",
+                    "approve": "通過審查",
+                    "disapprove": "審查不通過",
+                    "processing": "已計算流水",
+                    "completed": "達成",
+                    "claimed": "申請提領",
+                    "cancel": "取消",
+                    "rollback": "回滾",
+                    "unlock": "金額解鎖",
+                    "deduction_bet_amount": "回扣流水",
+                    "deduction_deposit": "紀錄重置",
+                    "rollback_apply": "贈點可再次申請"
+                }
+            },
+            "log-reset-lock-money": {
+                "title": "會員 {name} 強制歸零的操作紀錄",
+                "col-agent": "操作者",
+                "col-created-at": "操作時間",
+                "col-reset-lock": "強制歸零",
+                "confirm-reset-lock": "確定將 {account}【{name}】成員的金額解鎖？會員當下 點數:[{money}],  鎖定金額:[{lock}]",
+                "updated-info": "更新 {count} 筆"
+            }
+        },
+        "quest": {
+            "reward": {
+                "fixed": {
+                    "franchisee": "加盟商",
+                    "club-rank": "俱樂部等級",
+                    "all-club-rank": "不分等級",
+                    "add-title": "新增固定型優惠",
+                    "edit-title": "編輯固定型優惠",
+                    "quest-type": "類型",
+                    "quest-name": "名稱",
+                    "enabled": "啟用",
+                    "reward": "贈送點數",
+                    "bet-amount": "流水量",
+                    "limit-games": "限定的遊戲",
+                    "deposit": "首儲金額",
+                    "limit-times": "活動次數上限"
+                },
+                "percent": {
+                    "franchisee": "加盟商",
+                    "club-rank": "俱樂部等級",
+                    "all-club-rank": "不分等級",
+                    "title-add": "新增百分比型優惠",
+                    "title-edit": "編輯百分比型優惠",
+                    "name": "名稱",
+                    "percent": "贈送比例(%)",
+                    "bet_amount": "流水量",
+                    "bet_amount_min": "最小流水量",
+                    "reward_max": "最大贈送點數",
+                    "start_at": "開始時間",
+                    "end_at": "結束時間",
+                    "daily_quest": "每日活動"
+                },
+                "stage": {
+                    "add-title": "新增階段型優惠",
+                    "edit-title": "編輯階段型優惠"
+                },
+                "time-picker": "選擇時間",
+                "deposit": "首儲金額",
+                "re-deposit": "儲值金額",
+                "min-deposit": "最少儲值金額",
+                "multiple": "流水倍數",
+                "order": "排序",
+                "image": "點擊選擇圖片",
+                "image_small": "小圖上傳",
+                "image_large": "大圖上傳",
+                "showOrgImg": "檢視原始圖檔",
+                "information": "文字敘述",
+                "information_enabled": "是否啟用文字敘述",
+                "img-info": "最佳圖片尺寸為高: {hight} px，寬: {width} px",
+                "error": {
+                    "invaild-deposit-condition": "儲值活動只能勾選一個",
+                    "invaild-report-total-condition": "獲利或負利只能勾選一個",
+                    "only-profit-report-total-condition": "只能勾選獲利金額",
+                    "only-loss-report-total-condition": "只能勾選負利金額"
+                }
+            },
+            "group": {
+                "company": "公司活動",
+                "franchisee": "加盟商",
+                "add-title": "新增優惠群組",
+                "edit-title": "編輯優惠群組",
+                "level": "排序"
+            },
+            "stage": {
+                "title": "階段式的設定",
+                "btn-fixed-type": "固定型贈點",
+                "btn-percent-type": "百分比型贈點",
+                "btn-deposit-type": "累積儲值型贈點",
+                "col-fixed-type": "固定型",
+                "col-percent-type": "百分比型",
+                "col-amount-stage": "流水量階段",
+                "col-deposit-stage": "累積儲值階段",
+                "col-reward": "贈點",
+                "col-percent": "贈點換算比例",
+                "col-max-reward": "贈點最大值",
+                "error": {
+                    "no-amount": "至少勾選一種流水量類型"
+                }
+            },
+            "type": {
+                "company": "公司活動",
+                "first-time-deposit": "首儲活動",
+                "regular-percent": "流水贈送 (百分比)",
+                "regular-fixed": "流水贈送 (固定)",
+                "period-fixed": "期間活動",
+                "birth-fixed": "生日活動",
+                "recommend-fixed": "介紹活動",
+                "daily-percent": "每日活動",
+                "daily-fixed": "每日活動",
+                "deposit-fixed": "儲值活動",
+                "deposit-percent": "儲值活動",
+                "multiple-deposit": "儲值活動 (累積型)",
+                "stages-deposit": "階段式活動"
+            }
+        },
+        "version": {
+            "version-number": "版號",
+            "tittle": "版本標題",
+            "information": "改版內容",
+            "add-title": "新增版本資訊",
+            "edit-title": "編輯版本資訊"
+        },
+        "login-info": {
+            "status": "狀態",
+            "success": "成功",
+            "fail": "失敗",
+            "error-message": "錯誤訊息",
+            "login-at": "登入時間"
+        },
+        "member-summary": {
+            "title": "會員備註",
+            "add-title": "新增備註",
+            "col-name": "會員名稱",
+            "col-summary": "備註",
+            "col-agent": "操作者",
+            "placeholder": "請輸入內容",
+            "invalid": {
+                "required": "此為必填欄位"
+            }
+        },
+        "log-activity-wallet-report": {
+            "title": "【{name}】下注歷程",
+            "col-mid": "注單編號",
+            "col-money": "金額",
+            "col-platform": "遊戲平臺"
+        },
+        "stuck-money-modify": {
+            "title": "修改卡錢紀錄",
+            "col-point": "返還點數",
+            "point-limit": "返還點數最多 {limit}"
+        }
+    },
+    "view": {
+        "move-organization": {
+            "select-label": "請選擇欲移動的層級",
+            "level1": "會員",
+            "level2": "代理",
+            "level3": "總代",
+            "level4": "股東",
+            "trans-label": "將轉移",
+            "to": "到"
+        },
+        "home": {
+            "time-range": {
+                "label": "時間區間",
+                "to": "至",
+                "start": "開始時間",
+                "end": "結束時間",
+                "invalid": "時間區間超過 {months} 個月"
+            },
+            "today": "本日",
+            "this-week": "本周",
+            "this-month": "本月",
+            "yesterday": "昨天",
+            "last-week": "上周",
+            "last-month": "上月",
+            "num-registers": "註冊人數",
+            "num-first-deposit": "首次充值",
+            "num-first-withdraw": "首次提現",
+            "num-login-member": "總登入人數",
+            "num-login-member-small": "同會員同天只計一次",
+            "sum-deposit": "存款額度",
+            "sum-withdraw": "提款額度",
+            "sum-give-member": "派點額度",
+            "sum-taken-back": "收回額度",
+            "platform-name": "遊戲平臺",
+            "num-bets": "注單數",
+            "sum-total": "會員小計",
+            "group-member-title": "會員相關額度",
+            "group-member-label": "分類",
+            "group-report-title": "已過帳報表總額度",
+            "total_title": "加總",
+            "balance-title": "存提加總",
+            "sum-member": "人",
+            "label-exclude-tester": "排除測試帳號",
+            "label-only-tester": "只有測試帳號",
+            "members": "人數",
+            "table": {
+                "num-member": "下注人數",
+                "platform-name": "遊戲平臺",
+                "num-bets": "注單數",
+                "sum-total": "會員小計",
+                "sum-bet-amount": "下注額度",
+                "sum-valid-amount": "有效注額",
+                "total_title": "加總",
+                "parent": "上層"
+            },
+            "title": {
+                "income": "總收款",
+                "expense": "總提款",
+                "quest": "總優惠",
+                "agent": "總派點"
+            }
+        },
+        "blank": {
+            "no-permission": "沒有首頁權限"
+        },
+        "common": {
+            "toggle-button": {
+                "enabled": "啟用",
+                "disabled": "停用",
+                "locked": "鎖定",
+                "unlocked": "解鎖"
+            }
+        },
+        "login": {
+            "account": "帳號",
+            "password": "密碼",
+            "login": "登入"
+        },
+        "personal-information": {
+            "modify-name": "修改姓名",
+            "input-name": "請輸入姓名"
+        },
+        "personal-wallet": {
+            "loan": "預借額度"
+        },
+        "personal-reviews": {
+            "label-status": "審核狀態",
+            "btn-loan": "預借額度",
+            "col": {
+                "apply-amount": "申請額度",
+                "real-amount": "發放額度",
+                "status": "狀態",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "committed-at": "申請時間",
+                "finished-at": "完成時間"
+            }
+        },
+        "agent": {
+            "account-label": "帳號",
+            "game-account": "遊戲帳號",
+            "creator": "操作人帳號",
+            "name-label": "名稱",
+            "sub-agent-list": "子帳號列表",
+            "target-label": "查詢對象",
+            "member_phone": "會員電話",
+            "target-type": {
+                "agent": "組織成員",
+                "sub-agent": "子帳號",
+                "member": "會員"
+            },
+            "btn-add-sub-agent": "新增子帳號",
+            "breadcrumb": {
+                "search-account": "查詢 {level}({account})",
+                "sub-agent": "{account}【{name}】子帳號",
+                "all-sub-agent": "所有子帳號"
+            }
+        },
+        "agent-write-off": {
+            "col-undone": "尚未交收資料",
+            "col-undone-nums": "未交收筆數",
+            "col-undone-settlement": "未交收筆數"
+        },
+        "review": {
+            "review-agent-loan": {
+                "col-apply-amount": "申請額度",
+                "col-real-amount": "核發額度",
+                "btn-copy-apply-amount": "同申請額度",
+                "remark": "備註",
+                "reason": "不通過原因"
+            },
+            "review-agent-compensatory": {
+                "col-apply-amount": "申請額度",
+                "col-real-amount": "核發額度",
+                "col-user-type": "對象",
+                "col-user": "帳號/名稱",
+                "reason": "申請原因",
+                "remark": "備註",
+                "fail_remark": "不通過原因"
+            },
+            "review-member-deposit": {
+                "col-club-rank": "俱樂部層級",
+                "col-last-reviewer": "最後審核者",
+                "col-serial-num": "編號",
+                "col-deposit-apply-amount": "存款額度",
+                "col-deposit-bank-name": "存款銀行",
+                "col-deposit-real-amount": "實際額度",
+                "col-fee": "手續費",
+                "btn-copy-apply-amount": "同申請額度",
+                "btn-rollback": "代客儲值回收",
+                "account": "會員帳號",
+                "transactionAt": "存款時間",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "payee-account": "收款帳號",
+                "payee-bank-name": "收款銀行名稱",
+                "payee-name": "收款戶名",
+                "operator": "操作者",
+                "rollback-warning": "確定回滾 {account}【{name}】成員的金額: {money} ?",
+                "rollback-success": "已回滾金額: {money}",
+                "last-five-number": "存款帳號",
+                "applicant-name": "存款人姓名",
+                "applicant-name2": "存款帳號",
+                "confirm-reset-pass": "是否快速通過",
+                "col-tags": "標籤",
+                "change-real-amount": "確定要修改實際額度?"
+            },
+            "review-third-party-deposit": {
+                "col-club-rank": "俱樂部層級",
+                "col-last-reviewer": "最後審核者",
+                "col-serial-num": "編號",
+                "col-deposit-apply-amount": "存款額度",
+                "col-deposit-real-amount": "實際額度",
+                "col-fee": "手續費",
+                "btn-copy-apply-amount": "同申請額度",
+                "btn-rollback": "回收第三方",
+                "account": "會員帳號",
+                "transactionAt": "存款時間",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "payee-account": "收款帳號",
+                "payee-bank-name": "收款銀行名稱",
+                "payee-name": "收款戶名",
+                "operator": "操作者",
+                "rollback-warning": "確定回滾 {account}【{name}】成員的金額: {money} ?",
+                "rollback-success": "已回滾金額: {money}"
+            },
+            "review-member-activity-wallet": {
+                "col-club-rank": "俱樂部層級",
+                "col-last-reviewer": "最後審核者",
+                "col-serial-num": "編號",
+                "col-type": "錢包類型",
+                "type-fixed": "固定型",
+                "type-percent": "百分比型",
+                "price": "金額",
+                "points": "點數",
+                "percent-point": "贈送點數百分比",
+                "percent-water": "流水倍數",
+                "percent-min-price": "最小購買金額",
+                "percent-max-point": "最大贈送點數",
+                "account": "會員帳號",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "operator": "操作者",
+                "name": "活動錢包名稱",
+                "total-price": "總金額",
+                "total-points": "總點數",
+                "col-water-limit": "限制流水"
+            },
+            "review-member-quest": {
+                "account": "會員帳號",
+                "col-deposit-amount": "儲值金額",
+                "col-quest-reward": "獎勵點數",
+                "col-quest-bet-amount": "任務所需流水",
+                "col-quest-valid-amount": "會員當前流水",
+                "col-quest-percentage": "贈送百分比",
+                "col-quest-max-reward": "最大獎勵點數",
+                "col-quest-min-bet-amount": "最小流水量",
+                "col-quest-start-time": "開始時間",
+                "col-quest-end-time": "結束時間",
+                "col-quest-commit-at": "送審時間",
+                "col-quest-report-total": "會員獲利 / 負利",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "name": "任務名稱"
+            },
+            "review-member-register": {
+                "account": "帳號",
+                "name": "名稱",
+                "gender": "性別",
+                "phone": "電話",
+                "qq": "qq",
+                "wechat": "微信",
+                "birth": "生日",
+                "weibo": "微博",
+                "invitation_code": "邀請碼",
+                "inviter": "邀請人",
+                "club-rank": "俱樂部層級",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "line": "Line"
+            },
+            "review-member-information": {
+                "account": "帳號",
+                "name": "會員真實姓名",
+                "phone": "手機號碼",
+                "qq": "qq",
+                "wechat": "微信",
+                "weibo": "微博",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "birth": "生日",
+                "address": "地址",
+                "line": "Line",
+                "email": "email"
+            },
+            "review-member-withdraw": {
+                "col-serial-num": "編號",
+                "col-club-rank": "俱樂部層級",
+                "col-last-reviewer": "最後審核者",
+                "money": "提款金額",
+                "moneyLog": "提款金額(已扣除提款手續費)",
+                "unlockMoney": "提領後的餘額",
+                "balance": "會員本次提領後餘額",
+                "fee": "成本手續費",
+                "withdrawFee": "提款手續費",
+                "type": "提款方式",
+                "typeOptions": {
+                    "none": "未付",
+                    "bank": "銀行轉帳",
+                    "third": "第三方"
+                },
+                "transaction-at": "轉帳時間",
+                "transaction-id": "轉帳帳號後五碼",
+                "payer-name": "付款戶名",
+                "payer-account": "付款帳號",
+                "payer-bank-name": "付款銀行名稱",
+                "payer-branch-name": "付款分行名稱",
+                "payee-name": "收款戶名",
+                "payee-account": "收款帳號",
+                "payee-bank-name": "收款銀行名稱",
+                "payee-branch-name": "收款分行名稱",
+                "btn-transaction": "出款",
+                "btn-cancel": "取消出款",
+                "btn-manual": "手動出款",
+                "transaction-status": "出款狀態",
+                "real-money": "實際出款金額",
+                "withdraw-fee": "提款手續費",
+                "transaction-status-options": {
+                    "none": "未出款",
+                    "pending": "出款中",
+                    "completed": "已出款",
+                    "error": "出款失敗",
+                    "transaction-cancel": "取消出款",
+                    "transaction-manual": "已手動出款"
+                },
+                "transaction-title": "出款",
+                "remark": "備註",
+                "reason": "不通過原因",
+                "col-tags": "標籤",
+                "bank-account": "帳戶",
+                "bank-name": "銀行名稱"
+            },
+            "review-member-bank": {
+                "account": "會員帳號",
+                "col-bank-name": "銀行名稱",
+                "col-branch-name": "分行名稱",
+                "col-bank-account": "銀行帳號",
+                "col-bank-username": "銀行戶名",
+                "remark": "備註",
+                "reason": "不通過原因"
+            }
+        },
+        "system": {
+            "role": {
+                "col-name": "名稱",
+                "col-level": "使用階級",
+                "col-level-0": "公司",
+                "col-level-1": "加盟主",
+                "col-level-2": "大股東",
+                "col-level-3": "股東",
+                "col-level-4": "總代理",
+                "col-level-5": "代理",
+                "col-rank": "階層",
+                "col-whitelist": "白名單",
+                "col-status": "狀態",
+                "col-full-ip": "完整 IP",
+                "col-full-info": "詳細資訊",
+                "col-updated-at": "修改時間",
+                "col-options": "操作",
+                "col-common": "共用狀態",
+                "common": "共用",
+                "uncommon": "非共用",
+                "franchisee-label": "加盟商",
+                "edit-auth": "設定權限",
+                "view-auth": "查看權限",
+                "full": "完整",
+                "section": "部分",
+                "clone-role-confirm": "是否要複製 【{name}】 角色？",
+                "clone-success": "複製成功",
+                "col-creator": "子帳號上層"
+            },
+            "view": {
+                "form-parent-label": "上層選單",
+                "form-name-label": "選單 / 連結名稱",
+                "form-code-label": "翻譯檔代碼",
+                "form-type-label": "類型",
+                "form-path-label": "路徑",
+                "form-class-name-label": "class 樣式",
+                "form-order-label": "排序編號",
+                "form-enabled-label": "啟用狀態",
+                "form-remark-label": "備註",
+                "type-menu": "選單",
+                "type-link": "連結",
+                "no-parent": "無",
+                "add-children": "新增下層",
+                "delete-confirm": "確定要移除「{name}」的 {type}？",
+                "page-name": "頁面名稱",
+                "title": "標題",
+                "option": "操作"
+            },
+            "api": {
+                "query-keyword-label": "關鍵字查詢(路徑、說明)",
+                "col-remark": "說明",
+                "col-group-name": "群組名稱",
+                "col-view-name": "頁面名稱",
+                "col-path": "路徑",
+                "confirm-delete-api": "確定刪除 {name} api ?"
+            },
+            "company": {
+                "col": {
+                    "account": "帳號",
+                    "name": "名稱",
+                    "roleName": "角色權限",
+                    "editor": "最後修改者"
+                },
+                "search": {
+                    "name": "查詢名稱",
+                    "account": "查詢帳號"
+                },
+                "confirm-reset-error-count": "確定重設 {account}【{name}】成員的登入錯誤次數？"
+            },
+            "franchisee": {
+                "col": {
+                    "name": "名稱",
+                    "host": "官網host",
+                    "default-agent": "預設代理",
+                    "default-club-rank": "預設俱樂部層級",
+                    "default-bank-group": "預設帳戶群組",
+                    "configs": "修改佔成",
+                    "bet-amount-multiple": "流水",
+                    "status-edit": "狀態",
+                    "edit-auto-bonus": "自動紅利",
+                    "edit-auto-water": "自動退水",
+                    "third-pay-setting": "代支設定",
+                    "commission": "退佣"
+                },
+                "search": {
+                    "name": "查詢名稱",
+                    "host": "官網host"
+                },
+                "pay-setting": {
+                    "title": "代支設定",
+                    "level": "層級",
+                    "path": "支付管道",
+                    "status": "狀態",
+                    "name": "名稱",
+                    "address": "地址",
+                    "order": "排序",
+                    "single-max-limit": "單筆最大限額",
+                    "input-money": "可否輸入充值金額",
+                    "fix-money": "固定充值金額",
+                    "pay-type": "支付類型",
+                    "notice": "提示",
+                    "account": "商戶號",
+                    "single-min-limit": "單筆最小限額",
+                    "decimal-length": "小數位長度",
+                    "unabled-money": "停用金額"
+                }
+            },
+            "betAmountMultiple": {
+                "title": "流水倍數管理",
+                "type": {
+                    "title": "類型",
+                    "first": "首儲",
+                    "normal": "一般"
+                },
+                "betAmountMultiple": "流水倍數",
+                "weights": "權重",
+                "disableDate": "不限制時間",
+                "start": "開始日期",
+                "end": "結束日期"
+            },
+            "review-type": {
+                "col-key": "審核流程 Key",
+                "col-name": "流程名稱",
+                "col-step": "可審核角色",
+                "col-enabled": "人工審核",
+                "col-auto-pass": "自動通過",
+                "col-customize": "審核流程自訂義",
+                "col-when-group": "站內信通知",
+                "col-when-approved": "審核通過",
+                "col-when-disapproved": "審核不通過",
+                "col-when-transaction": "交易完成後",
+                "col-when-transaction-cancel": "取消交易",
+                "status-manual": "人工審核",
+                "status-auto": "自動通過",
+                "label-not-allow-auto-pass": "無法自動通過",
+                "status-customize": "加盟商自訂",
+                "status-uncustomized": "公司管理",
+                "label-no-setting": "未設定"
+            }
+        },
+        "marquee": {
+            "franchisee": "加盟商",
+            "col": {
+                "suitable": "站臺",
+                "type": "類型",
+                "content": "跑馬燈內容"
+            },
+            "no-limit": "不限制",
+            "search": {
+                "nullOption": "不限",
+                "suitable": "站臺",
+                "suitableOptions": {
+                    "agent": "代理站臺",
+                    "member": "會員站臺"
+                },
+                "type": "類型",
+                "typeOptions": {
+                    "hot": "熱門",
+                    "normal": "一般",
+                    "deposit": "會員存款"
+                }
+            },
+            "confirm-delete-marquee": "確定要刪除 「{content}」跑馬燈訊息？"
+        },
+        "carousel": {
+            "no-limit": "不限制",
+            "col": {
+                "position": "位置",
+                "name": "名稱",
+                "noLimit": "不限制",
+                "order": "排序",
+                "link-type": "轉頁類型",
+                "linkTypeName": "轉頁類型名稱"
+            },
+            "search": {
+                "position": "選擇位置",
+                "link-type": "轉頁類型"
+            },
+            "confirm-delete-carousel": "確定要刪除 「{name}」輪播圖？"
+        },
+        "gameType": {
+            "search": {
+                "type": "遊戲類型"
+            },
+            "col": {
+                "type": "遊戲類型",
+                "name": "名稱"
+            }
+        },
+        "gameTag": {
+            "search": {
+                "tag": "遊戲標籤",
+                "type": "遊戲類型"
+            },
+            "col": {
+                "type": "遊戲類型",
+                "tag": "遊戲標籤",
+                "name": "標籤名稱"
+            }
+        },
+        "gamePlatform": {
+            "key": "平臺代號",
+            "name": "平臺名稱",
+            "is-fun": "測試版",
+            "status-maintain": {
+                "status-maintain": "臨時維修狀態",
+                "yes": "維修中",
+                "no": "否"
+            },
+            "col": {
+                "routine-maintain": "例行維修",
+                "routine-temporary-maintain": "臨時維修",
+                "routine-maintain-data": "每周 {day} {time}, 維修 {min} 分鐘",
+                "disposable-maintain-data": "{date}, 維修 {min} 分鐘",
+                "limit-member": "限制會員",
+                "no-limit-member": "無限制會員",
+                "order": "順序"
+            }
+        },
+        "game": {
+            "name": "遊戲名稱",
+            "key": "平臺代號",
+            "type": "遊戲類型",
+            "tag": "遊戲標籤",
+            "status-maintain": {
+                "status-maintain": "臨時維修狀態",
+                "yes": "維修中",
+                "no": "否"
+            },
+            "col": {
+                "platformName": "平臺名稱",
+                "code": "遊戲代號",
+                "order": "順序"
+            },
+            "batchMaintain": "批次設定維修狀態"
+        },
+        "letter": {
+            "letterTag": {
+                "tagName": "類型名稱",
+                "selectTag": "選擇類型",
+                "col": {
+                    "franchisee": "加盟商",
+                    "name": "類型名稱",
+                    "type": "類型",
+                    "updated-at": "最後修改時間",
+                    "operator": "操作",
+                    "status": "狀態"
+                }
+            },
+            "announcement": {
+                "searchTitle": "標題查詢",
+                "announcementTag": "標籤",
+                "memberTag": "會員標籤",
+                "memberAccount": "會員帳號",
+                "time-range": {
+                    "label": "時間區間",
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本週",
+                "last-week": "上週",
+                "this-month": "本月",
+                "last-month": "上月",
+                "col": {
+                    "name": "發信者",
+                    "title": "主旨",
+                    "content": "信件內容",
+                    "numReads": "已讀會員數",
+                    "numSends": "發送會員數",
+                    "created-at": "發佈時間"
+                }
+            },
+            "message": {
+                "queryAccount": "查詢帳號",
+                "queryStartTime": "開始日期",
+                "queryEndTime": "結束日期",
+                "queryRead": "是否已讀",
+                "read": "已讀",
+                "unread": "未讀",
+                "none": "不限制",
+                "col": {
+                    "franchisee": "加盟商",
+                    "title": "標題",
+                    "member": "會員",
+                    "replyAt": "回覆時間",
+                    "createdAt": "寄信時間",
+                    "reply": "回覆信件"
+                }
+            }
+        },
+        "sms": {
+            "smsUser": {
+                "franchisee-id": "加盟商ID",
+                "module-id": "簡訊模組ID",
+                "module-name": "SMS模組名稱",
+                "account": "使用者帳號",
+                "copy": "複製"
+            },
+            "smsUserDialog": {
+                "sms-module": "簡訊模組",
+                "sms-user": "使用者帳號",
+                "sms-password": "使用者密碼",
+                "signature": "簽章"
+            },
+            "smsTemplate": {
+                "franchisee-name": "加盟商",
+                "recognize-name": "辨識用名稱",
+                "function-name": "功能名稱",
+                "updated-at": "最後修改時間"
+            },
+            "smsTemplateDialog": {
+                "account": "使用者帳號",
+                "remark": "備註",
+                "content": "發送內容",
+                "phone-captcha": "手機驗證碼",
+                "password-reset": "密碼重設"
+            },
+            "smsLog": {
+                "module-name": "Sms模組名稱",
+                "user-name": "Sms帳號",
+                "phone": "發送對象",
+                "content": "內容",
+                "sendId": "回傳id",
+                "completed": "是否成功",
+                "credit": "餘額",
+                "cost": "本次花費",
+                "total": "發送筆數",
+                "num-success": "成功筆數",
+                "num-failures": "失敗筆數",
+                "message": "訊息",
+                "remark": "備註",
+                "creator": "操作者",
+                "created-at": "建立時間",
+                "send": "發信",
+                "resend": "重發"
+            },
+            "smsLogDialog": {
+                "title": "發送信件",
+                "content": "發送內容",
+                "user-name": "Sms帳號",
+                "phone": "發送對象",
+                "phone-placeholder": "電話以逗號分隔，如: 0912345678,093456789..."
+            }
+        },
+        "bank": {
+            "limit-amount": "限額",
+            "cumulative-amount": "累計額度",
+            "name": "戶名",
+            "account": "帳號",
+            "bank-name": "銀行名稱",
+            "bank-branch-name": "銀行名稱 (分行)",
+            "type": "帳戶用途",
+            "type-options": {
+                "deposit": "存款",
+                "withdraw": "提款"
+            },
+            "useable": "使用限制",
+            "useable-options": {
+                "all": "不限制",
+                "agent": "代理",
+                "club-rank": "俱樂部層級",
+                "bank-group": "帳戶群組"
+            },
+            "edit-cumulative-amount": "變更累計額度",
+            "edit-limit-amount": "修改限額",
+            "invalids": {
+                "number-only": "必需為數字",
+                "amount": "必須是合理數字(提款必小於0)"
+            },
+            "msgbox": {
+                "warning": "警告",
+                "delete-msg": "即將刪除此筆資料，是否確認？ ",
+                "deleting": "刪除中..."
+            },
+            "bank-useable-dialog": {
+                "title": "使用限制",
+                "user": "限制對象"
+            }
+        },
+        "third": {
+            "group_name": "群組名稱",
+            "value": "代碼",
+            "name": "名稱",
+            "minAmount": "最小儲值金額",
+            "maxAmount": "最大儲值金額",
+            "pay-id": "支付方式",
+            "pay-name": "支付名稱",
+            "order": "排序",
+            "optin": "通道設定",
+            "amount-limit": "通道限額",
+            "amount-limit-title": "輪替通道限額",
+            "order-description": "數字越小越優先",
+            "current-amount": "累積額度"
+        },
+        "report": {
+            "old-report": {
+                "mid": "編號",
+                "type": "交易類型",
+                "before-money": "異動前金額",
+                "change-money": "異動金額",
+                "after-money": "異動後金額",
+                "ip": "IP",
+                "create-at": "建立時間"
+            },
+            "agent-total-report": {
+                "col": {
+                    "sum": "加總",
+                    "quest": "任務成本",
+                    "agent": "名稱",
+                    "level": "層級",
+                    "franchisee": "加盟商",
+                    "type": "遊戲類型",
+                    "platform": "遊戲平臺",
+                    "tip": "小費",
+                    "count": "筆數",
+                    "bet-amount": "注額",
+                    "valid-amount": "有效注額",
+                    "win-amount": "中獎金額",
+                    "water-amount": "會員退水",
+                    "bonus-amount": "會員紅利",
+                    "prize": "彩金",
+                    "total": "會員小計",
+                    "agent-percent": "佔成(%)",
+                    "agent-amount": "佔比額度",
+                    "agent-water-amount": "退水",
+                    "agent-bonus-amount": "紅利",
+                    "agent-cost-group": "成本支出",
+                    "agent-cost-agent-water-amount": "代理退水",
+                    "agent-cost-member-water-amount": "會員退水",
+                    "agent-cost-member-bonus-amount": "會員紅利",
+                    "agent-total": "小計",
+                    "formula": "計算方式",
+                    "reward": "總贈送點數",
+                    "quest-amount": "負擔任務成本",
+                    "final-total": "最終總計",
+                    "agent-commission-amount": "退佣"
+                }
+            },
+            "quest-agent-total-report": {
+                "prise": "金額",
+                "amount": "點數",
+                "name": "錢包名稱",
+                "cost": "成本",
+                "curPoint": "當前剩餘點數",
+                "curWater": "當前流水",
+                "buyTime": "購買時間"
+            },
+            "quest-reward": {
+                "reward": "點數",
+                "name": "活動名稱",
+                "cost": "成本",
+                "finishedAt": "領取時間"
+            },
+            "member-total-report": {
+                "col": {
+                    "sum": "加總",
+                    "agent": "名稱",
+                    "level": "層級",
+                    "type": "遊戲類型",
+                    "platform": "遊戲平臺",
+                    "tip": "小費",
+                    "count": "筆數",
+                    "bet-amount": "注額",
+                    "win-amount": "中獎金額",
+                    "water-amount": "會員退水",
+                    "bonus-amount": "會員紅利",
+                    "prize": "彩金",
+                    "total": "會員小計",
+                    "agent-percent": "佔成(%)",
+                    "agent-amount": "佔比額度",
+                    "agent-water-amount": "退水",
+                    "agent-bonus-amount": "紅利",
+                    "agent-cost-group": "成本支出",
+                    "agent-cost-agent-water-amount": "代理退水",
+                    "agent-cost-member-water-amount": "會員退水",
+                    "agent-cost-member-bonus-amount": "會員紅利",
+                    "agent-total": "代理小計",
+                    "formula": "計算方式",
+                    "valid-amount": "有效注額"
+                }
+            },
+            "report-bets": {
+                "bets": "注單列表",
+                "col": {
+                    "mid": "注單主編號",
+                    "ip": "IP",
+                    "member": "會員",
+                    "bet-amount": "注額",
+                    "total": "會員小計",
+                    "bet-at": "下注時間",
+                    "status": "狀態",
+                    "settle-at": "開獎時間",
+                    "water-amount": "退水",
+                    "win-amount": "中獎金額",
+                    "content": "下注內容",
+                    "game": "遊戲名稱",
+                    "platform": "遊戲平臺",
+                    "prize": "彩金",
+                    "tip": "小費",
+                    "bonus": "紅利",
+                    "valid-amount": "有效注額",
+                    "func": "功能",
+                    "detail": "明細",
+                    "agent-commission-amount": "退佣",
+                    "report-game": "遊戲平臺帳務 ({platform})",
+                    "water-percent": "代理退水(%)",
+                    "sum": "小計",
+                    "sumAll": "總計",
+                    "game-account": "遊戲帳號",
+                    "betsDetail": "明細",
+                    "detailTitle": "投注明細"
+                }
+            },
+            "total-report": {
+                "query": {
+                    "game-platform": "遊戲平臺",
+                    "game-type": "遊戲類型",
+                    "time-range": {
+                        "label": "時間區間",
+                        "to": "至",
+                        "start": "開始時間",
+                        "end": "結束時間"
+                    },
+                    "account": "帳號",
+                    "gameAccount": "遊戲帳號",
+                    "mid": "注單編號",
+                    "level": "層級",
+                    "ip": "注單IP",
+                    "fun-status": {
+                        "label": "平臺類型",
+                        "prod": "正式版",
+                        "fun": "測試版"
+                    },
+                    "label-exclude-tester": "排除測試帳號",
+                    "label-only-tester": "只有測試帳號",
+                    "game": "遊戲",
+                    "game-placeholder": "請輸入遊戲名稱",
+                    "time-type": "時間類型",
+                    "report-at": "下注時間",
+                    "settle-at": "派彩時間"
+                },
+                "setting": {
+                    "use-money-format": "使用貨幣格式"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本週",
+                "last-week": "上週",
+                "this-month": "本月",
+                "last-month": "上月",
+                "no-time": "不限時間",
+                "to-excel": "導出報表",
+                "is-compelet": "已過帳",
+                "not-compelet": "未過帳",
+                "cancel": "已取消",
+                "notify": "本報表僅顯示一週前的資料"
+            },
+            "settlement-day": {
+                "col": {
+                    "settlement-group": "結算資料",
+                    "count": "筆數",
+                    "bet-amount": "注額",
+                    "total": "會員結果",
+                    "company-total": "公司結果",
+                    "alv1-total": "加盟主結果",
+                    "alv2-total": "大股東結果",
+                    "alv3-total": "股東結果",
+                    "alv4-total": "總代理結果",
+                    "alv5-total": "代理結果",
+                    "num-completeds": "已完成注單"
+                },
+                "re-settlement": "重新結算"
+            },
+            "approval-water": {
+                "bet-amount": "會員注額",
+                "valid-amount": "有效投注金額",
+                "total-amount": "會員結果",
+                "water-amount": "應派退水",
+                "approval-amount": "已派退水",
+                "unpaid-amount": "未派額度",
+                "min-amount": "應派最低額度",
+                "approval": "派點",
+                "confirm-approval": "您已選擇 {count} 筆, 共 {amount} 額度的派點資料，確定執行派點？",
+                "total-water": "總返水",
+                "water-limit": "返水限额"
+            },
+            "approval-bonus": {
+                "bet-amount": "會員注額",
+                "total-amount": "會員結果",
+                "bonus-amount": "應派紅利",
+                "approval-amount": "已派紅利",
+                "unpaid-amount": "未派額度",
+                "min-amount": "應派最低額度",
+                "approval": "派點",
+                "confirm-approval": "您已選擇 {count} 筆, 共 {amount} 額度的派點資料，確定執行派點？",
+                "func": "功能",
+                "info": "詳細",
+                "total-bonus": "總紅利",
+                "bonus-limit": "紅利限額"
+            },
+            "settlement-month": {
+                "query": {
+                    "level": "層級",
+                    "account": "帳號"
+                },
+                "col": {
+                    "name": "名稱",
+                    "settlement-record": "交收記錄",
+                    "record-amount": "已結算額",
+                    "num-records": "結算次數",
+                    "report-total": "月帳總額",
+                    "report-total-current": "本層",
+                    "report-total-children": "下層總額",
+                    "fee-amount": "手續費",
+                    "receivable-amount": "前次結餘",
+                    "total": "本次結餘"
+                },
+                "settlement": "結算"
+            },
+            "account-report": {
+                "list": {
+                    "account": "會員帳號",
+                    "applyAmount": "申請存款金額",
+                    "fee": "手續費",
+                    "payeeAccount": "收款人銀行帳號",
+                    "payeeBankName": "收款銀行",
+                    "payeeBranchName": "分行",
+                    "payeeName": "收款人姓名",
+                    "payerName": "存款戶名",
+                    "remarkTransactionAt": "轉帳時間",
+                    "remarkTransactionId": "交易序號",
+                    "money": "提款金額",
+                    "payerName2": "出款戶名",
+                    "sum": "小計",
+                    "withdrawFee": "提款手續費",
+                    "deposit": {
+                        "realAmount": "實際存款金額"
+                    },
+                    "withdraw": {
+                        "realAmount": "實際出款金額"
+                    }
+                },
+                "search": {
+                    "select": "請選擇",
+                    "bank": "帳戶",
+                    "type": "帳戶類型",
+                    "deposit": "存款",
+                    "withdraw": "提款"
+                }
+            },
+            "company-total-report": {
+                "activityWallet": "活動錢包",
+                "quest": "優惠活動",
+                "tip": "小費",
+                "handIn": "上繳",
+                "agentTake": "下放",
+                "agentTotal": "佔成額度",
+                "parentReportTotal": "本層交收"
+            }
+        },
+        "logger": {
+            "log-exception": {
+                "site": {
+                    "label": "平臺",
+                    "agent": "控端",
+                    "member": "會員端"
+                },
+                "query": {
+                    "stime": "時間 - 起",
+                    "etime": "時間 - 訖"
+                },
+                "col": {
+                    "url": "訪問路徑",
+                    "status-code": "狀態碼",
+                    "code": "錯誤編號",
+                    "message": "錯誤訊息"
+                }
+            },
+            "log-sync-report": {
+                "stime": "時間 - 起",
+                "etime": "時間 - 訖",
+                "platform": "遊戲平臺",
+                "executing": "同步中",
+                "sync-report": "同步",
+                "manual-sync-report": "手動同步",
+                "socket-disconnected": "服務未連線...",
+                "status": {
+                    "label": "處理結果",
+                    "completed": "成功",
+                    "failed": "部分失敗",
+                    "error": "錯誤"
+                },
+                "col": {
+                    "time-range": "時間區間",
+                    "total": "總筆數",
+                    "num-completes": "完成筆數",
+                    "num-fails": "失敗筆數",
+                    "status": "狀態",
+                    "execute-time": "執行時間(秒)"
+                },
+                "retry": "重試 {value} ...",
+                "last-time": "已同步時間",
+                "next-time": "下次同步時間"
+            },
+            "log-sync-report-time-range-dialog": {
+                "sync-report": "同步報表"
+            },
+            "log-provider-request": {
+                "stime": "時間 - 起",
+                "etime": "時間 - 訖",
+                "platform": "遊戲平臺",
+                "account": "會員帳號",
+                "status": {
+                    "label": "執行結果",
+                    "completed": "成功",
+                    "failed": "失敗"
+                },
+                "col": {
+                    "action": "請求類型",
+                    "status": "狀態",
+                    "execute-time": "執行時間(秒)"
+                }
+            },
+            "log-data-modify": {
+                "operator": "操作者",
+                "site": "端口",
+                "site-agent": "控端",
+                "site-member": "會員端",
+                "action": "操作行為",
+                "model": "資料類型",
+                "target": "資料對象",
+                "model-id": "ID",
+                "view": "檢視",
+                "action-updated": "更新資料",
+                "action-created": "新增資料",
+                "action-deleted": "刪除資料",
+                "name": "名稱"
+            },
+            "log-multi-wallet-stuck": {
+                "platform": "遊戲平臺",
+                "platform-name": "平臺名稱",
+                "member-id": "會員編號",
+                "type": "類型",
+                "error-code": "錯誤代碼",
+                "error-message": "錯誤訊息",
+                "amount": "卡住金額",
+                "process": "處理動作",
+                "status": "處理狀態",
+                "created-at": "建立時間",
+                "deposit": "存款",
+                "withdraw": "提款",
+                "process-code": {
+                    "0": "正常處理",
+                    "1": "卡錢處理"
+                },
+                "status-code": {
+                    "0": "正常狀態",
+                    "1": "卡錢中",
+                    "2": "退還",
+                    "3": "行為正常不處理"
+                }
+            },
+            "log-third-search-bar": {
+                "search": "搜尋使用者帳號或平台商ID",
+                "order_id": "搜尋 Fullpay 訂單編號",
+                "user_type": "代理 或 會員",
+                "status": "訂單狀態",
+                "transaction_status": "交易狀態",
+                "created_at": "建立時間",
+                "time-range": {
+                    "label": "時間區間",
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本週",
+                "last-week": "上週",
+                "this-month": "本月",
+                "last-month": "上月"
+            },
+            "log-third-deposit": {
+                "payment_merchant": "平台商戶ID",
+                "name": "自訂支付名稱",
+                "search": "搜尋使用者或平台商ID",
+                "status": "訂單狀態",
+                "pay-name": "支付名稱",
+                "status_opt": {
+                    "0": "未付款",
+                    "1": "付款成功",
+                    "2": "測試付款成功",
+                    "-1": "訂單未完成",
+                    "-2": "付款失敗",
+                    "-3": "其他例外",
+                    "-4": "產生驗證碼失敗"
+                },
+                "transaction_status": "交易狀態",
+                "transaction_status_opt": {
+                    "-1": "訂單未完成",
+                    "-2": "付款失敗",
+                    "-3": "其他例外",
+                    "-4": "產生驗證碼失敗",
+                    "0": "未付款",
+                    "1": "支付通知付款",
+                    "2": "手動付款"
+                },
+                "payed_at": "付款時間",
+                "callback_at": "回 call 時間",
+                "created_at": "建立時間",
+                "device": "裝置",
+                "ip": "IP",
+                "payment_status_message": "付款狀態",
+                "payment_status": "付款狀態訊息",
+                "status_message": "訂單狀態訊息",
+                "trade_no": "第三方支付訂單編號",
+                "fee": "手續費",
+                "amount": "金額",
+                "account": "使用者帳號",
+                "bank_code": "銀行代碼",
+                "payment_type": "支付方式",
+                "merchant_id": "商戶 id",
+                "payment_id": "第三方支付 id",
+                "platform_order_id": "平台訂單 ID",
+                "payment_merchant_id": "平台商戶 ID",
+                "platform": "平台",
+                "order_id": "Fullpay 訂單編號",
+                "user_type": "代理 或 會員",
+                "time-range": {
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "detail": "第三方支付明細",
+                "platform_id": "平台id",
+                "manual-pay": "手動通過",
+                "manual-pay-confirm": "確認",
+                "manual-pay-confirm-message": "是否確定手動通過?"
+            }
+        },
+        "member": {
+            "member-activity-info": {
+                "time-range": {
+                    "to": "至",
+                    "start": "開始日期",
+                    "end": "結束日期",
+                    "invalid": "時間區間超過 {months} 個月"
+                },
+                "today": "本日",
+                "this-week": "本周",
+                "this-month": "本月",
+                "yesterday": "昨天",
+                "last-week": "上周",
+                "last-month": "上月",
+                "label-exclude-tester": "排除測試帳號",
+                "label-only-tester": "只有測試帳號",
+                "label-level": "當前組織層級",
+                "label-float-point": "顯示小數點4位",
+                "table": {
+                    "total_title": "加總",
+                    "col-parent-agent": "上層",
+                    "col-agent": "代理",
+                    "col-franchisee": "加盟商",
+                    "num-first-deposit": "首次充值",
+                    "sum-first-deposit": "首次充值加總",
+                    "num-re-deposit": "再次充值",
+                    "sum-re-deposit": "再次充值加總",
+                    "num-first-withdraw": "首次提現",
+                    "sum-first-withdraw": "首次提現加總",
+                    "num-all-deposit": "總充值",
+                    "sum-all-deposit": "總充值加總",
+                    "num-re-withdraw": "再次提現",
+                    "sum-re-withdraw": "再次提現加總",
+                    "num-all-withdraw": "總提現",
+                    "sum-all-withdraw": "總提現加總",
+                    "num-login-member": "總登入人數",
+                    "num-registers": "註冊人數",
+                    "sum-log": "筆",
+                    "sum-member": "人",
+                    "sum-money": "元"
+                }
+            },
+            "member-tag-manager": {
+                "btn-add": "新增標籤",
+                "default-tag": "新標籤",
+                "confirm-delete-tag": "確定要刪除標籤 {name} ？ (會員標記的此標籤類型也會一併刪除)"
+            },
+            "club": {
+                "clubName": "俱樂部名稱",
+                "describe": "描述",
+                "remark": "備註",
+                "clubRankName": "層級名稱",
+                "depositPer": "每次存款額度",
+                "depositDayTimes": "每日存款次數上限",
+                "withdrawPer": "每次提款額度",
+                "withdrawDayTimes": "每日提款次數上限",
+                "numMembers": "人數",
+                "order": "順序",
+                "default-status": "預設狀態",
+                "not-default": "非預設",
+                "default": "預設",
+                "club-list": "俱樂部列表",
+                "clubRank-list": "層級列表",
+                "add-club-rank": "新增俱樂部層級",
+                "default-club-rank": "預設的俱樂部層級",
+                "not-limit": "不限制",
+                "editAllWater": "退水管理"
+            }
+        },
+        "quest": {
+            "reward": {
+                "title": "優惠列表",
+                "start_at": "開始時間",
+                "fixed": {
+                    "franchisee": "加盟商",
+                    "title": "優惠列表",
+                    "quest-type": "類型",
+                    "quest-name": "名稱",
+                    "reward": "贈送點數",
+                    "bet-amount": "流水量",
+                    "no-limit": "不限制"
+                },
+                "percent": {
+                    "franchisee": "加盟商",
+                    "no-limit": "不限制",
+                    "questName": "名稱",
+                    "percent": "贈送百分比",
+                    "bet_amount": "流水量",
+                    "bet_amount_min": "最小流水量",
+                    "reward_max": "最大贈送點數",
+                    "start_at": "開始時間",
+                    "end_at": "結束時間"
+                },
+                "quest-condition": {
+                    "franchisee": "加盟商",
+                    "add-title": "新增優惠任務",
+                    "edit-title": "編輯優惠任務",
+                    "add-announcement-title": "新增優惠公告",
+                    "edit-announcement-title": "編輯優惠公告",
+                    "method": {
+                        "title": "領取方式",
+                        "before": "前派",
+                        "after": "後派"
+                    },
+                    "type": {
+                        "title": "活動類型",
+                        "fixed": "固定型",
+                        "percent": "百分比型",
+                        "stages": "階段型"
+                    },
+                    "reward": "贈送點數",
+                    "percent_scale": "流水轉換贈點的百分比",
+                    "title-deposit": "儲值金額轉換贈點的百分比",
+                    "reward_scale": "領取點數",
+                    "lock-amount": "額外鎖定流水",
+                    "lock-amount-scale": "倍數",
+                    "lock-amount-fix": "固定值",
+                    "condition": {
+                        "title": "完成條件",
+                        "reward_max": "最大贈送點數",
+                        "bet_amount_min": "最少投註金額",
+                        "birthday": "會員生日",
+                        "bet_amount": "投註流水量",
+                        "valid_amount": "有效流水量",
+                        "win_amount": "中獎流水量",
+                        "amount_scale": "流水倍數",
+                        "first-time-deposit": "(最少)首儲金額",
+                        "multiple-deposit": "(最少)累積型儲值金額",
+                        "regular-deposit": "(最少)必需儲值金額",
+                        "profit-report-total": "獲利金額",
+                        "loss-report-total": "負利金額",
+                        "single-day-first-time-deposit": "(最少)每日首儲金額",
+                        "days-after-registered": "註冊後(至少)的天數"
+                    },
+                    "period": {
+                        "title": "觸發週期",
+                        "daily": "每日",
+                        "week": "每周",
+                        "month": "每月",
+                        "quarterly": "每季",
+                        "half_year": "每半年",
+                        "year": "每年",
+                        "period": "期間",
+                        "trigger-title": "領取贈點",
+                        "trigger-immediately": "立即",
+                        "trigger-later": "週期結束後",
+                        "exist-title": "贈點保留時間"
+                    },
+                    "times": "領取次數",
+                    "select-agent": "是否指定代理",
+                    "select-member": "是否指定會員",
+                    "required-amount": "須達到的流水量",
+                    "check-unlock": "金額是否鎖定",
+                    "locked": "鎖定中",
+                    "unlock": "解鎖",
+                    "group": "群組",
+                    "no-use": "不使用"
+                },
+                "noPhoto": "沒有圖片資料",
+                "btn": {
+                    "front-page": "返回",
+                    "fixed-add": "新增固定型",
+                    "percent-add": "新增百分比型",
+                    "stage-add": "新增階段型",
+                    "quest-add": "新增優惠任務",
+                    "announcement-add": "新增優惠公告",
+                    "log": "流水紀錄"
+                },
+                "filter": "篩選",
+                "filter-quest": "只顯示任務",
+                "filter-announcement": "只顯示公告"
+            },
+            "group": {
+                "company": "公司活動",
+                "quest-list": "優惠列表",
+                "group-name": "優惠群組",
+                "club-rank": "俱樂部等級",
+                "level": "排序",
+                "edit": "編輯"
+            },
+            "type": {
+                "first-time-deposit": "首儲活動",
+                "regular-percent": "流水贈送 (百分比)",
+                "regular-fixed": "流水贈送 (固定)",
+                "period-fixed": "期間活動",
+                "birth-fixed": "生日活動",
+                "recommend-fixed": "介紹活動",
+                "daily-percent": "每日活動",
+                "daily-fixed": "每日活動",
+                "deposit-fixed": "儲值活動",
+                "deposit-percent": "儲值活動",
+                "multiple-deposit": "儲值活動 (累積型)",
+                "stages-deposit": "階段式活動"
+            }
+        },
+        "version": {
+            "title": "版本資訊",
+            "version-number": "版號",
+            "tittle": "版本標題",
+            "information": "改版內容",
+            "add": "新增版本資訊",
+            "delete": "刪除"
+        },
+        "activity-wallet": {
+            "company-activity": "公司任務",
+            "company": "公司活動",
+            "club-rank": "俱樂部層級",
+            "select-agent": "是否指定代理",
+            "select-member": "是否指定會員",
+            "name": "活動名稱",
+            "status": "狀態",
+            "price": "價格",
+            "points": "可使用點數",
+            "water_limit": "限制的流水",
+            "platforms": "可使用的平台",
+            "start_at": "活動開始時間",
+            "end_at": "活動結束時間",
+            "limit_frequency": "可購買次數(0為無限)",
+            "limit_member_frequency": "單一會員可購買次數(0為無限)",
+            "enabled": "是否啟用",
+            "add-title": "新增活動",
+            "edit-title": "修改活動",
+            "percent-point": "贈送點數百分比",
+            "percent-water": "流水倍數",
+            "percent-min-price": "最小購買金額",
+            "percent-max-point": "最大贈送點數",
+            "limit_give_up": "錢包餘額底限"
+        },
+        "activity-wallet-log": {
+            "receive": {
+                "title": "轉回狀態",
+                "all": "全選",
+                "received": "已轉回",
+                "not-received": "未轉回"
+            },
+            "account": "會員帳號",
+            "product-name": "產品名稱",
+            "water-limit": "流水限制",
+            "current-water": "當前流水",
+            "points": "可使用點數",
+            "current-points": "當前點數",
+            "receive-at": "領取時間",
+            "receive-amount": "領取金額",
+            "is-receive": "是否轉回",
+            "created-at": "購買時間",
+            "title-cancel": "取消會員購買的活動錢包",
+            "price": "購買價格",
+            "amount": "退回的金額",
+            "reason": "取消原因",
+            "water": "鎖定流水",
+            "btn-report-log": "注單",
+            "cancelDate": "取消時間",
+            "cancelReceiveAmount": "退回金額",
+            "cancel-agent": "取消操作人"
+        },
+        "bank-group": {
+            "title": "帳戶群組",
+            "group-name": "帳戶群組名稱",
+            "add-group": "新增帳戶群組",
+            "edit-group": "編輯帳戶群組",
+            "member": "查看會員",
+            "member-list": "會員列表",
+            "member-number": "會員人數",
+            "fullpay-title": "金流通道",
+            "edit-fullpay-title": "金流通道設定",
+            "edit-amount-title": "累積額度設定",
+            "order": "順序",
+            "amount-limit": "通道限額(0為不限制)",
+            "rotation_status": "是否啟用通道輪流功能",
+            "confirm": "如果金流設定有更動,會移除之前的通道設定,確定修改嗎?",
+            "curModify": {
+                "title": "變更累積額度"
+            }
+        },
+        "stuck-money": {
+            "col-franchisee": "加盟商",
+            "col-platform": "遊戲平臺",
+            "col-type": "動作類型",
+            "col-error": "錯誤方式",
+            "col-member": "會員帳號/名稱",
+            "col-before-point": "轉移前點數",
+            "col-after-point": "轉移後點數",
+            "col-point": "被卡住的點數",
+            "col-agent": "負責處理的代理帳號/名稱",
+            "col-status": "處理狀態",
+            "col-error-message": "錯誤訊息",
+            "type-info": {
+                "withdraw": "從遊戲取點",
+                "deposit": "存點到遊戲"
+            },
+            "error-info": {
+                "transfer": "移轉點數時產生的錯誤",
+                "balance": "餘額產生的錯",
+                "match": "兩次餘額不符的錯",
+                "unknow": "未知錯誤"
+            },
+            "status-info": {
+                "completed": "完成",
+                "cancel": "取消",
+                "pending": "待處理"
+            },
+            "process-info": {
+                "none": "不須處理",
+                "back": "退款",
+                "pending": "未有動作"
+            },
+            "label-member": "會員帳號",
+            "label-agent": "代理帳號",
+            "label-process": "處理方式"
+        }
+    }
+}

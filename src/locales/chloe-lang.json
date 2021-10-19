@@ -1,0 +1,85 @@
+{
+    "message": "hello i18n !!",
+    "common": {
+        "all": "全部",
+        "type": "類型",
+        "status-label": "狀態",
+        "status-enabled": "啟用",
+        "status-disabled": "停用",
+        "noLimit": "不限制",
+        "status-enabled-label": "啟用狀態",
+        "edit": "編輯",
+        "announcement": "公告",
+        "cancel": "取消",
+        "system": "系統訊息",
+        "add": "新增",
+        "dialog-add": "新增{name}",
+        "dialog-edit": "修改{name}",
+        "select": "請選擇",
+        "send": "送出",
+        "franchisee": "加盟商",
+        "query": "查詢",
+        "clear": "清除",
+        "reset": "重設",
+        "submit": "提交",
+        "agent": "代理",
+        "member": "會員",
+        "option": "操作"
+    },
+    "component": {
+        "sms": {
+            "smsUser": {
+                "franchisee-id": "加盟商ID",
+                "module-id": "簡訊模組ID",
+                "module-name": "SMS模組名稱",
+                "account": "使用者帳號",
+                "copy": "複製"
+            },
+            "smsUserDialog": {
+                "sms-module": "簡訊模組",
+                "sms-user": "使用者帳號",
+                "sms-password": "使用者密碼",
+                "signature": "簽章"
+            },
+            "smsTemplate": {
+                "recognize-name": "辨識用名稱",
+                "function-name": "功能名稱",
+                "updated-at": "最後修改時間"
+            },
+            "smsTemplateDialog": {
+                "account": "使用者帳號",
+                "remark": "備註",
+                "content": "發送內容",
+                "phone-captcha": "手機驗證碼",
+                "password-reset": "密碼重設"
+            },
+            "smsLog": {
+                "module-name": "Sms模組名稱",
+                "user-name": "Sms帳號",
+                "phone": "發送對象",
+                "content": "內容",
+                "sendId": "回傳id",
+                "completed": "是否成功",
+                "credit": "餘額",
+                "cost": "本次花費",
+                "total": "發送筆數",
+                "num-success": "成功筆數",
+                "num-failures": "失敗筆數",
+                "message": "訊息",
+                "remark": "備註",
+                "creator": "操作者",
+                "created-at": "建立時間",
+                "send": "發信",
+                "resend": "重發"
+            },
+            "smsLogDialog": {
+                "title": "發送信件",
+                "content": "發送內容",
+                "user-name": "Sms帳號",
+                "phone": "發送對象",
+                "phone-placeholder": "電話以逗號分隔，如: 0912345678,093456789..."
+            }
+        }
+    },
+    "view": {}
+}

@@ -1,0 +1,3656 @@
+{
+    "message": "hello i18n !!",
+    "menu": {
+        "view_31": "资料审核",
+        "view_34": "游戏、平台管理",
+        "view_35": "个人管理",
+        "view_36": "个人资料",
+        "view_38": "交易记录(加盟主)",
+        "view_46": "系统管理",
+        "view_48": "角色权限管理",
+        "view_49": "俱乐部管理",
+        "view_50": "选单管理",
+        "view_51": "接口(API)管理",
+        "view_52": "平台管理",
+        "view_53": "游戏类型管理",
+        "view_54": "游戏管理",
+        "view_55": "公司成员管理",
+        "view_56": "组织管理",
+        "view_57": "会员管理",
+        "view_58": "会员注册审核",
+        "view_60": "站内信管理",
+        "view_61": "类型管理",
+        "view_62": "跑马灯管理",
+        "view_63": "站内信通知",
+        "view_66": "讯息",
+        "view_67": "审核/通知管理",
+        "view_69": "轮播图管理",
+        "view_72": "优惠活动",
+        "view_73": "公司帐户管理",
+        "view_77": "会员标签管理",
+        "view_79": "代理申请优惠",
+        "view_80": "会员存款",
+        "view_82": "审核代理优惠申请",
+        "view_84": "会员资料修改",
+        "view_85": "简讯平台帐号管理",
+        "view_86": "简讯",
+        "view_87": "发信文本管理",
+        "view_94": "游戏标签管理",
+        "view_105": "错误补点与回收",
+        "view_111": "报表",
+        "view_112": "游戏报表",
+        "view_115": "会员优惠",
+        "view_116": "优惠群组",
+        "view_117": "优惠管理",
+        "view_119": "首页",
+        "view_123": "月结算",
+        "view_124": "简讯记录",
+        "view_126": "加盟商管理",
+        "view_127": "预借额度",
+        "view_129": "预借纪录(加盟主)",
+        "view_131": "会员提款",
+        "view_132": "会员银行卡管理",
+        "view_133": "日结算",
+        "view_134": "登入纪录",
+        "view_137": "系统记录",
+        "view_138": "错误记录",
+        "view_139": "报表同步记录",
+        "view_140": "游戏请求记录",
+        "view_141": "操作记录",
+        "view_142": "退水派发",
+        "view_143": "红利派发",
+        "view_144": "登入记录",
+        "view_145": "会员管理",
+        "view_146": "电话修改记录",
+        "view_147": "会员银行卡记录",
+        "view_148": "任务",
+        "view_149": "赠送固定型点数",
+        "view_150": "流水赠送百分比点数",
+        "view_151": "会员任务审核",
+        "view_152": "优惠管理",
+        "view_153": "赠点活动",
+        "view_154": "版本资讯",
+        "view_156": "会员交易纪录",
+        "view_157": "进板公告",
+        "view_158": "公告列表",
+        "view_159": "自动派发",
+        "view_160": "第三方储值记录",
+        "view_161": "第三方提款纪录",
+        "view_162": "优惠活动(新)",
+        "view_163": "会员出款",
+        "view_164": "公司帐户报表",
+        "view_165": "俱乐部会员升等",
+        "view_166": "代客储值",
+        "view_167": "金流管理",
+        "view_168": "第三方代储值",
+        "view_169": "会员活跃情况",
+        "view_170": "活动钱包报表",
+        "view_171": "活动钱包管理",
+        "view_172": "活动钱包纪录",
+        "view_173": "游戏报表(会员部分查询)",
+        "view_174": "优惠报表",
+        "view_175": "活动钱包",
+        "view_177": "审核原因管理",
+        "view_178": "总报表",
+        "view_179": "帐户群组",
+        "view_180": "推广连结管理",
+        "view_181": "历史游戏报表",
+        "view_182": "会员帐号查询",
+        "view_185": "优惠活动群组",
+        "view_186": "会员活跃情况",
+        "view_187": "首页",
+        "view_188": "卡钱纪录",
+        "view_189": "平台部分功能管理",
+        "view_190": "旧系统历史报表",
+        "view_191": "会员游戏报表",
+        "view_192": "存款公告",
+        "view_193": "未转移的会员"
+    },
+    "common": {
+        "all": "全部",
+        "type": "类型",
+        "status-label": "状态",
+        "status-enabled": "启用",
+        "status-disabled": "停用",
+        "api-disabled": "无操作权限",
+        "noLimit": "不限制",
+        "status-enabled-label": "启用状态",
+        "edit": "编辑",
+        "clone": "复制",
+        "copied": "已复制",
+        "announcement": "公告",
+        "system": "系统讯息",
+        "agent-send": "代理发信",
+        "status-locked": "锁定",
+        "status-unlocked": "未锁定",
+        "status-locked-label": "锁定状态",
+        "edit-password": "修改密码",
+        "invite-host": "推广连结",
+        "add": "新增",
+        "copy": "复制",
+        "dialog-add": "新增{name}",
+        "dialog-edit": "修改{name}",
+        "select": "请选择",
+        "select-all": "全选",
+        "select-other": "其他",
+        "send": "送出",
+        "franchisee": "加盟商",
+        "testing-line": "测试线",
+        "is-fun": "测试版",
+        "query": "查询",
+        "save": "储存",
+        "search": "查询",
+        "clear": "清除",
+        "reset": "重设",
+        "submit": "提交",
+        "agent": "代理",
+        "member": "会员",
+        "member-name": "会员名称",
+        "remove": "移除",
+        "close": "关闭",
+        "delete": "删除",
+        "option": "操作",
+        "detail": "详细",
+        "not-set": "未设定",
+        "date": "日期",
+        "site": "端口",
+        "account": "帐号",
+        "account-and-name": "{account}【{name}】",
+        "ok": "确定",
+        "cancel": "取消",
+        "unset": "未设定",
+        "setup-is-complete": "设定完成",
+        "no-data": "无资料",
+        "device": "设备",
+        "os": "系统",
+        "list": "列表",
+        "display": "展开",
+        "hide": "隐藏",
+        "browser": "浏览器",
+        "referrer": "来源",
+        "fullpay-channel": "三方通道",
+        "show-qrcode": "QR code",
+        "dialog-add-title": "新增 {name}",
+        "dialog-edit-title": "修改 {name}",
+        "level-label": "组织层级",
+        "level-0": "公司",
+        "level-1": "加盟主",
+        "level-2": "大股东",
+        "level-3": "股东",
+        "level-4": "总代理",
+        "level-5": "代理",
+        "level-6": "会员",
+        "level-sub": "子帐号",
+        "level-member": "会员",
+        "col-member-parent": "上层代理",
+        "col-franchisee": "加盟商",
+        "col-enabled": "启 / 停用",
+        "col-bank": "银行卡",
+        "col-bet_amount": "存款流水",
+        "col-locked": "锁定",
+        "col-ip-white": "白名单",
+        "col-committed-at": "送审时间",
+        "col-date": "日期",
+        "col-week": "星期",
+        "col-updated-at": "修改时间",
+        "col-finished-at": "完成时间",
+        "col-created-at": "建立时间",
+        "col-transaction-at": "出款时间",
+        "col-register-at": "注册时间",
+        "col-deleted-at": "删除时间",
+        "col-show-time": "显示时间",
+        "col-editor": "修改人",
+        "col-creator": "创建人",
+        "col-operator": "操作人",
+        "col-options": "操作",
+        "col-percent": "占成",
+        "col-remark": "备注",
+        "col-status": "状态",
+        "col-ip": "IP",
+        "col-phone": "手机号码",
+        "col-account-name": "帐号 / 名称",
+        "col-loggedin": "登入资讯",
+        "col-loggedin-at": "登入时间",
+        "col-role": "角色",
+        "col-countryName": "国家",
+        "col-loggedin-errors": "失败次数",
+        "all-franchisee": "所有加盟商",
+        "franchisee-label": "加盟商",
+        "col-multi_wallet": "平台点数",
+        "col-transform_log": "交易历程",
+        "col-forthDialog": "四代组织",
+        "col-reset-lock": "全部归零",
+        "col-last-summary": "会员备注",
+        "col-company": "公司名称",
+        "col-game-platform": "平台锁定",
+        "col-short-link": "短网址",
+        "upgradeRank": "升等设定",
+        "start_at": "开始时间",
+        "end_at": "结束时间",
+        "change": "替换",
+        "fast-setting": "快速设定",
+        "giveUp": "已放弃",
+        "default": "预设",
+        "index-no-auth": "没有首页权限",
+        "bank": {
+            "name": "户名",
+            "account": "帐户",
+            "bank-name": "银行名称",
+            "branch-name": "分行名称",
+            "status": {
+                "title": "状态",
+                "create": "新增",
+                "modify": "修改",
+                "delete": "删除"
+            },
+            "auto-pass": "自动通过"
+        },
+        "common": "共用",
+        "setting": {
+            "use-money-format": "使用货币格式"
+        },
+        "gender": {
+            "F": "女",
+            "M": "男",
+            "NA": "未设定"
+        },
+        "franchisee-options": {
+            "company-label": "公司专属"
+        },
+        "year": "年",
+        "month": "月",
+        "week": {
+            "sunday": "日",
+            "monday": "一",
+            "tuesday": "二",
+            "wednesday": "三",
+            "thursday": "四",
+            "friday": "五",
+            "saturday": "六"
+        },
+        "minute": "分",
+        "seconds": "秒",
+        "alert": {
+            "info": "提醒",
+            "warning": "警告",
+            "error": "错误"
+        },
+        "wallet": "钱包",
+        "agent-wallet": {
+            "money": "可用点数",
+            "settlement": "结算金",
+            "betAmount": "流水量",
+            "deductionBetAmount": "回补流水量"
+        },
+        "member-wallet": {
+            "money": "点数",
+            "bonus": "红利"
+        },
+        "agent-wallet-type": {
+            "edit-money": "可用点数修改(公司)",
+            "edit-settlement": "结算金修改(公司)",
+            "month-settlement": "月结入帐",
+            "month-settlement-from": "月结交收",
+            "undo-month-settlement": "撤消月结",
+            "undo-month-settlement-from": "撤消月结交收",
+            "give-member": "派点 - 会员",
+            "give-agent": "派点 - 代理",
+            "give-error": "派点 - 错误补点",
+            "take-back-member": "派点收回 - 会员",
+            "take-back-agent": "派点收回 - 代理",
+            "get-from-agent": "上层派点",
+            "get-from-error": "错误补点",
+            "be-taken-back-agent": "上层回收",
+            "be-taken-back-error": "错误回收",
+            "deposit-bank": "存款(银行)",
+            "deposit-third": "存款(第三方)",
+            "money-to-settlement": "兑换结算金",
+            "settlement-to-money": "兑换可用点数",
+            "loan": "预借额度",
+            "compensatory": "官方核发 - 错误补点",
+            "settlement": "月结算"
+        },
+        "member-wallet-type": {
+            "all": "全部",
+            "be-taken-back-agent": "代理回收点数",
+            "be-taken-back-error": "错误回收",
+            "bet-completed": "注单完成",
+            "bet": "下注",
+            "bonus-to-money": "红利转点数",
+            "bonus": "分红",
+            "commission": "抽佣结算",
+            "coupon": "优惠活动赠点",
+            "deposit-bank": "银行存款",
+            "deposit-fee": "存款手续费",
+            "deposit-third": "第三方存款",
+            "edit-bonus": "公司补红利点数",
+            "edit-money": "可用点数修改（公司）",
+            "error": "错误补点/收回",
+            "exchange": "红利兑换",
+            "get-from-agent": "代理派点",
+            "get-from-error": "错误补点",
+            "get-or-be-taken-back": "收到点数/被收回",
+            "payin": "单钱包扣点数",
+            "payout": "单钱包加点数",
+            "prize": "彩金",
+            "reward": "点数转现金",
+            "rollback": "注单重算",
+            "settle": "开奖",
+            "transfer-game": "点数转出至游戏",
+            "transfer-wallet": "点数转回至平台",
+            "undo-bonus": "撤消分红",
+            "undo-water": "撤消退水",
+            "water": "退水",
+            "withdraw": "提款",
+            "withdraw-fee": "提款手续费",
+            "application-withdraw": "申请提款",
+            "locked-amount": "锁定金额",
+            "edit-reward": "上层修改优惠活动赠点",
+            "withdraw-disapproved": "提款审核不通过",
+            "transaction-cancel": "取消出款",
+            "agent-edit-deposit": "代客储值",
+            "agent-edit-deposit-rollback": "代客储值收回",
+            "third-party-deposit": "第三方代储值",
+            "third-party-deposit-rollback": "第三方代储值收回",
+            "manual-edit-add": "人工增加额度",
+            "manual-edit-sub": "人工减少额度",
+            "activity-wallet-buy": "活动钱包",
+            "activity-wallet-disapprove": "活动钱包不通过",
+            "get-from-activity-wallet": "活动钱包转回",
+            "activity-wallet-cancel": "取消已购买的活动钱包",
+            "lost-money-from-platform": "点数遗失补点"
+        },
+        "invalids": {
+            "required": "此为必填栏位",
+            "confirm-password-invalid": "两次密码不相同",
+            "franchisee-required": "请选择加盟商"
+        },
+        "review-status": {
+            "approved": "已通过",
+            "disapproved": "不通过",
+            "review": "审核中",
+            "cancel": "取消",
+            "pending": "未送审",
+            "none": "未审核",
+            "transaction": {
+                "completed": "已出款",
+                "none": "未出款",
+                "error": "出款失败",
+                "transaction-cancel": "取消出款",
+                "manual-transaction": "已手动出款"
+            }
+        },
+        "report-status": {
+            "completed": "已结算",
+            "error": "注单错误",
+            "cancel": "已取消",
+            "betting": "下注中",
+            "settle": "已开奖",
+            "rollback": "回滚",
+            "invalid": "无效"
+        },
+        "carousel": {
+            "position": {
+                "web-home": "web / 首页",
+                "web-slot": "web / slot 页面",
+                "mobile-home": "mobile / 首页",
+                "mobile-slot": "mobile / slot页面"
+            },
+            "link-type": {
+                "none": "无转页",
+                "link": "连结",
+                "game": "游戏",
+                "coupon": "优惠"
+            }
+        },
+        "log-data-modify": {
+            "model": {
+                "Agent": "使用者/代理",
+                "Member": "会员",
+                "Marquee": "跑马灯",
+                "Carousel": "轮播图",
+                "MemberBank": "会员银行卡",
+                "Franchisee": "加盟商",
+                "FranchiseePlatformConfig": "加盟商-游戏平台占成",
+                "FranchiseePercentConfig": "加盟商-手续费占成",
+                "AgentPlatformConfig": "代理组织-游戏平台占成",
+                "AgentPercentConfig": "代理组织-手续费占成",
+                "Bank": "公司银行卡",
+                "Game": "游戏",
+                "GamePlatform": "游戏平台",
+                "Role": "角色",
+                "RoleView": "角色-选单权限",
+                "RoleApi": "角色-API权限",
+                "Club": "俱乐部",
+                "ClubRank": "俱乐部层级",
+                "ClubRankConfig": "俱乐部层级-退水设定",
+                "InvitationHost": "推广连结管理",
+                "QuestRewardCombine": "优惠活动"
+            },
+            "action": {
+                "updated": "更新资料",
+                "replace": "批次更新",
+                "created": "新增资料",
+                "deleted": "删除资料"
+            }
+        }
+    },
+    "component": {
+        "move-invitation-code": {
+            "title": "转移邀请码",
+            "log": "操作纪录",
+            "btn-move": "转移",
+            "col-code": "邀请码",
+            "col-from": "原本代理",
+            "col-to": "目前代理",
+            "col-operator": "操作者",
+            "col-created-at": "操作时间",
+            "confirm": "确认转移邀请码给 {name}【{account}】？"
+        },
+        "app-header": {
+            "franchisee-label": "加盟商",
+            "role-label": "角色",
+            "user-label": "帐号 / 名称",
+            "logout": "登出",
+            "btn-loan": "预借额度",
+            "language": "语系",
+            "loans": {
+                "title": "预借申请记录",
+                "more-link": "更多记录",
+                "col-committed-at": "提交日期",
+                "col-apply-amount": "申请额度",
+                "col-status": "状态"
+            }
+        },
+        "app-menu": {
+            "title": "选单"
+        },
+        "socket": {
+            "socket-bar": {
+                "status": {
+                    "connected": "已连线",
+                    "connecting": "连线中",
+                    "disconnected": "断线"
+                },
+                "online-agents": "控端人数",
+                "online-members": "会员人数",
+                "base-members": "基本人数",
+                "min-base-members": "最低基本人数",
+                "max-base-members": "最高基本人数",
+                "more": "更多",
+                "refresh-online": "刷新",
+                "edit-base-member-propmpt": "修改会员在线基本人数",
+                "invalids": {
+                    "number-only": "必需为数字",
+                    "positive-intege-only": "必需为正整数"
+                }
+            },
+            "review-notification-bar": {
+                "agent-group": "代理",
+                "member-group": "会员",
+                "badge-label": {
+                    "bank-limit": "银行帐户限额",
+                    "bank-limit-short": "银",
+                    "agent-compensatory": "错误补点",
+                    "agent-compensatory-short": "补",
+                    "agent-loan": "代理预借",
+                    "agent-loan-short": "借",
+                    "member-register": "会员注册",
+                    "member-register-short": "注",
+                    "member-deposit": "会员存款",
+                    "member-deposit-short": "存",
+                    "member-information": "资料修改",
+                    "member-information-short": "资",
+                    "member-withdraw": "会员提款",
+                    "member-withdraw-short": "提",
+                    "member-bank": "银行卡申请",
+                    "member-bank-short": "卡",
+                    "letter-message": "站内信讯息",
+                    "letter-message-short": "信",
+                    "member-quest": "会员任务",
+                    "member-quest-short": "任",
+                    "member-transaction": "会员出款",
+                    "member-transaction-short": "款",
+                    "agent-edit-deposit": "代客储值",
+                    "agent-edit-deposit-short": "代",
+                    "agent-third-deposit": "第三方代储值",
+                    "agent-third-deposit-short": "三",
+                    "member-activity-wallet": "活动钱包",
+                    "member-activity-wallet-short": "活",
+                    "path-limit": "三方通道限额",
+                    "path-limit-short": "通"
+                }
+            },
+            "online-dialog": {
+                "title": "更多资讯",
+                "refresh": "刷新",
+                "col": {
+                    "name": "加盟商",
+                    "agents": "控端人数",
+                    "members": "会员人数",
+                    "base": "基本人数",
+                    "sum": "人数加总"
+                }
+            },
+            "online-agents-dialog": {
+                "title": "在线控端成员列表",
+                "col": {
+                    "id": "编号",
+                    "ip": "IP",
+                    "login-at": "登入时间",
+                    "account-name": "帐号 / 名称",
+                    "role-rank": "角色 (阶层)",
+                    "token": "Session",
+                    "level": "层级",
+                    "num-connections": "连线数"
+                },
+                "logout": "登出",
+                "confirm-logout-user": "确定要将 {name} 强制登出？"
+            },
+            "online-members-dialog": {
+                "title": "在线会员列表",
+                "col": {
+                    "id": "编号",
+                    "account-name": "帐号 / 名称",
+                    "token": "Session",
+                    "ip": "IP",
+                    "login-at": "登入时间"
+                },
+                "logout": "登出",
+                "confirm-logout-user": "确定要将 {name} 强制登出？"
+            }
+        },
+        "notify": {
+            "title": {
+                "info": "提醒",
+                "success": "成功",
+                "warning": "警告",
+                "error": "错误"
+            }
+        },
+        "announcement": {
+            "list": {
+                "dialog-name": "进板公告",
+                "title": "标题",
+                "show-time": "显示时间",
+                "no-limit": "无限制",
+                "updatedAt": "修改时间",
+                "createdAt": "建立时间",
+                "add": "新增"
+            },
+            "edit": {
+                "dialog-name-add": "新增公告",
+                "dialog-name-edit": "修改公告",
+                "title": "标题",
+                "content": "内容",
+                "start-at": "开始时间",
+                "end-at": "结束时间",
+                "visable": "是否可视",
+                "sendAll": "发送全部"
+            }
+        },
+        "old-system-transfer-log": {
+            "list":{
+                "title": "会员转移纪录(手机异动)",
+                "account": "会员帐号",
+                "phone": "手机号码",
+                "phone_old": "旧手机号码",
+                "transfer_at": "转移时间"
+            }
+        },
+        "common": {
+            "status-setting": {
+                "status-setting": "设定状态",
+                "enabled-status": "启用状态",
+                "locked-status": "锁定状态",
+                "is-activity-wallet": "是否启用活动钱包"
+            },
+            "testing-setting": {
+                "testing-setting": "测试状态",
+                "enable-testing": "启用测试"
+            },
+            "time": {
+                "createdAt": "建立时间",
+                "updatedAt": "修改时间",
+                "startTime": "开始时间",
+                "startTimeLimit": "开始时间不限制",
+                "endTime": "结束时间",
+                "endTimeLimit": "结束时间不限制",
+                "showTime": "显示时间"
+            },
+            "ip-whitelist-dialog": {
+                "title": "IP 白名单",
+                "input-ip-label": "请输入 ip"
+            },
+            "franchisee-select": {
+                "label": "加盟商",
+                "no-select": "请选择加盟商"
+            },
+            "wallet-operate-dialog": {
+                "no-select": "请选择交易类型",
+                "mode-give": "派点",
+                "mode-take-back": "收回",
+                "mode-edit-add": "增加额度",
+                "mode-edit-sub": "减少额度",
+                "mode-manual-edit-add": "人工增加额度",
+                "mode-manual-edit-sub": "人工减少额度",
+                "mode-give-error": "错误补点",
+                "mode-take-back-error": "错误收回",
+                "mode-loan": "预借额度",
+                "mode-write-off-in": "交收(收款)",
+                "mode-write-off-out": "交收(出款)",
+                "mode-add-reward": "增加优惠活动赠点",
+                "mode-sub-reward": "减少优惠活动赠点",
+                "mode-add-deposit": "代客储值",
+                "mode-third-deposit": "第三方代储值",
+                "mode-lost-money-from-platform": "点数遗失补点",
+                "target": "对象",
+                "target-amount": "对象额度",
+                "user-amount": "您的额度",
+                "label-money": "可用点数",
+                "label-settlement": "结算金",
+                "remark-label": "备注",
+                "explain-label": "原因/说明",
+                "transaction-at": "汇款时间",
+                "transaction-id": "存款帐号末5码",
+                "select-lost-money-from-platform": "转回的平台名称",
+                "invalid": {
+                    "user-money-insufficient": "您的余额不足",
+                    "can-not-zero": "不得为零",
+                    "required": "此为必填"
+                },
+                "description": {
+                    "edit-add": "增加对象「{target}」的额度，不会影响您的可用点数额",
+                    "edit-sub": "减沙对象「{target}」的额度，不会影响您的可用点数额",
+                    "give": "扣除您的「可用点数额」来派给对象「{target}」 (PS: 必需有足够的可用点数)。",
+                    "take-back": "从对象对象「{target}」收回额度至您的「可用点数额」 (PS: 对象必需有足够的可用点数)。",
+                    "give-error": "因系统错误造成点数不正确，由公司审核后该额度，再将补发点数给对象。",
+                    "take-back-error": "因系统错误造成点数不正确，将该点数回收给公司处理。(PS: 回收的点数不会计入您的钱包)",
+                    "loan": "预借额度给指定的「加盟成员」，并在「结算金」中增加预借的负债。",
+                    "write-off-in": "交收/收款，从对象的「结算金」收回额度并累计到自己的「结算金」中。",
+                    "write-off-out": "交收/付款，从对象的「结算金」收回额度并累计到自己的「结算金」中。",
+                    "add-reward": "增加对象「{target}」的优惠活动赠点",
+                    "sub-reward": "减少对象「{target}」的优惠活动赠点",
+                    "add-deposit": "增加对象「{target}」的存款额度，不会影响您的可用点数额",
+                    "third-party-deposit": "增加对象「{target}」的存款额度，不会影响您的可用点数额",
+                    "manual-edit-add": "增加对象「{target}」的额度，不会影响您的可用点数额，备注为必填",
+                    "manual-edit-sub": "减沙对象「{target}」的额度，不会影响您的可用点数额，备注为必填",
+                    "lost-money-from-platform": "增加对象「{target}」的额度，点数遗失补点"
+                }
+            },
+            "edit-password-dialog": {
+                "title": "修改密码",
+                "target": "对象",
+                "old-password": "旧密码",
+                "new-password": "新密码",
+                "confirm-password": "确认密码"
+            },
+            "invite-host-dialog": {
+                "title": "邀请连结",
+                "invite-code": "邀请码"
+            }
+        },
+        "role": {
+            "role-edit-dialog": {
+                "title-edit": "修改角色",
+                "title-add": "新增角色",
+                "name": "角色名称",
+                "rank": "角色层级",
+                "level": "使用阶级",
+                "level-0": "公司",
+                "level-1": "加盟主",
+                "level-2": "大股东",
+                "level-3": "股东",
+                "level-4": "总代理",
+                "level-5": "代理",
+                "status": "状态设定",
+                "common-status": "共用状态",
+                "enabled-status": "启用状态",
+                "full-ip-status": "检视完整 IP",
+                "full-info-status": "检视完整资讯",
+                "rank-tip": "阶级大的角色可操作阶级低的角色设定(越接近 0, 阶级越大)。"
+            },
+            "role-authority-dialog": {
+                "title": "【{name}】角色权限",
+                "filter-only": "筛选状态",
+                "filter-keyword": "关键字",
+                "copy-role-auth": "套用角色权限",
+                "btn-display-detail": "显示群组底下 apis",
+                "query": {
+                    "checked": "已启用",
+                    "unchecked": "未启用",
+                    "allowed": "可管理"
+                },
+                "checkbox": {
+                    "list": "列表",
+                    "add": "新增",
+                    "edit": "编辑",
+                    "delete": "删除",
+                    "member-add": "会员-新增成员",
+                    "member-edit": "会员-编辑",
+                    "member-destroy": "会员-注销",
+                    "member-password": "会员-修改密码",
+                    "member-platform": "会员-平台帐号",
+                    "member-log": "会员-交易历程",
+                    "member-bank": "会员-银行卡",
+                    "member-bet-amount": "会员-存款流水",
+                    "member-quest": "会员-优惠",
+                    "member-game-platform": "会员-平台点数",
+                    "member-forth-gen-org": "会员-四代组织",
+                    "member-reset-lock-money": "会员-全部归零",
+                    "member-summary": "会员-备注",
+                    "member-transfer-old": "会员-手动转移",
+                    "mamber-activity-wallet": "会员-活动钱包",
+                    "member-bank-group": "会员-帐户群组",
+                    "agent-add": "代理-新增成员",
+                    "agent-move-invitation-code": "代理-转移邀请码",
+                    "agent-invitation": "代理-推广连结",
+                    "member-edit-money": "会员-增加/减少额度",
+                    "member-manual-edit-money": "会员-人工增加/减少额度",
+                    "member-edit-bonus": "会员-公司补红利点数",
+                    "member-give": "会员-派点",
+                    "member-take-back": "会员-收回",
+                    "member-give-error": "会员-错误补点",
+                    "member-take-back-error": "会员-错误收回",
+                    "member-edit-reward": "会员-增加/减少优惠活动赠点",
+                    "member-add-deposit": "会员-代客储值",
+                    "member-third-party-deposit": "会员-第三方代储值",
+                    "member-loan": "会员-预借额度",
+                    "member-fullpay-channel": "会员-三方通道",
+                    "member-locked-game-platform": "会员-平台锁定",
+                    "member-confirm-data": "会员-手动验证",
+                    "agent-sub-list": "子帐号-列表",
+                    "agent-sub-add": "子帐号-新增",
+                    "agent-sub-edit": "子帐号-编辑",
+                    "agent-edit-money": "代理-修改点数相关",
+                    "socket-bank-group-fullpay": "通知-三方通道限额",
+                    "socket-bank-limit": "通知-银行帐户限额",
+                    "member-lost-money-from-platform": "会员-点数遗失补点",
+                    "member-toggle-enabled": "会员-启停用",
+                    "member-toggle-locked": "会员-锁定",
+                    "member-reset-login-error": "会员-重置登入错误",
+                    "member-info": "会员-个人资料",
+                    "logger-third-deposit-manual": "第三方手动通过",
+                    "old-transfer-member": "会员转移资讯",
+                    "link-365": "成数-365",
+                    "link-sg": "成数-SG"
+                }
+            },
+            "role-authority-tree": {
+                "default-group-name": "其它"
+            }
+        },
+        "company": {
+            "company-edit-dialog": {
+                "account": "帐号",
+                "password": "密码",
+                "name": "名称",
+                "title-edit": "修改公司",
+                "title-add": "新增公司",
+                "role-options": "角色权限"
+            }
+        },
+        "franchisee": {
+            "franchisee-edit-dialog": {
+                "title-add": "新增加盟商",
+                "title-edit": "修改加盟商",
+                "name": "加盟商名称",
+                "host": "官网host",
+                "add-host": "新增host",
+                "default-agent": "预设代理",
+                "default-club-rank": "预设俱乐部层级",
+                "resetLock": "归零 (当会员点数低于此时锁定金额归零)",
+                "resetLockActTrue": "启用",
+                "resetLockActFalse": "不启用",
+                "fullpayCrtPath": "FP认证位置",
+                "fullpayId": "FP ID",
+                "fullpayManageUrl": "FP 管理位置",
+                "fullpayServerUrl": "FP 连线位置",
+                "default-bank-group": "预设帐户群组",
+                "member-fullpay-mode": "三方通道只查上层",
+                "paymentFlowMode": "金流管理模式",
+                "handIn": "上缴",
+                "agentTake": "下放",
+                "reviewWithdrawSingleStep": "合并提款跟出款步骤",
+                "member-mode": "会员四代模式"
+            },
+            "franchisee-config-dialog": {
+                "title": "各项占成设定",
+                "name": "名称",
+                "agent": "代理线名称",
+                "default-percent": "预设占成比",
+                "real-percent": "占 {value} %",
+                "fee-percent": "手续费占成比(%)",
+                "fee-enabled": "启用手续费设定",
+                "coupon-percent": "优惠占成比(%)",
+                "commission-percent": "退佣占成比(%)",
+                "coupon-enabled": "启用优惠设定",
+                "fast-setting": "快速设定",
+                "game-platform": "游戏平台",
+                "percent": "占成比(%)",
+                "water-percent": "代理退水(%)",
+                "bonus-percent": "代理红利(%)",
+                "member-bonus": "会员红利(四代循环)",
+                "allocate-agent-water-percent": "提拨比(%)",
+                "allocate-agent-bonus-percent": "提拨比(%)",
+                "allocate-member-bonus-percent": "提拨比(%)",
+                "member-upper-3-bonus-percent": "上3层占比(%)",
+                "member-upper-2-bonus-percent": "上2层占比(%)",
+                "member-upper-1-bonus-percent": "上1层占比(%)",
+                "exists": "(未设定)"
+            },
+            "franchisee-commission-dialog": {
+                "title": "退佣设定",
+                "is-open": "是否启用",
+                "real-percent": "占 {value} %",
+                "allocate-agent-water-percent": "提拨比(%)"
+            },
+            "franchisee-ration-dialog": {
+                "title": "自动派发",
+                "name": "名称",
+                "agent": "代理线名称"
+            },
+            "franchisee-ration-edit-dialog": {
+                "autoBonus": "自动红利派发",
+                "autoBonusAt": "派发时间",
+                "enable": "启用",
+                "disable": "不启用"
+            },
+            "clubRankWater": {
+                "title": "自动退水",
+                "autoBonus": "自动派发红利",
+                "autoBonusAt": "派发时间",
+                "enable": "启用",
+                "name": "俱乐部",
+                "autoWater": "自动派发退水",
+                "autoWaterAt": "派发时间",
+                "disable": "不启用"
+            }
+        },
+        "marquee": {
+            "marquee-edit-dialog": {
+                "title-add": "新增跑马灯",
+                "title-edit": "修改跑马灯",
+                "franchisee": "加盟商",
+                "suitable": {
+                    "label": "站台",
+                    "agent": "控端",
+                    "member": "会员端"
+                },
+                "type": {
+                    "label": "类型",
+                    "normal": "一般",
+                    "hot": "热门",
+                    "deposit": "存款专区"
+                },
+                "content": "跑马灯内容",
+                "time-range": {
+                    "label": "时间区间",
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                },
+                "invalids": {
+                    "required": "此为必填",
+                    "must-over-start-time": "必需大于启始时间"
+                }
+            }
+        },
+        "carousel": {
+            "carousel-edit-dialog": {
+                "title-add": "新增轮播图",
+                "title-edit": "修改轮播图",
+                "franchisee": "加盟商",
+                "position": "选择位置",
+                "link-type": "转页类型",
+                "name": "名称",
+                "order": "排序",
+                "image": "图片上传",
+                "mobile-image": "手机图片上传",
+                "click-upload": "点击选择图片",
+                "showOrgImg": "检视原始图档",
+                "link": "连结网址",
+                "platform": "游戏所属平台",
+                "game": "选择游戏",
+                "coupon": "选择优惠",
+                "time-range": {
+                    "label": "时间区间",
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                }
+            }
+        },
+        "api": {
+            "api-edit-dialog": {
+                "remark-label": "备注 / 名称",
+                "view-label": "绑定页面",
+                "group-name-label": "群组名称",
+                "path-label": "api 路径",
+                "no-select-view": "请选择绑定页面",
+                "filter-label": "过滤路径"
+            }
+        },
+        "agent": {
+            "agent-list": {
+                "type-agent": "组织成员",
+                "type-sub-agent": "子帐号",
+                "type-member": "会员",
+                "edit-percent": "占成",
+                "go-365": "占成365",
+                "percent-setting": "个人成数设定:",
+                "go-sg": "占成SG",
+                "col": {
+                    "parent": "上层",
+                    "account-name": "帐号 / 名称",
+                    "role": "角色",
+                    "children": "下层",
+                    "sub-agent": "子帐号",
+                    "wallets": "可用点数 / 结算金",
+                    "status": "状态 / 锁定 / 白名单",
+                    "member-money-total": "会员余额",
+                    "member-number-total": "会员人数",
+                    "loggedin": "登入资讯",
+                    "editor": "修改者",
+                    "invitation-code": "邀请码"
+                },
+                "member-money-total": "会员总额度",
+                "member-number-total": "会员总人数",
+                "confirm-reset-error-count": "确定重设 {account}【{name}】成员的登入错误次数？"
+            },
+            "agent-fullpay-channel": {
+                "title": "第三方金流 通道管理",
+                "channel": "通道",
+                "bankGroup": "帐户群组",
+                "confirm-msg": "异动 {account}【{name}】成员的通道 将自动拔除底下所有成员 不该具有的通道!!!",
+                "inherit": "继承于："
+            },
+            "sub-agent-list": {
+                "subRole": "子帐号角色管理",
+                "col": {
+                    "extend": "继承",
+                    "account-name": "帐号 / 名称",
+                    "role": "角色",
+                    "children": "下层",
+                    "sub-agent": "子帐号",
+                    "status": "状态 / 白名单",
+                    "loggedin": "登入资讯",
+                    "editor": "修改者"
+                },
+                "dialog": {
+                    "title": "子帐号角色管理"
+                }
+            },
+            "agent-edit-dialog": {
+                "title-add": "新增成员",
+                "title-edit": "修改成员",
+                "account": "帐号",
+                "password": "密码",
+                "confirm-password": "确认密码",
+                "name": "名称",
+                "role": "帐号角色",
+                "parent": "上层成员",
+                "no-select-rule": "请选择角色",
+                "invalids": {
+                    "confirm-password-invalid": "两次密码不相同"
+                },
+                "line-id": "Line ID",
+                "line-link": "Line连结"
+            },
+            "agent-percent-dialog": {
+                "title": "各项占成设定",
+                "fee-percent": "手续费占成比(%)",
+                "commission-percent": "退佣占成比(%)",
+                "coupon-percent": "优惠占成比(%)",
+                "upper-limit": "上限 {value} %",
+                "parent-percent": "上层 {value} %",
+                "fast-setting": "快速设定",
+                "game-platform": "游戏平台",
+                "percent": "占成比(%)",
+                "water-percent": "退水占成比(%)",
+                "bonus-percent": "红利占成比(%)",
+                "no-setting": "(未设定)",
+                "confirm-save": "如超出的占成比将以上限为准,请问确定送出吗?"
+            },
+            "agent-wallet-list": {
+                "type-options": {
+                    "deposit": "存款",
+                    "widthdraw": "提款",
+                    "edit": "公司修改",
+                    "give-take-back": "派点/收回",
+                    "get-or-be-taken-back": "收到点数/被收回",
+                    "error": "错误补点/收回",
+                    "exchange": "兑换结算/可用点数",
+                    "loan-write-off": "预借 / 交收"
+
+                }
+            },
+            "agent-wallet-dialog": {
+                "account": "会员帐号",
+                "title": "交易记录",
+                "col-type": "交易类型",
+                "col-settlement": "结算金",
+                "col-money": "可用点数",
+                "col-change": "异动额",
+                "col-result": "异动后",
+                "col-editor": "操作人",
+                "col-platform-name": "游戏平台",
+                "give": "派点",
+                "take-back": "收回",
+                "edit": "修改",
+                "edit-money-title": "可用点数修改",
+                "edit-settlement-title": "结算金修改"
+            },
+            "agent-loan-dialog": {
+                "title": "预借额度",
+                "label-loan-amount": "预借的额度",
+                "message-confirm-loan": "确定要预借 {amount} 额度？ (预借的额度将会算在「结算金」的成本)"
+            },
+            "sub-agent-edit-dialog": {
+                "extend": "继承",
+                "title-add": "新增子帐号",
+                "title-edit": "修改子帐号",
+                "account": "帐号",
+                "password": "密码",
+                "confirm-password": "确认密码",
+                "name": "名称",
+                "role": "帐号角色",
+                "no-select-rule": "请选择角色",
+                "invalids": {
+                    "confirm-password-invalid": "两次密码不相同"
+                }
+            }
+        },
+        "review": {
+            "review-list": {
+                "col-applicate": "申请人",
+                "col-serial-num": "编号",
+                "col-review-role": "审核角色",
+                "col-status": "审核状态",
+                "col-committed-at": "送审时间",
+                "col-finished-at": "完成时间",
+                "btn-review": "审核",
+                "btn-record": "纪录",
+                "operator": "操作者",
+                "col-committed-pass-at": "审核通过时间",
+                "col-transaction-at": "出款时间",
+                "manual": "手动通过",
+                "col-pass": "快速通过"
+            },
+            "review-search-bar": {
+                "label-status": "审核状态",
+                "label-club-rank": "俱乐部层级",
+                "label-member-account": "会员帐号",
+                "label-apply-account": "申请人帐号",
+                "label-review-account": "最后审核角色",
+                "label-exclude-tester": "排除测试帐号",
+                "label-only-tester": "只有测试帐号",
+                "time-range": {
+                    "label": "时间区间",
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                },
+                "money-range": {
+                    "label-deposit": "存款额度范围",
+                    "label-withdraw": "提款金额范围",
+                    "label-compensatory": "申请金额范围",
+                    "to": "至",
+                    "min": "最小金额",
+                    "max": "最大金额"
+                },
+                "invalid-money": "金额有误，最小金额 {min}，最大金额 {max}",
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本周",
+                "last-week": "上周",
+                "this-month": "本月",
+                "last-month": "上月",
+                "transaction-status-options": {
+                    "none": "未出款",
+                    "pending": "出款中",
+                    "completed": "已出款",
+                    "error": "出款失败",
+                    "transaction-cancel": "取消出款",
+                    "transaction-manual": "已手动出款"
+                },
+                "total-money": "实际总额度",
+                "total-apply-money": "申请提款总额度",
+                "total-withdraw-fee": "总提款手续费",
+                "total-deposit-fee": "总手续费",
+                "total-deposit-apply-money": "申请存款总额度",
+                "total-number": "总笔数"
+            },
+            "review-dialog": {
+                "title": "审核资料",
+                "record-title": "审核纪录",
+                "record-title-change": "审核纪录(只显示更动栏位)",
+                "record-title-auto": "审核纪录(自动通过)",
+                "label-review-options": "审核选项",
+                "label-reason": "不通过原因",
+                "label-remark": "备注",
+                "label-bet-amount": "流水量",
+                "btn-approve": "通过",
+                "btn-disapprove": "不通过",
+                "btn-rollback-detail": "回滚任务",
+                "btn-reset-detail": "重置任务",
+                "btn-none": "请选择",
+                "cheated": "是否有作弊",
+                "has-cheated": "有作弊",
+                "not-has-cheated": "没作弊",
+                "deductionBetAmount": "被扣除流水",
+                "btn-before-change": "更动前",
+                "btn-change": "更改项目",
+                "transaction-record-title": "出款纪录",
+                "withdraw-detail": "审核细项",
+                "withdrawFee": "提款手续费",
+                "manual-remark": "手动通过原因(必填)"
+            },
+            "review-steps-dialog": {
+                "title": "审核状态",
+                "step": "第 {step} 步骤",
+                "auto-pass": "自动通过",
+                "col-step": "步骤",
+                "col-reviewer": "审核人",
+                "col-applicate": "申请人",
+                "col-status": "审核状态",
+                "col-review-at": "审核时间",
+                "col-trans-reviewer": "出款人",
+                "col-trans-status": "出款状态",
+                "col-trans-review-at": "出款时间",
+                "trans-title": "出款"
+            },
+            "transaction-dialog": {
+                "title": "出款",
+                "fee": "手续费",
+                "type": "付款方式",
+                "payer-name": "出款人户名",
+                "payer-account": "出款银行帐号",
+                "payer-bank-name": "出款银行名称",
+                "payer-branch-name": "出款分行",
+                "transaction-id": "交易序号",
+                "transaction-at": "交易时间",
+                "withdraw-id": "第三方代付平台",
+                "bank-account-name": "收款人户名",
+                "bank-name": "收款人银行名称",
+                "bank-code": "收款人银行代码",
+                "bank-branch-name": "收款人分行名称",
+                "bank-branch-code": "收款人分行代码",
+                "bank-province-name": "收款人省份名称",
+                "bank-province-code": "收款人省份代码",
+                "bank-city-name": "收款人城市名称",
+                "bank-city-code": "收款人城市代码",
+                "select-bank": "选择付款银行帐号",
+                "select-third": "选择第三方支付平台",
+                "withdrawFee": "提款手续费",
+                "cancel": "取消出款",
+                "cancel-notice": "取消出款原因(取消出款必填)",
+                "manual-transaction": "手动出款"
+            },
+            "report-col": {
+                "game-id": "游戏编号",
+                "type": "游戏类型",
+                "mid": "注单主编号",
+                "franchisee-name": "加盟商",
+                "round": "局号",
+                "table": "桌号",
+                "status": "注单状态",
+                "bet-amount": "下注额度",
+                "valid-amount": "有效注额",
+                "water-amount": "会员退水",
+                "win-amount": "中奖金额",
+                "prize": "彩金",
+                "num-settles": "开奖次数",
+                "report-at": "报表时间"
+            },
+            "review-type-key": {
+                "AgentCompensatory": "错误补偿与回收",
+                "AgentCoupon": "代理申请优惠",
+                "AgentDepositBank": "代理银行存款",
+                "AgentEditDeposit": "代客储值",
+                "AgentLoan": "预借额度",
+                "AgentSettlement": "代理月结额度",
+                "MemberActivityWallet": "活动钱包",
+                "MemberBank": "会员银行卡",
+                "MemberCoupon": "会员优惠申请",
+                "MemberDepositBank": "会员存款",
+                "MemberInformation": "会员资料修改",
+                "MemberQuest": "会员任务",
+                "MemberRegister": "会员注册",
+                "MemberTransaction": "会员出款",
+                "MemberWithdraw": "会员提款",
+                "ThirdPartyDeposit": "第三方代储值"
+            }
+        },
+        "member": {
+            "info": "会员基本资料",
+            "member-forth-dialog": {
+                "upper-member-1": "上一层",
+                "upper-member-2": "上二层",
+                "upper-member-3": "上三层",
+                "lower-member-1": "下一层",
+                "lower-member-2": "下二层",
+                "lower-member-3": "下三层",
+                "level": "层级",
+                "member": "成员",
+                "account": "帐号"
+            },
+            "member-list": {
+                "col": {
+                    "parent": "上层",
+                    "account-name": "帐号 / 名称",
+                    "wallets": "可用点数 / 红利",
+                    "status": "状态 / 锁定",
+                    "loggedin": "登入资讯",
+                    "editor": "修改者",
+                    "tags": "标签",
+                    "club-rank": "俱乐部层级",
+                    "invitation-code": "邀请码"
+                },
+                "active-setting": "平台帐号",
+                "edit-bank": "银行卡",
+                "edit-member": "编辑会员",
+                "confirm-reset-error-count": "确定重设 {account}【{name}】成员的登入错误次数？",
+                "bank-and-phone-confirm": "手动验证",
+                "manual-transfer-confirm": "手动转移",
+                "check-manual-transfer-confirm": "是否确认手动转移",
+                "check-manual-transfer-confirm-success": "手动转移成功",
+                "check-manual-transfer-confirm-failed": "手动转移失败",
+                "destroy": "已注销"
+            },
+            "member-edit-dialog": {
+                "parent": "上层代理",
+                "title-add": "新增会员",
+                "title-edit": "修改会员",
+                "account": "帐号",
+                "password": "密码",
+                "confirm-password": "确认密码",
+                "name": "名称",
+                "phone": "电话",
+                "club-rank": "俱乐部层级",
+                "gender": "性别",
+                "email": "Email",
+                "qq": "QQ",
+                "wechat": "微信",
+                "weibo": "微博",
+                "birth": "生日",
+                "nickname": "昵称",
+                "address": "地址",
+                "line": "Line",
+                "btn-destroy": "注销",
+                "more": "更多设定",
+                "confirm-destroy-phone": "确定注销 {account}【{name}】成员的电话?",
+                "confirm-club-change": "此处修改会员层级不会重计流水, 是否确认?"
+            },
+            "member-tag-dialog": {
+                "title": "会员标签管理",
+                "tag-default-name": "新标签",
+                "confirm-delete-tag": "确定要删除标签 {name} ？ (会员标记的此标签类型也会一并删除)",
+                "member": "会员",
+                "new-tag": "新增标签"
+            },
+            "member-search-dialog": {
+                "title": "搜寻帐号"
+            },
+            "member-bank-dialog": {
+                "title": "会员 {name} 银行卡管理",
+                "sub-title-add": "新增银行卡",
+                "sub-title-edit": "修改银行卡",
+                "name": "户名",
+                "bank-account": "帐户",
+                "bank-name": "银行名称",
+                "branch-name": "分行名称",
+                "delete-bank": "删除银行卡",
+                "bank_code": "银行代码",
+                "confirm-delete-bank": "您确定要删除 {bank} 银行卡资料吗？"
+            },
+            "member-bet-amount-log": {
+                "title": "会员 {name} 存款的流水纪录",
+                "serial_num": "编号",
+                "type": "状态",
+                "member_deposit": "会员存款",
+                "give": "派点",
+                "deduction_bet_amount": "回扣流水",
+                "take_back_agent": "派点收回 - 代理",
+                "compensatory": "补点",
+                "amount": "金额",
+                "bet_amount_multiple": "流水倍数",
+                "bet_amount_limit": "流水限制",
+                "bet_amount": "当下流水",
+                "is_unlock": "是否解锁",
+                "created_at": "建立日期",
+                "col-editor": "操作人",
+                "remark": "备注",
+                "btn": "明细",
+                "locked": "锁定金额",
+                "take-back": "收回",
+                "edit-add": "增加额度",
+                "edit-sub": "减少额度",
+                "give-error": "错误补点",
+                "take-back-error": "错误收回",
+                "add-reward": "增加优惠活动赠点",
+                "sub-reward": "减少优惠活动赠点",
+                "reward": "活动赠点",
+                "agent-edit-deposit": "代客储值",
+                "third-party-deposit": "第三方代储值",
+                "member-third-party-deposit": "第三方存款",
+                "manual-edit-add": "人工增加额度",
+                "manual-edit-sub": "人工减少额度",
+                "sub-agent-edit-deposit": "代客储值回收",
+                "quest": "优惠活动锁定流水",
+                "report_approval_water": "退水派发",
+                "report_approval_bonus": "红利派发",
+                "lock_water": "未完成流水",
+                "unlock_amount": "可提资金",
+                "activity-wallet-record": "活动钱包纪录",
+                "backfill": "回补",
+                "buy_activity_wallet": "购买活动钱包",
+                "cancel_buy_activity_wallet": "取消购买活动钱包",
+                "freeMoney": "可提领金额",
+                "confirm-msg":"确定强制归零 {account}【{name}】成员的【{sn}】？"
+            },
+            "member-bet-amount-log-detail": {
+                "title": "注单明细",
+                "mid": "编号",
+                "deduction_bet_amount": "回扣流水总额",
+                "make_up_bet_amount": "回补流水总额",
+                "money": "金额",
+                "platform": "平台",
+                "bet_amount_multiple": "流水倍数",
+                "created_at": "日期",
+                "type": "类型",
+                "backfill-title": "回补明细"
+            },
+            "member-bet-amount-log-modify": {
+                "title": "手动修改 流水纪录[ 编号:{num} ]",
+                "status": "状态",
+                "before": "修改前流水",
+                "after": "修改后流水",
+                "before_limit": "修改前流水限制",
+                "after_limit": "修改后流水限制",
+                "edit_input": "修改当下流水量:",
+                "edit_limit_input": "修改 流水限制:",
+                "created_at": "日期",
+                "reset_lock": "强制归零",
+                "edit": "修改流水量",
+                "editor": "操作人"
+            },
+            "member-activity-wallet-mount-log": {
+                "title": "活动钱包点数交易历程",
+                "status": {
+                    "mounted": "挂载",
+                    "unmounted": "卸载",
+                    "processing": "执行中"
+                },
+                "mount-at": "挂载时间",
+                "mount-amount": "挂载金额",
+                "unmount-at": "卸载时间",
+                "unmount-amount": "卸载金额",
+                "platform": "游戏平台",
+                "product": "活动钱包"
+            },
+            "member-transform-log": {
+                "title": "会员 {name} 交易历程",
+                "type": {
+                    "title": "类型",
+                    "select-title": "交易类型",
+                    "platform-title": "游戏平台",
+                    "total": "异动总计"
+                },
+                "time-range": {
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                },
+                "id": "编号",
+                "last-bonus": "剩余红利",
+                "change-bonus": "变动红利",
+                "last-money": "剩余金额",
+                "change-money": "变动金额",
+                "remark": "备注",
+                "creator": "建立者",
+                "createdAt": "建立时间",
+                "no-remark": "无备注",
+                "gamePlatformName": "游戏",
+                "activityWalletName": "活动钱包"
+            },
+            "member-wallet-dialog": {
+                "time-range": {
+                    "label": "时间区间",
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                },
+                "transaction-not-yet": "(尚未出款)",
+                "transaction-already": "(已出款)",
+                "wallet-money": "可用点数",
+                "wallet-bonus": "红利",
+                "title": "交易记录",
+                "col-type": "交易类型",
+                "col-bonus": "红利",
+                "col-money": "可用点数",
+                "col-change": "异动额",
+                "col-result": "结果",
+                "col-editor": "操作人",
+                "col-quest-name": "优惠名称",
+                "give": "派点",
+                "take-back": "收回",
+                "edit": "修改",
+                "remark": "备注",
+                "order_id": "第三方存款订单编号",
+                "reason": "不通过原因",
+                "type-options": {
+                    "deposit-or-withdraw": "存 / 提款",
+                    "bet": "游戏操作",
+                    "edit": "公司修改",
+                    "get-or-be-taken-back": "收到点数/被收回",
+                    "error": "错误补点/收回",
+                    "exchange": "红利兑换",
+                    "bonus": "分红",
+                    "bet-completed": "结算",
+                    "payin": "转入",
+                    "payout": "转出",
+                    "coupon": "优惠活动赠点",
+                    "edit-reward": "上层修改优惠活动赠点",
+                    "disapproved": "审核不通过",
+                    "cancel": "取消出款",
+                    "agent-edit-deposit": "代客储值",
+                    "agent-third-deposit": "第三方代储值",
+                    "manual-edit-add": "人工增加额度",
+                    "manual-edit-sub": "人工减少额度",
+                    "lost-money-from-platform": "点数遗失补点"
+                },
+                "totalChangeMoneyAbs": "总异动额",
+                "totalChangeMoney": "异动加总",
+                "full-type-cates": {
+                    "bank": "存提相关",
+                    "bet": "投注相关 （单一钱包）",
+                    "wallet": "钱包相关 （多钱包）",
+                    "water": "红利相关",
+                    "agent": "人员相关",
+                    "franchisee-agent": "组织线选择"
+                },
+                "full-type-options": {
+                    "all": "全选",
+                    "cancelAll": "取消全选",
+                    "commission": "抽佣结算",
+                    "reward": "点数转现金",
+                    "edit-bonus": "公司补点「红利点数」",
+                    "deposit-bank": "存款 - 银行转帐",
+                    "deposit-fee": "存款手续费",
+                    "deposit-third": "存款 - 第三方",
+                    "withdraw": "提款",
+                    "get-from-agent": "代理派点",
+                    "be-taken-back-agent": "代理回收点数",
+                    "get-from-error": "错误补点",
+                    "be-taken-back-error": "错误点数回收",
+                    "edit-money": "公司补额度",
+                    "transfer-game": "会员转点至游戏",
+                    "transfer-wallet": "游戏转回钱包",
+                    "coupon": "领取优惠额度",
+                    "bet": "下注",
+                    "prize": "派彩",
+                    "settle": "开奖",
+                    "rollback": "回滚",
+                    "diviend": "分红",
+                    "bet-completed": "注单完成",
+                    "water": "退水",
+                    "undo-water": "撤消退水",
+                    "bonus": "分红",
+                    "undo-bonus": "撤消分红",
+                    "payin": "游戏商加点请求",
+                    "payout": "游戏商扣点请求",
+                    "edit-reward": "上层修改优惠活动赠点",
+                    "agent-edit-deposit": "代客储值",
+                    "agent-edit-deposit-rollback": "代客储值收回",
+                    "agent-third-deposit": "第三方代储值",
+                    "agent-third-deposit-rollback": "第三方代储值收回",
+                    "third-party-deposit": "第三方代储值",
+                    "third-party-deposit-rollback": "第三方代储值收回",
+                    "manual-edit-add": "人工增加额度",
+                    "manual-edit-sub": "人工减少额度",
+                    "lost-money-from-platform": "点数遗失补点"
+                },
+                "edit-money-title": "可用点数修改",
+                "edit-bonus-title": "红利修改"
+            },
+            "member-active-dialog": {
+                "title": "会员平台设定",
+                "unactive": "未开通",
+                "is-fun": "测试版",
+                "col": {
+                    "platform-name": "平台名称",
+                    "player-id": "玩家 id",
+                    "loggined-at": "最后登入"
+                }
+            },
+            "member-multi-wallet-trans": {
+                "title": "会员 {name} 中心钱包",
+                "game-platform-key": "平台代号",
+                "game-platform": "平台名称",
+                "balance": "余额",
+                "option": "操作",
+                "trans-money": "金额",
+                "submit": "提交",
+                "confirm": "确认",
+                "deposit": "存入游戏平台",
+                "withdraw": "提出游戏平台",
+                "cancel": "取消",
+                "confirm_text": "确定送出吗",
+                "money": "可用点数"
+            },
+            "member-quest-dialog": {
+                "title": "会员 {name} 的优惠列表",
+                "locked": "锁定金额",
+                "col-cancel-log": "取消纪录",
+                "col-diff-amount": "当前流水差额",
+                "btn-cancel": "取消",
+                "btn-unlock": "解锁",
+                "confirm-msg":"异动 {account}【{name}】成员的【{quest}】 直接解锁流水，点数不异动!!!",
+                "title-cancael-reward": "取消优惠赠点",
+                "forced-unlock": "强制解锁流水，不异动点数",
+                "select": {
+                    "applied": "已申请",
+                    "cancel": "取消",
+                    "all": "全部"
+                },
+                "cancel-log": {
+                    "change_amount": "异动流水",
+                    "change_reward": "异动点数",
+                    "operator": "操作者",
+                    "created_at": "操作时间",
+                    "remark": "备注"
+                },
+                "status": {
+                    "pending": "-",
+                    "processing": "执行中",
+                    "completed": "达成",
+                    "claimed": "申请提领",
+                    "cancel": "已取消",
+                    "force-unlock": "强制解锁"
+                },
+                "locked-money-status": {
+                    "locked": "锁定中",
+                    "enabled": "可申请",
+                    "applied": "审核中",
+                    "unlock": "解锁",
+                    "disapproved": "审核不通过"
+                }
+            },
+            "member-info-dialog": {
+                "title": {
+                    "login": "登入",
+                    "register": "注册",
+                    "deposit": "充值",
+                    "re-deposit": "再次充值",
+                    "all-deposit": "总充值",
+                    "withdraw": "提现",
+                    "re-withdraw": "再次提现",
+                    "all-withdraw": "总提现"
+                },
+                "col": {
+                    "loggedin-at": "登入时间",
+                    "register-at": "注册时间",
+                    "finished-at": "完成时间",
+                    "type": "交易类型",
+                    "money": "金额",
+                    "fee": "手续费"
+                }
+            },
+            "game-platform-dialog": {
+                "title": "锁定游戏平台管理",
+                "select": "锁定的游戏平台"
+            }
+        },
+        "gameType": {
+            "gameType-edit-dialog": {
+                "title-add": "新增游戏类型",
+                "title-edit": "修改游戏类型",
+                "type": "游戏类型",
+                "name": "名称"
+            }
+        },
+        "gameTag": {
+            "gameTag-edit-dialog": {
+                "title-add": "新增游戏标签",
+                "title-edit": "修改游戏标签",
+                "type": "游戏类型",
+                "tag": "游戏标签",
+                "name": "标签名称"
+            }
+        },
+        "gamePlatform": {
+            "gamePlatform-edit-dialog": {
+                "title-add": "新增游戏平台",
+                "title-edit": "修改游戏平台",
+                "name": "平台名称",
+                "key": "平台代号",
+                "setting-maintain": "例行维修时间",
+                "start-time": "例行维修起始时间",
+                "maintain-time": "例行维修时长(分钟)",
+                "disposable-start-time": "临时维修(单次)",
+                "disposable-maintain-time": "临时维修时长(分钟)(单次)",
+                "order": "顺序",
+                "limit-member": "限制会员",
+                "query-member": "查询会员",
+                "status-maintain": "临时维修状态",
+                "is-fun": "测试版",
+                "select-relation-platform": "请选择关联的正式游戏平台",
+                "namespace": "模组路径",
+                "member-prefix": "会员帐号前缀",
+                "sync-report": "同步报表",
+                "sync-report-delay": "同步时间间隔",
+                "image": "平台列表用图示",
+                "icon": "游戏列表上面的平台ICON",
+                "pageBgImg": "平台页面用的背景图",
+                "indexImg": "首页平台图片",
+                "headerImg": "标头下滑选单图片",
+                "setting": "平台参数",
+                "clickUpload": "点击选择图片",
+                "showOrgImg": "检视原始图档",
+                "whitelist": "白名单",
+                "jsonFormat": "格式化",
+                "placeholder": "请输入内容",
+                "invalid": {
+                    "error-json": "不正确的 json 格式"
+                },
+                "hasApp": "是否有APP"
+            },
+            "limit-members-dialog": {
+                "title": "会员列表"
+            }
+        },
+        "game": {
+            "game-edit-dialog": {
+                "title-add": "新增游戏",
+                "title-edit": "修改游戏",
+                "id": "编号",
+                "platformName": "平台名称",
+                "type": "游戏类型",
+                "name": {
+                    "en": "游戏名称(英)",
+                    "zh-tw": "游戏名称(繁)",
+                    "zh-cn": "游戏名称(简)",
+                    "jp": "游戏名称(日)"
+                },
+                "code": {
+                    "code": "游戏代号",
+                    "code-report": "报表代码",
+                    "code-mobile": "mobile 代码 (未填入时，启动游戏使用 code 编号)"
+                },
+                "game-hall": "游戏厂商",
+                "status-maintain": "临时维修状态",
+                "image": "上传图片",
+                "clickUpload": "点击选择图片",
+                "showOrgImg": "检视原始图档",
+                "order": "顺序",
+                "remark": "备注",
+                "tag": "游戏标签"
+            }
+        },
+        "letter": {
+            "sendListDialog": {
+                "title": "发送的会员列表",
+                "id": "公告id",
+                "account": "会员帐号",
+                "name": "会员姓名",
+                "readedAt": "已读时间",
+                "removedAt": "删除时间",
+                "add": "新增信件"
+            },
+            "letter-tag-edit-dialog": {
+                "tag-name": "标签名称"
+            },
+            "add-announcement-dialog": {
+                "title": "主旨",
+                "tag": "标签",
+                "selectTag": "选择标签",
+                "content": "内容",
+                "selectAddressee": "选择收件人",
+                "addressee-options": {
+                    "inputMemberAccount": "请输入会员帐号",
+                    "inputAgentAccount": "请输入代理帐号",
+                    "selectReceiver": "选择收件人",
+                    "member": "会员",
+                    "memberTag": "会员标签",
+                    "clubRank": "俱乐部层级",
+                    "agent": "代理",
+                    "registTime": "会员注册时间",
+                    "registStartTime": "会员注册时间(起)",
+                    "registEndTime": "会员注册时间(迄)",
+                    "all": "全部会员",
+                    "submit": "提交",
+                    "selectAll": "全选",
+                    "selectDateTime": "选择日期时间",
+                    "none": "不限制",
+                    "registAmount": "收信总人数为：{num}人"
+                }
+            },
+            "addMessageDialog": {
+                "newMessage": "新增讯息",
+                "receiver": "收信会员",
+                "title": "标题",
+                "content": "内容"
+            },
+            "replyMessageDialog": {
+                "replyMessage": "回覆讯息",
+                "from": "发信方",
+                "reply": "回覆"
+            }
+        },
+        "review-type": {
+            "review-type-step-dialog": {
+                "title": "可审核角色",
+                "label-name": "流程名称",
+                "label-step": "审核角色",
+                "label-add-step": "新增步骤",
+                "label-review-role": "审核角色"
+            },
+            "review-type-notify-dialog": {
+                "title": "审核通知",
+                "label-name": "流程名称",
+                "label-status": "通知条件",
+                "label-sms": "简询通知",
+                "label-letter-tag": "站内信通知",
+                "label-email": "Email通知",
+                "label-title": "标题",
+                "label-content": "内容",
+                "status": {
+                    "approved": "审核通过时",
+                    "disapproved": "审核不通过时",
+                    "transaction": "交易完成时",
+                    "transaction-cancel": "取消出款时"
+                },
+                "params": {
+                    "user-name": "申请人姓名",
+                    "user-account": "申请人帐号",
+                    "deposit-money": "存款金额",
+                    "withdraw-money": "提款金额",
+                    "coupon-name": "优惠名称",
+                    "bank-username": "银行户名",
+                    "bank-account": "银行帐号",
+                    "bank-name": "银行名称",
+                    "committed-at": "申请时间",
+                    "reason": "不通过原因",
+                    "reward": "优惠赠点",
+                    "quest-name": "优惠名称"
+                }
+            }
+        },
+        "review-reason": {
+            "list": {
+                "reason": "不通过原因",
+                "reviewType": "审核页面",
+                "confirm-delete": "确定要删除此笔资料？"
+            },
+            "dialog": {
+                "add": "新增 不通过原因",
+                "edit": "修改 不通过原因"
+            }
+        },
+        "club": {
+            "club-edit-dialog": {
+                "title-add": "新增俱乐部",
+                "title-edit": "修改俱乐部",
+                "name": "俱乐部名称",
+                "describe": "描述",
+                "remark": "备注",
+                "game-list": "游戏清单",
+                "select-all": "全选",
+                "comment": "（如果没得选，代表该加盟商已有俱乐部）"
+            },
+            "clubRank-edit-dialog": {
+                "title-add": "新增俱乐部层级",
+                "title-edit": "修改俱乐部层级",
+                "name": "层级名称",
+                "depositPer": "每次存款额度",
+                "depositPerMax": "每次最高存款额度 (零代表无限)",
+                "depositPerMin": "每次最低存款额度 (零代表无限)",
+                "depositDayTimes": "每日存款次数上限 (零代表无限)",
+                "withdrawPer": "每次提款额度",
+                "withdrawPerMax": "每次最高提款额度 (零代表无限)",
+                "withdrawPerMin": "每次最低提款额度 (零代表无限)",
+                "withdrawDayTimes": "每日提款次数上限 (零代表无限)",
+                "order": "顺序",
+                "setting-default": "预设层级",
+                "game-list": "游戏清单",
+                "fast-setting": "快速设定",
+                "game-water-percent": "游戏退水设定",
+                "fullpay": "金流设定",
+                "bankLimit": "设定银行卡数量上限 (零代表无限)",
+                "withdrawFee": "提款手续费",
+                "withdrawFeePercent": "提款手续费(%)",
+                "withdrawFreeTimes": "免费提款次数上限",
+                "withdrawFeePeriod": "免费提款次数周期",
+                "withdrawFeeType": "提款手续费类型",
+                "fixed": "固定型",
+                "percent": "百分比型",
+                "month": "每月",
+                "day": "每日",
+                "week": "每周",
+                "withdraw-deposit-ok": "存提款设定",
+                "water-ok": "退水设定",
+                "bonus-limit": "红利限额 (零代表无限)",
+                "water-limit": "返水限额 (零代表无限)",
+                "depositAccumulationPeriod": "存款限额周期(含三方)",
+                "withdrawAccumulationPeriod": "提款限额周期(含三方)",
+                "depositAccumulationAmount": "存款限额额度(0不限制)(含三方)",
+                "withdrawAccumulationAmount": "提款限额额度(0不限制)(含三方)"
+            },
+            "club-upgrade-rank": {
+                "title": "升等条件",
+                "upgradeByDeposit": "会员总存金额",
+                "upgradeBywithdraw": "总提金额",
+                "upgradeByTotalBetAmount": "总投注量",
+                "clubRankList": "俱乐部",
+                "newClubRank": "更换等级",
+                "list": "会员列表",
+                "upgradeAt": "前次升级时间",
+                "name": "名称",
+                "account": "帐号",
+                "clubRankName": "俱乐部等级",
+                "search": {
+                    "title": "搜寻条件",
+                    "finish": "已达成",
+                    "not-finish": "未达成"
+                }
+            },
+            "club-rank-members": {
+                "title": "会员列表",
+                "account": "帐号",
+                "name": "名称",
+                "birth": "生日",
+                "phone": "手机号码"
+            },
+            "clubRank-edit-all-water-dialog": {
+                "water": "退水",
+                "title": "退水管理",
+                "game": "游戏名称",
+                "clubRankName": "俱乐部名称"
+            }
+        },
+        "bank": {
+            "bank-edit-dialog": {
+                "title-add": "新增帐户",
+                "title-edit": "编辑帐户",
+                "type": "帐户用途",
+                "suitable": "适用对象",
+                "useable": "使用限制",
+                "name": "户名",
+                "account": "帐号",
+                "bankName": "银行名称",
+                "branchName": "分行名称",
+                "clubRanks": "可使用俱乐部",
+                "agents": "可使用代理",
+                "getClub": "选择俱乐部",
+                "getClubRank": "选择层级",
+                "limitAmount": "限额(0为不限制)",
+                "getAgent": "选择代理",
+                "getBankGroup": "选择帐户群组"
+            }
+        },
+        "report": {
+            "stg-report-detail": {
+                "lib": "联盟",
+                "ht": "主队",
+                "ct": "客队",
+                "profit": "获利%数",
+                "fee": "手续费",
+                "lid2": "赛场",
+                "title": "赛事明细",
+                "final": "赛事结果",
+                "bet": "投注比分",
+                "game-at": "赛事时间"
+            },
+            "formula-popover": {
+                "total": "结果"
+            },
+            "approval-water-dialog": {
+                "title": "退水记录",
+                "water-amount": "退水额度",
+                "delete-approval": "删除退水记录",
+                "confirm-delete-approval": "确定移除 「{amount}元」 的退水记录？"
+            },
+            "approval-bonus-dialog": {
+                "title": "红利记录",
+                "bonus-amount": "红利额度",
+                "delete-approval": "删除红利记录",
+                "confirm-delete-approval": "确定移除 「{amount}元」 的红利记录？"
+            },
+            "approval-bonus-detail-dialog": {
+                "title": "详细资讯",
+                "post": "下",
+                "level": "层级",
+                "valid-amount": "有效注额",
+                "total": "会员小计",
+                "amount": "红利额度"
+            },
+            "settlement-month-records-dialog": {
+                "title": "结算记录",
+                "delete-record-confirm": "确定删除「{amount}元」的结算资料？",
+                "col": {
+                    "amount": "结算额度",
+                    "write-off": "交收额度",
+                    "from": "结算来源"
+                }
+            },
+            "settlement-month-dialog": {
+                "user": "帐号/名称",
+                "title": "代理月结算",
+                "write-off-options": {
+                    "in": "收款",
+                    "out": "出款"
+                },
+                "label": {
+                    "report-total": "本月营运额",
+                    "fee-amount": "手续费",
+                    "record-amount": "已结算额",
+                    "total": "本月结算小计",
+                    "receivable-amount": "前次结余",
+                    "result-receivable-amount": "结后应收款",
+                    "write-off-amount": "交收金额"
+                }
+            }
+        },
+        "logger": {
+            "log-point-dialog": {
+                "title": "游戏请求记录",
+                "platform": "游戏平台",
+                "serial-num": "平台单号",
+                "before-point": "转点前平台点数",
+                "after-point": "转点后平台点数"
+            },
+            "log-login-list": {
+                "title": "登入纪录",
+                "success": "成功",
+                "failed": "失败",
+                "error-message": "错误讯息",
+                "login-at": "登入时间"
+            },
+            "log-exception-dialog": {
+                "title": "错误详细内容"
+            },
+            "log-sync-report-dialog": {
+                "title": "报表同步记录",
+                "platform": "游戏平台",
+                "total": "总笔数",
+                "num-completes": "完成笔数",
+                "num-fails": "失败笔数",
+                "stime": "时间 - 起",
+                "etime": "时间 - 讫",
+                "execute-time": "执行时间(秒)",
+                "message": "讯息",
+                "fail-items": "失败项目",
+                "manual-sync": "手动同步"
+            },
+            "log-provider-request-dialog": {
+                "title": "游戏请求记录",
+                "platform": "游戏平台",
+                "player-id": "玩家代号",
+                "action": "请求类型",
+                "execute-time": "执行时间(秒)",
+                "request-data": "请求资料",
+                "response-data": "回应资料",
+                "status": {
+                    "label": "执行结果",
+                    "completed": "成功",
+                    "failed": "失败"
+                }
+            },
+            "log-data-modify-dialog": {
+                "franchisee": "加盟商",
+                "operator": "操作者",
+                "site": "端口",
+                "model": "资料类型",
+                "action": "操作行为",
+                "content": "操作内容",
+                "message": "讯息",
+                "add": "新增资料",
+                "remove": "移除资料",
+                "updated": "资料更新",
+                "content-type": {
+                    "table": "列表",
+                    "json": "JSON"
+                },
+                "content-column": "资料栏位",
+                "content-before": "修改前",
+                "content-after": "修改后",
+                "content-value": "数值",
+                "content-value-change": "数值变更"
+            },
+            "log-reward-detail": {
+                "title": "会员 {name} 的 {quest} 赠点流水量纪录",
+                "col-mid": "注单编号",
+                "col-platform": "游戏平台",
+                "col-quest-name": "优惠名称",
+                "col-change-reward": "赠点-变异",
+                "col-valid-amount": "每次有效流水量",
+                "col-required-amount": "须达到流水量",
+                "col-cumulative-amount": "累积流水量",
+                "col-status": "状态",
+                "col-created-at": "交易时间",
+                "col-remark": "审查备注",
+                "status": {
+                    "count": "第 {number} 笔",
+                    "approve": "通过审查",
+                    "disapprove": "审查不通过",
+                    "processing": "已计算流水",
+                    "completed": "达成",
+                    "claimed": "申请提领",
+                    "cancel": "取消",
+                    "rollback": "回滚",
+                    "unlock": "金额解锁",
+                    "deduction_bet_amount": "回扣流水",
+                    "deduction_deposit": "纪录重置",
+                    "rollback_apply": "赠点可再次申请"
+                }
+            },
+            "log-reset-lock-money": {
+                "title": "会员 {name} 强制归零的操作纪录",
+                "col-agent": "操作者",
+                "col-created-at": "操作时间",
+                "col-reset-lock": "强制归零",
+                "confirm-reset-lock": "确定将 {account}【{name}】成员的金额解锁？会员当下 点数:[{money}],  锁定金额:[{lock}]",
+                "updated-info": "更新 {count} 笔"
+            }
+        },
+        "quest": {
+            "reward": {
+                "fixed": {
+                    "franchisee": "加盟商",
+                    "club-rank": "俱乐部等级",
+                    "all-club-rank": "不分等级",
+                    "add-title": "新增固定型优惠",
+                    "edit-title": "编辑固定型优惠",
+                    "quest-type": "类型",
+                    "quest-name": "名称",
+                    "enabled": "启用",
+                    "reward": "赠送点数",
+                    "bet-amount": "流水量",
+                    "limit-games": "限定的游戏",
+                    "deposit": "首储金额",
+                    "limit-times": "活动次数上限"
+                },
+                "percent": {
+                    "franchisee": "加盟商",
+                    "club-rank": "俱乐部等级",
+                    "all-club-rank": "不分等级",
+                    "title-add": "新增百分比型优惠",
+                    "title-edit": "编辑百分比型优惠",
+                    "name": "名称",
+                    "percent": "赠送比例(%)",
+                    "bet_amount": "流水量",
+                    "bet_amount_min": "最小流水量",
+                    "reward_max": "最大赠送点数",
+                    "start_at": "开始时间",
+                    "end_at": "结束时间",
+                    "daily_quest": "每日活动"
+                },
+                "stage": {
+                    "add-title": "新增阶段型优惠",
+                    "edit-title": "编辑阶段型优惠"
+                },
+                "time-picker": "选择时间",
+                "deposit": "首储金额",
+                "re-deposit": "储值金额",
+                "min-deposit": "最少储值金额",
+                "multiple": "流水倍数",
+                "order": "排序",
+                "image": "点击选择图片",
+                "image_small": "小图上传",
+                "image_large": "大图上传",
+                "showOrgImg": "检视原始图档",
+                "information": "文字叙述",
+                "information_enabled": "是否启用文字叙述",
+                "img-info": "最佳图片尺寸为高: {hight} px，宽: {width} px",
+                "error": {
+                    "invaild-deposit-condition": "储值活动只能勾选一个",
+                    "invaild-report-total-condition": "获利或负利只能勾选一个",
+                    "only-profit-report-total-condition": "只能勾选获利金额",
+                    "only-loss-report-total-condition": "只能勾选负利金额"
+                }
+            },
+            "group": {
+                "company": "公司活动",
+                "franchisee": "加盟商",
+                "add-title": "新增优惠群组",
+                "edit-title": "编辑优惠群组",
+                "level": "排序"
+            },
+            "stage": {
+                "title": "阶段式的设定",
+                "btn-fixed-type": "固定型赠点",
+                "btn-percent-type": "百分比型赠点",
+                "btn-deposit-type": "累积储值型赠点",
+                "col-fixed-type": "固定型",
+                "col-percent-type": "百分比型",
+                "col-amount-stage": "流水量阶段",
+                "col-deposit-stage": "累积储值阶段",
+                "col-reward": "赠点",
+                "col-percent": "赠点换算比例",
+                "col-max-reward": "赠点最大值",
+                "error": {
+                    "no-amount": "至少勾选一种流水量类型"
+                }
+            },
+            "type": {
+                "company": "公司活动",
+                "first-time-deposit": "首储活动",
+                "regular-percent": "流水赠送 (百分比)",
+                "regular-fixed": "流水赠送 (固定)",
+                "period-fixed": "期间活动",
+                "birth-fixed": "生日活动",
+                "recommend-fixed": "介绍活动",
+                "daily-percent": "每日活动",
+                "daily-fixed": "每日活动",
+                "deposit-fixed": "储值活动",
+                "deposit-percent": "储值活动",
+                "multiple-deposit": "储值活动 (累积型)",
+                "stages-deposit": "阶段式活动"
+            }
+        },
+        "version": {
+            "version-number": "版号",
+            "tittle": "版本标题",
+            "information": "改版内容",
+            "add-title": "新增版本资讯",
+            "edit-title": "编辑版本资讯"
+        },
+        "login-info": {
+            "status": "状态",
+            "success": "成功",
+            "fail": "失败",
+            "error-message": "错误讯息",
+            "login-at": "登入时间"
+        },
+        "member-summary": {
+            "title": "会员备注",
+            "add-title": "新增备注",
+            "col-name": "会员名称",
+            "col-summary": "备注",
+            "col-agent": "操作者",
+            "placeholder": "请输入内容",
+            "invalid": {
+                "required": "此为必填栏位"
+            }
+        },
+        "log-activity-wallet-report": {
+            "title": "【{name}】下注历程",
+            "col-mid": "注单编号",
+            "col-money": "金额",
+            "col-platform": "游戏平台"
+        },
+        "stuck-money-modify": {
+            "title": "修改卡钱纪录",
+            "col-point": "返还点数",
+            "point-limit": "返还点数最多 {limit}"
+        }
+    },
+    "view": {
+        "move-organization": {
+            "select-label": "请选择欲移动的层级",
+            "level1": "会员",
+            "level2": "代理",
+            "level3": "总代",
+            "level4": "股东",
+            "trans-label": "将转移",
+            "to": "到"
+        },
+        "home": {
+            "time-range": {
+                "label": "时间区间",
+                "to": "至",
+                "start": "开始时间",
+                "end": "结束时间",
+                "invalid": "时间区间超过 {months} 个月"
+            },
+            "today": "本日",
+            "this-week": "本周",
+            "this-month": "本月",
+            "yesterday": "昨天",
+            "last-week": "上周",
+            "last-month": "上月",
+            "num-registers": "注册人数",
+            "num-first-deposit": "首次充值",
+            "num-first-withdraw": "首次提现",
+            "num-login-member": "总登入人数",
+            "num-login-member-small": "同会员同天只计一次",
+            "sum-deposit": "存款额度",
+            "sum-withdraw": "提款额度",
+            "sum-give-member": "派点额度",
+            "sum-taken-back": "收回额度",
+            "platform-name": "游戏平台",
+            "num-bets": "注单数",
+            "sum-total": "会员小计",
+            "group-member-title": "会员相关额度",
+            "group-member-label": "分类",
+            "group-report-title": "已过帐报表总额度",
+            "total_title": "加总",
+            "balance-title": "存提加总",
+            "sum-member": "人",
+            "label-exclude-tester": "排除测试帐号",
+            "label-only-tester": "只有测试帐号",
+            "members": "人数",
+            "table": {
+                "num-member": "下注人数",
+                "platform-name": "游戏平台",
+                "num-bets": "注单数",
+                "sum-total": "会员小计",
+                "sum-bet-amount": "下注额度",
+                "sum-valid-amount": "有效注额",
+                "total_title": "加总",
+                "parent": "上层"
+            },
+            "title": {
+                "income": "总收款",
+                "expense": "总提款",
+                "quest": "总优惠",
+                "agent": "总派点"
+            }
+        },
+        "blank": {
+            "no-permission": "没有首页权限"
+        },
+        "common": {
+            "toggle-button": {
+                "enabled": "启用",
+                "disabled": "停用",
+                "locked": "锁定",
+                "unlocked": "解锁"
+            }
+        },
+        "login": {
+            "account": "帐号",
+            "password": "密码",
+            "login": "登入"
+        },
+        "personal-information": {
+            "modify-name": "修改姓名",
+            "input-name": "请输入姓名"
+        },
+        "personal-wallet": {
+            "loan": "预借额度"
+        },
+        "personal-reviews": {
+            "label-status": "审核状态",
+            "btn-loan": "预借额度",
+            "col": {
+                "apply-amount": "申请额度",
+                "real-amount": "发放额度",
+                "status": "状态",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "committed-at": "申请时间",
+                "finished-at": "完成时间"
+            }
+        },
+        "agent": {
+            "account-label": "帐号",
+            "game-account": "游戏帐号",
+            "creator": "操作人帐号",
+            "name-label": "名称",
+            "sub-agent-list": "子帐号列表",
+            "target-label": "查询对象",
+            "member_phone": "会员电话",
+            "target-type": {
+                "agent": "组织成员",
+                "sub-agent": "子帐号",
+                "member": "会员"
+            },
+            "btn-add-sub-agent": "新增子帐号",
+            "breadcrumb": {
+                "search-account": "查询 {level}({account})",
+                "sub-agent": "{account}【{name}】子帐号",
+                "all-sub-agent": "所有子帐号"
+            }
+        },
+        "agent-write-off": {
+            "col-undone": "尚未交收资料",
+            "col-undone-nums": "未交收笔数",
+            "col-undone-settlement": "未交收笔数"
+        },
+        "review": {
+            "review-agent-loan": {
+                "col-apply-amount": "申请额度",
+                "col-real-amount": "核发额度",
+                "btn-copy-apply-amount": "同申请额度",
+                "remark": "备注",
+                "reason": "不通过原因"
+            },
+            "review-agent-compensatory": {
+                "col-apply-amount": "申请额度",
+                "col-real-amount": "核发额度",
+                "col-user-type": "对象",
+                "col-user": "帐号/名称",
+                "reason": "申请原因",
+                "remark": "备注",
+                "fail_remark": "不通过原因"
+            },
+            "review-member-deposit": {
+                "col-club-rank": "俱乐部层级",
+                "col-last-reviewer": "最后审核者",
+                "col-serial-num": "编号",
+                "col-deposit-apply-amount": "存款额度",
+                "col-deposit-bank-name": "存款银行",
+                "col-deposit-real-amount": "实际额度",
+                "col-fee": "手续费",
+                "btn-copy-apply-amount": "同申请额度",
+                "btn-rollback": "代客储值回收",
+                "account": "会员帐号",
+                "transactionAt": "存款时间",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "payee-account": "收款帐号",
+                "payee-bank-name": "收款银行名称",
+                "payee-name": "收款户名",
+                "operator": "操作者",
+                "rollback-warning": "确定回滚 {account}【{name}】成员的金额: {money} ?",
+                "rollback-success": "已回滚金额: {money}",
+                "last-five-number": "存款帐号",
+                "applicant-name": "存款人姓名",
+                "applicant-name2": "存款帐号",
+                "confirm-reset-pass": "是否快速通过",
+                "col-tags": "标签",
+                "change-real-amount": "确定要修改实际额度?"
+            },
+            "review-third-party-deposit": {
+                "col-club-rank": "俱乐部层级",
+                "col-last-reviewer": "最后审核者",
+                "col-serial-num": "编号",
+                "col-deposit-apply-amount": "存款额度",
+                "col-deposit-real-amount": "实际额度",
+                "col-fee": "手续费",
+                "btn-copy-apply-amount": "同申请额度",
+                "btn-rollback": "回收第三方",
+                "account": "会员帐号",
+                "transactionAt": "存款时间",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "payee-account": "收款帐号",
+                "payee-bank-name": "收款银行名称",
+                "payee-name": "收款户名",
+                "operator": "操作者",
+                "rollback-warning": "确定回滚 {account}【{name}】成员的金额: {money} ?",
+                "rollback-success": "已回滚金额: {money}"
+            },
+            "review-member-activity-wallet": {
+                "col-club-rank": "俱乐部层级",
+                "col-last-reviewer": "最后审核者",
+                "col-serial-num": "编号",
+                "col-type": "钱包类型",
+                "type-fixed": "固定型",
+                "type-percent": "百分比型",
+                "price": "金额",
+                "points": "点数",
+                "percent-point": "赠送点数百分比",
+                "percent-water": "流水倍数",
+                "percent-min-price": "最小购买金额",
+                "percent-max-point": "最大赠送点数",
+                "account": "会员帐号",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "operator": "操作者",
+                "name": "活动钱包名称",
+                "total-price": "总金额",
+                "total-points": "总点数",
+                "col-water-limit": "限制流水"
+            },
+            "review-member-quest": {
+                "account": "会员帐号",
+                "col-deposit-amount": "储值金额",
+                "col-quest-reward": "奖励点数",
+                "col-quest-bet-amount": "任务所需流水",
+                "col-quest-valid-amount": "会员当前流水",
+                "col-quest-percentage": "赠送百分比",
+                "col-quest-max-reward": "最大奖励点数",
+                "col-quest-min-bet-amount": "最小流水量",
+                "col-quest-start-time": "开始时间",
+                "col-quest-end-time": "结束时间",
+                "col-quest-commit-at": "送审时间",
+                "col-quest-report-total": "会员获利 / 负利",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "name": "任务名称"
+            },
+            "review-member-register": {
+                "account": "帐号",
+                "name": "名称",
+                "gender": "性别",
+                "phone": "电话",
+                "qq": "qq",
+                "wechat": "微信",
+                "birth": "生日",
+                "weibo": "微博",
+                "invitation_code": "邀请码",
+                "inviter": "邀请人",
+                "club-rank": "俱乐部层级",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "line": "Line"
+            },
+            "review-member-information": {
+                "account": "帐号",
+                "name": "会员真实姓名",
+                "phone": "手机号码",
+                "qq": "qq",
+                "wechat": "微信",
+                "weibo": "微博",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "birth": "生日",
+                "address": "地址",
+                "line": "Line",
+                "email": "email"
+            },
+            "review-member-withdraw": {
+                "col-serial-num": "编号",
+                "col-club-rank": "俱乐部层级",
+                "col-last-reviewer": "最后审核者",
+                "money": "提款金额",
+                "moneyLog": "提款金额(已扣除提款手续费)",
+                "unlockMoney": "提领后的余额",
+                "balance": "会员本次提领后余额",
+                "fee": "成本手续费",
+                "withdrawFee": "提款手续费",
+                "type": "提款方式",
+                "typeOptions": {
+                    "none": "未付",
+                    "bank": "银行转帐",
+                    "third": "第三方"
+                },
+                "transaction-at": "转帐时间",
+                "transaction-id": "转帐帐号后五码",
+                "payer-name": "付款户名",
+                "payer-account": "付款帐号",
+                "payer-bank-name": "付款银行名称",
+                "payer-branch-name": "付款分行名称",
+                "payee-name": "收款户名",
+                "payee-account": "收款帐号",
+                "payee-bank-name": "收款银行名称",
+                "payee-branch-name": "收款分行名称",
+                "btn-transaction": "出款",
+                "btn-cancel": "取消出款",
+                "btn-manual": "手动出款",
+                "transaction-status": "出款状态",
+                "real-money": "实际出款金额",
+                "withdraw-fee": "提款手续费",
+                "transaction-status-options": {
+                    "none": "未出款",
+                    "pending": "出款中",
+                    "completed": "已出款",
+                    "error": "出款失败",
+                    "transaction-cancel": "取消出款",
+                    "transaction-manual": "已手动出款"
+                },
+                "transaction-title": "出款",
+                "remark": "备注",
+                "reason": "不通过原因",
+                "col-tags": "标签",
+                "bank-account": "帐户",
+                "bank-name": "银行名称"
+            },
+            "review-member-bank": {
+                "account": "会员帐号",
+                "col-bank-name": "银行名称",
+                "col-branch-name": "分行名称",
+                "col-bank-account": "银行帐号",
+                "col-bank-username": "银行户名",
+                "remark": "备注",
+                "reason": "不通过原因"
+            }
+        },
+        "system": {
+            "role": {
+                "col-name": "名称",
+                "col-level": "使用阶级",
+                "col-level-0": "公司",
+                "col-level-1": "加盟主",
+                "col-level-2": "大股东",
+                "col-level-3": "股东",
+                "col-level-4": "总代理",
+                "col-level-5": "代理",
+                "col-rank": "阶层",
+                "col-whitelist": "白名单",
+                "col-status": "状态",
+                "col-full-ip": "完整 IP",
+                "col-full-info": "详细资讯",
+                "col-updated-at": "修改时间",
+                "col-options": "操作",
+                "col-common": "共用状态",
+                "common": "共用",
+                "uncommon": "非共用",
+                "franchisee-label": "加盟商",
+                "edit-auth": "设定权限",
+                "view-auth": "查看权限",
+                "full": "完整",
+                "section": "部分",
+                "clone-role-confirm": "是否要复制 【{name}】 角色？",
+                "clone-success": "复制成功",
+                "col-creator": "子帐号上层"
+            },
+            "view": {
+                "form-parent-label": "上层选单",
+                "form-name-label": "选单 / 连结名称",
+                "form-code-label": "翻译档代码",
+                "form-type-label": "类型",
+                "form-path-label": "路径",
+                "form-class-name-label": "class 样式",
+                "form-order-label": "排序编号",
+                "form-enabled-label": "启用状态",
+                "form-remark-label": "备注",
+                "type-menu": "选单",
+                "type-link": "连结",
+                "no-parent": "无",
+                "add-children": "新增下层",
+                "delete-confirm": "确定要移除「{name}」的 {type}？",
+                "page-name": "页面名称",
+                "title": "标题",
+                "option": "操作"
+            },
+            "api": {
+                "query-keyword-label": "关键字查询(路径、说明)",
+                "col-remark": "说明",
+                "col-group-name": "群组名称",
+                "col-view-name": "页面名称",
+                "col-path": "路径",
+                "confirm-delete-api": "确定删除 {name} api ?"
+            },
+            "company": {
+                "col": {
+                    "account": "帐号",
+                    "name": "名称",
+                    "roleName": "角色权限",
+                    "editor": "最后修改者"
+                },
+                "search": {
+                    "name": "查询名称",
+                    "account": "查询帐号"
+                },
+                "confirm-reset-error-count": "确定重设 {account}【{name}】成员的登入错误次数？"
+            },
+            "franchisee": {
+                "col": {
+                    "name": "名称",
+                    "host": "官网host",
+                    "default-agent": "预设代理",
+                    "default-club-rank": "预设俱乐部层级",
+                    "default-bank-group": "预设帐户群组",
+                    "configs": "修改占成",
+                    "bet-amount-multiple": "流水",
+                    "status-edit": "状态",
+                    "edit-auto-bonus": "自动红利",
+                    "edit-auto-water": "自动退水",
+                    "third-pay-setting": "代支设定",
+                    "commission": "退佣"
+                },
+                "search": {
+                    "name": "查询名称",
+                    "host": "官网host"
+                },
+                "pay-setting": {
+                    "title": "代支设定",
+                    "level": "层级",
+                    "path": "支付管道",
+                    "status": "状态",
+                    "name": "名称",
+                    "address": "地址",
+                    "order": "排序",
+                    "single-max-limit": "单笔最大限额",
+                    "input-money": "可否输入充值金额",
+                    "fix-money": "固定充值金额",
+                    "pay-type": "支付类型",
+                    "notice": "提示",
+                    "account": "商户号",
+                    "single-min-limit": "单笔最小限额",
+                    "decimal-length": "小数位长度",
+                    "unabled-money": "停用金额"
+                }
+            },
+            "betAmountMultiple": {
+                "title": "流水倍数管理",
+                "type": {
+                    "title": "类型",
+                    "first": "首储",
+                    "normal": "一般"
+                },
+                "betAmountMultiple": "流水倍数",
+                "weights": "权重",
+                "disableDate": "不限制时间",
+                "start": "开始日期",
+                "end": "结束日期"
+            },
+            "review-type": {
+                "col-key": "审核流程 Key",
+                "col-name": "流程名称",
+                "col-step": "可审核角色",
+                "col-enabled": "人工审核",
+                "col-auto-pass": "自动通过",
+                "col-customize": "审核流程自订义",
+                "col-when-group": "站内信通知",
+                "col-when-approved": "审核通过",
+                "col-when-disapproved": "审核不通过",
+                "col-when-transaction": "交易完成后",
+                "col-when-transaction-cancel": "取消交易",
+                "status-manual": "人工审核",
+                "status-auto": "自动通过",
+                "label-not-allow-auto-pass": "无法自动通过",
+                "status-customize": "加盟商自订",
+                "status-uncustomized": "公司管理",
+                "label-no-setting": "未设定"
+            }
+        },
+        "marquee": {
+            "franchisee": "加盟商",
+            "col": {
+                "suitable": "站台",
+                "type": "类型",
+                "content": "跑马灯内容"
+            },
+            "no-limit": "不限制",
+            "search": {
+                "nullOption": "不限",
+                "suitable": "站台",
+                "suitableOptions": {
+                    "agent": "代理站台",
+                    "member": "会员站台"
+                },
+                "type": "类型",
+                "typeOptions": {
+                    "hot": "热门",
+                    "normal": "一般",
+                    "deposit": "会员存款"
+                }
+            },
+            "confirm-delete-marquee": "确定要删除 「{content}」跑马灯讯息？"
+        },
+        "carousel": {
+            "no-limit": "不限制",
+            "col": {
+                "position": "位置",
+                "name": "名称",
+                "noLimit": "不限制",
+                "order": "排序",
+                "link-type": "转页类型",
+                "linkTypeName": "转页类型名称"
+            },
+            "search": {
+                "position": "选择位置",
+                "link-type": "转页类型"
+            },
+            "confirm-delete-carousel": "确定要删除 「{name}」轮播图？"
+        },
+        "gameType": {
+            "search": {
+                "type": "游戏类型"
+            },
+            "col": {
+                "type": "游戏类型",
+                "name": "名称"
+            }
+        },
+        "gameTag": {
+            "search": {
+                "tag": "游戏标签",
+                "type": "游戏类型"
+            },
+            "col": {
+                "type": "游戏类型",
+                "tag": "游戏标签",
+                "name": "标签名称"
+            }
+        },
+        "gamePlatform": {
+            "key": "平台代号",
+            "name": "平台名称",
+            "is-fun": "测试版",
+            "status-maintain": {
+                "status-maintain": "临时维修状态",
+                "yes": "维修中",
+                "no": "否"
+            },
+            "col": {
+                "routine-maintain": "例行维修",
+                "routine-temporary-maintain": "临时维修",
+                "routine-maintain-data": "每周 {day} {time}, 维修 {min} 分钟",
+                "disposable-maintain-data": "{date}, 维修 {min} 分钟",
+                "limit-member": "限制会员",
+                "no-limit-member": "无限制会员",
+                "order": "顺序"
+            }
+        },
+        "game": {
+            "name": "游戏名称",
+            "key": "平台代号",
+            "type": "游戏类型",
+            "tag": "游戏标签",
+            "status-maintain": {
+                "status-maintain": "临时维修状态",
+                "yes": "维修中",
+                "no": "否"
+            },
+            "col": {
+                "platformName": "平台名称",
+                "code": "游戏代号",
+                "order": "顺序"
+            },
+            "batchMaintain": "批次设定维修状态"
+        },
+        "letter": {
+            "letterTag": {
+                "tagName": "类型名称",
+                "selectTag": "选择类型",
+                "col": {
+                    "franchisee": "加盟商",
+                    "name": "类型名称",
+                    "type": "类型",
+                    "updated-at": "最后修改时间",
+                    "operator": "操作",
+                    "status": "状态"
+                }
+            },
+            "announcement": {
+                "searchTitle": "标题查询",
+                "announcementTag": "标签",
+                "memberTag": "会员标签",
+                "memberAccount": "会员帐号",
+                "time-range": {
+                    "label": "时间区间",
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本周",
+                "last-week": "上周",
+                "this-month": "本月",
+                "last-month": "上月",
+                "col": {
+                    "name": "发信者",
+                    "title": "主旨",
+                    "content": "信件内容",
+                    "numReads": "已读会员数",
+                    "numSends": "发送会员数",
+                    "created-at": "发布时间"
+                }
+            },
+            "message": {
+                "queryAccount": "查询帐号",
+                "queryStartTime": "开始日期",
+                "queryEndTime": "结束日期",
+                "queryRead": "是否已读",
+                "read": "已读",
+                "unread": "未读",
+                "none": "不限制",
+                "col": {
+                    "franchisee": "加盟商",
+                    "title": "标题",
+                    "member": "会员",
+                    "replyAt": "回覆时间",
+                    "createdAt": "寄信时间",
+                    "reply": "回覆信件"
+                }
+            }
+        },
+        "sms": {
+            "smsUser": {
+                "franchisee-id": "加盟商ID",
+                "module-id": "简讯模组ID",
+                "module-name": "SMS模组名称",
+                "account": "使用者帐号",
+                "copy": "复制"
+            },
+            "smsUserDialog": {
+                "sms-module": "简讯模组",
+                "sms-user": "使用者帐号",
+                "sms-password": "使用者密码",
+                "signature": "签章"
+            },
+            "smsTemplate": {
+                "franchisee-name": "加盟商",
+                "recognize-name": "辨识用名称",
+                "function-name": "功能名称",
+                "updated-at": "最后修改时间"
+            },
+            "smsTemplateDialog": {
+                "account": "使用者帐号",
+                "remark": "备注",
+                "content": "发送内容",
+                "phone-captcha": "手机验证码",
+                "password-reset": "密码重设"
+            },
+            "smsLog": {
+                "module-name": "Sms模组名称",
+                "user-name": "Sms帐号",
+                "phone": "发送对象",
+                "content": "内容",
+                "sendId": "回传id",
+                "completed": "是否成功",
+                "credit": "余额",
+                "cost": "本次花费",
+                "total": "发送笔数",
+                "num-success": "成功笔数",
+                "num-failures": "失败笔数",
+                "message": "讯息",
+                "remark": "备注",
+                "creator": "操作者",
+                "created-at": "建立时间",
+                "send": "发信",
+                "resend": "重发"
+            },
+            "smsLogDialog": {
+                "title": "发送信件",
+                "content": "发送内容",
+                "user-name": "Sms帐号",
+                "phone": "发送对象",
+                "phone-placeholder": "电话以逗号分隔，如: 0912345678,093456789..."
+            }
+        },
+        "bank": {
+            "limit-amount": "限额",
+            "cumulative-amount": "累计额度",
+            "name": "户名",
+            "account": "帐号",
+            "bank-name": "银行名称",
+            "bank-branch-name": "银行名称 (分行)",
+            "type": "帐户用途",
+            "type-options": {
+                "deposit": "存款",
+                "withdraw": "提款"
+            },
+            "useable": "使用限制",
+            "useable-options": {
+                "all": "不限制",
+                "agent": "代理",
+                "club-rank": "俱乐部层级",
+                "bank-group": "帐户群组"
+            },
+            "edit-cumulative-amount": "变更累计额度",
+            "edit-limit-amount": "修改限额",
+            "invalids": {
+                "number-only": "必需为数字",
+                "amount": "必须是合理数字(提款必小于0)"
+            },
+            "msgbox": {
+                "warning": "警告",
+                "delete-msg": "即将删除此笔资料，是否确认？ ",
+                "deleting": "删除中..."
+            },
+            "bank-useable-dialog": {
+                "title": "使用限制",
+                "user": "限制对象"
+            }
+        },
+        "third": {
+            "group_name": "群组名称",
+            "value": "代码",
+            "name": "名称",
+            "minAmount": "最小储值金额",
+            "maxAmount": "最大储值金额",
+            "pay-id": "支付方式",
+            "pay-name": "支付名称",
+            "order": "排序",
+            "optin": "通道设定",
+            "amount-limit": "通道限额",
+            "amount-limit-title": "轮替通道限额",
+            "order-description": "数字越小越优先",
+            "current-amount": "累积额度"
+        },
+        "report": {
+            "old-report": {
+                "mid": "编号",
+                "type": "交易类型",
+                "before-money": "异动前金额",
+                "change-money": "异动金额",
+                "after-money": "异动后金额",
+                "ip": "IP",
+                "create-at": "建立时间"
+            },
+            "agent-total-report": {
+                "col": {
+                    "sum": "加总",
+                    "quest": "任务成本",
+                    "agent": "名称",
+                    "level": "层级",
+                    "franchisee": "加盟商",
+                    "type": "游戏类型",
+                    "platform": "游戏平台",
+                    "tip": "小费",
+                    "count": "笔数",
+                    "bet-amount": "注额",
+                    "valid-amount": "有效注额",
+                    "win-amount": "中奖金额",
+                    "water-amount": "会员退水",
+                    "bonus-amount": "会员红利",
+                    "prize": "彩金",
+                    "total": "会员小计",
+                    "agent-percent": "占成(%)",
+                    "agent-amount": "占比额度",
+                    "agent-water-amount": "退水",
+                    "agent-bonus-amount": "红利",
+                    "agent-cost-group": "成本支出",
+                    "agent-cost-agent-water-amount": "代理退水",
+                    "agent-cost-member-water-amount": "会员退水",
+                    "agent-cost-member-bonus-amount": "会员红利",
+                    "agent-total": "小计",
+                    "formula": "计算方式",
+                    "reward": "总赠送点数",
+                    "quest-amount": "负担任务成本",
+                    "final-total": "最终总计",
+                    "agent-commission-amount": "退佣"
+                }
+            },
+            "quest-agent-total-report": {
+                "prise": "金额",
+                "amount": "点数",
+                "name": "钱包名称",
+                "cost": "成本",
+                "curPoint": "当前剩余点数",
+                "curWater": "当前流水",
+                "buyTime": "购买时间"
+            },
+            "quest-reward": {
+                "reward": "点数",
+                "name": "活动名称",
+                "cost": "成本",
+                "finishedAt": "领取时间"
+            },
+            "member-total-report": {
+                "col": {
+                    "sum": "加总",
+                    "agent": "名称",
+                    "level": "层级",
+                    "type": "游戏类型",
+                    "platform": "游戏平台",
+                    "tip": "小费",
+                    "count": "笔数",
+                    "bet-amount": "注额",
+                    "win-amount": "中奖金额",
+                    "water-amount": "会员退水",
+                    "bonus-amount": "会员红利",
+                    "prize": "彩金",
+                    "total": "会员小计",
+                    "agent-percent": "占成(%)",
+                    "agent-amount": "占比额度",
+                    "agent-water-amount": "退水",
+                    "agent-bonus-amount": "红利",
+                    "agent-cost-group": "成本支出",
+                    "agent-cost-agent-water-amount": "代理退水",
+                    "agent-cost-member-water-amount": "会员退水",
+                    "agent-cost-member-bonus-amount": "会员红利",
+                    "agent-total": "代理小计",
+                    "formula": "计算方式",
+                    "valid-amount": "有效注额"
+                }
+            },
+            "report-bets": {
+                "bets": "注单列表",
+                "col": {
+                    "mid": "注单主编号",
+                    "ip": "IP",
+                    "member": "会员",
+                    "bet-amount": "注额",
+                    "total": "会员小计",
+                    "bet-at": "下注时间",
+                    "status": "状态",
+                    "settle-at": "开奖时间",
+                    "water-amount": "退水",
+                    "win-amount": "中奖金额",
+                    "content": "下注内容",
+                    "game": "游戏名称",
+                    "platform": "游戏平台",
+                    "prize": "彩金",
+                    "tip": "小费",
+                    "bonus": "紅利",
+                    "valid-amount": "有效注额",
+                    "func": "功能",
+                    "detail": "明细",
+                    "agent-commission-amount": "退佣",
+                    "report-game": "游戏平台帐务 ({platform})",
+                    "water-percent": "代理退水(%)",
+                    "sum": "小计",
+                    "sumAll": "总计",
+                    "game-account": "游戏帐号",
+                    "betsDetail": "明细",
+                    "detailTitle": "投注明细"
+                }
+            },
+            "total-report": {
+                "query": {
+                    "game-platform": "游戏平台",
+                    "game-type": "游戏类型",
+                    "time-range": {
+                        "label": "时间区间",
+                        "to": "至",
+                        "start": "开始时间",
+                        "end": "结束时间"
+                    },
+                    "account": "帐号",
+                    "gameAccount": "游戏帐号",
+                    "mid": "注单编号",
+                    "level": "层级",
+                    "ip": "注单IP",
+                    "fun-status": {
+                        "label": "平台类型",
+                        "prod": "正式版",
+                        "fun": "测试版"
+                    },
+                    "label-exclude-tester": "排除测试帐号",
+                    "label-only-tester": "只有测试帐号",
+                    "game": "游戏",
+                    "game-placeholder": "请输入游戏名称",
+                    "time-type": "时间类型",
+                    "report-at": "下注时间",
+                    "settle-at": "派彩时间"
+                },
+                "setting": {
+                    "use-money-format": "使用货币格式"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本周",
+                "last-week": "上周",
+                "this-month": "本月",
+                "last-month": "上月",
+                "no-time": "不限时间",
+                "to-excel": "导出报表",
+                "is-compelet": "已过帐",
+                "not-compelet": "未过帐",
+                "cancel": "已取消",
+                "notify": "本报表仅显示一周前的资料"
+            },
+            "settlement-day": {
+                "col": {
+                    "settlement-group": "结算资料",
+                    "count": "笔数",
+                    "bet-amount": "注额",
+                    "total": "会员结果",
+                    "company-total": "公司结果",
+                    "alv1-total": "加盟主结果",
+                    "alv2-total": "大股东结果",
+                    "alv3-total": "股东结果",
+                    "alv4-total": "总代理结果",
+                    "alv5-total": "代理结果",
+                    "num-completeds": "已完成注单"
+                },
+                "re-settlement": "重新结算"
+            },
+            "approval-water": {
+                "bet-amount": "会员注额",
+                "valid-amount": "有效投注金额",
+                "total-amount": "会员结果",
+                "water-amount": "应派退水",
+                "approval-amount": "已派退水",
+                "unpaid-amount": "未派额度",
+                "min-amount": "应派最低额度",
+                "approval": "派点",
+                "confirm-approval": "您已选择 {count} 笔, 共 {amount} 额度的派点资料，确定执行派点？",
+                "total-water": "总返水",
+                "water-limit": "返水限额"
+            },
+            "approval-bonus": {
+                "bet-amount": "会员注额",
+                "total-amount": "会员结果",
+                "bonus-amount": "应派红利",
+                "approval-amount": "已派红利",
+                "unpaid-amount": "未派额度",
+                "min-amount": "应派最低额度",
+                "approval": "派点",
+                "confirm-approval": "您已选择 {count} 笔, 共 {amount} 额度的派点资料，确定执行派点？",
+                "func": "功能",
+                "info": "详细",
+                "total-bonus": "总红利",
+                "bonus-limit": "红利限额"
+            },
+            "settlement-month": {
+                "query": {
+                    "level": "层级",
+                    "account": "帐号"
+                },
+                "col": {
+                    "name": "名称",
+                    "settlement-record": "交收记录",
+                    "record-amount": "已结算额",
+                    "num-records": "结算次数",
+                    "report-total": "月帐总额",
+                    "report-total-current": "本层",
+                    "report-total-children": "下层总额",
+                    "fee-amount": "手续费",
+                    "receivable-amount": "前次结余",
+                    "total": "本次结余"
+                },
+                "settlement": "结算"
+            },
+            "account-report": {
+                "list": {
+                    "account": "会员帐号",
+                    "applyAmount": "申请存款金额",
+                    "fee": "手续费",
+                    "payeeAccount": "收款人银行帐号",
+                    "payeeBankName": "收款银行",
+                    "payeeBranchName": "分行",
+                    "payeeName": "收款人姓名",
+                    "payerName": "存款户名",
+                    "remarkTransactionAt": "转帐时间",
+                    "remarkTransactionId": "交易序号",
+                    "money": "提款金额",
+                    "payerName2": "出款户名",
+                    "sum": "小计",
+                    "withdrawFee": "提款手续费",
+                    "deposit": {
+                        "realAmount": "实际存款金额"
+                    },
+                    "withdraw": {
+                        "realAmount": "实际出款金额"
+                    }
+                },
+                "search": {
+                    "select": "请选择",
+                    "bank": "帐户",
+                    "type": "帐户类型",
+                    "deposit": "存款",
+                    "withdraw": "提款"
+                }
+            },
+            "company-total-report": {
+                "activityWallet": "活动钱包",
+                "quest": "优惠活动",
+                "tip": "小费",
+                "handIn": "上缴",
+                "agentTake": "下放",
+                "agentTotal": "占成额度",
+                "parentReportTotal": "本层交收"
+            }
+        },
+        "logger": {
+            "log-exception": {
+                "site": {
+                    "label": "平台",
+                    "agent": "控端",
+                    "member": "会员端"
+                },
+                "query": {
+                    "stime": "时间 - 起",
+                    "etime": "时间 - 讫"
+                },
+                "col": {
+                    "url": "访问路径",
+                    "status-code": "状态码",
+                    "code": "错误编号",
+                    "message": "错误讯息"
+                }
+            },
+            "log-sync-report": {
+                "stime": "时间 - 起",
+                "etime": "时间 - 讫",
+                "platform": "游戏平台",
+                "executing": "同步中",
+                "sync-report": "同步",
+                "manual-sync-report": "手动同步",
+                "socket-disconnected": "服务未连线...",
+                "status": {
+                    "label": "处理结果",
+                    "completed": "成功",
+                    "failed": "部分失败",
+                    "error": "错误"
+                },
+                "col": {
+                    "time-range": "时间区间",
+                    "total": "总笔数",
+                    "num-completes": "完成笔数",
+                    "num-fails": "失败笔数",
+                    "status": "状态",
+                    "execute-time": "执行时间(秒)"
+                },
+                "retry": "重试 {value} ...",
+                "last-time": "已同步时间",
+                "next-time": "下次同步时间"
+            },
+            "log-sync-report-time-range-dialog": {
+                "sync-report": "同步报表"
+            },
+            "log-provider-request": {
+                "stime": "时间 - 起",
+                "etime": "时间 - 讫",
+                "platform": "游戏平台",
+                "account": "会员帐号",
+                "status": {
+                    "label": "执行结果",
+                    "completed": "成功",
+                    "failed": "失败"
+                },
+                "col": {
+                    "action": "请求类型",
+                    "status": "状态",
+                    "execute-time": "执行时间(秒)"
+                }
+            },
+            "log-data-modify": {
+                "operator": "操作者",
+                "site": "端口",
+                "site-agent": "控端",
+                "site-member": "会员端",
+                "action": "操作行为",
+                "model": "资料类型",
+                "target": "资料对象",
+                "model-id": "ID",
+                "view": "检视",
+                "action-updated": "更新资料",
+                "action-created": "新增资料",
+                "action-deleted": "删除资料",
+                "name": "名称"
+            },
+            "log-multi-wallet-stuck": {
+                "platform": "游戏平台",
+                "platform-name": "平台名称",
+                "member-id": "会员编号",
+                "type": "类型",
+                "error-code": "错误代码",
+                "error-message": "错误讯息",
+                "amount": "卡住金额",
+                "process": "处理动作",
+                "status": "处理状态",
+                "created-at": "建立时间",
+                "deposit": "存款",
+                "withdraw": "提款",
+                "process-code": {
+                    "0": "正常处理",
+                    "1": "卡钱处理"
+                },
+                "status-code": {
+                    "0": "正常状态",
+                    "1": "卡钱中",
+                    "2": "退还",
+                    "3": "行为正常不处理"
+                }
+            },
+            "log-third-search-bar": {
+                "search": "搜寻使用者帐号或平台商ID",
+                "order_id": "搜寻 Fullpay 订单编号",
+                "user_type": "代理 或 会员",
+                "status": "订单状态",
+                "transaction_status": "交易状态",
+                "created_at": "建立时间",
+                "time-range": {
+                    "label": "时间区间",
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本周",
+                "last-week": "上周",
+                "this-month": "本月",
+                "last-month": "上月"
+            },
+            "log-third-deposit": {
+                "payment_merchant": "平台商户ID",
+                "name": "自订支付名称",
+                "search": "搜寻使用者或平台商ID",
+                "status": "订单状态",
+                "pay-name": "支付名称",
+                "status_opt": {
+                    "0": "未付款",
+                    "1": "付款成功",
+                    "2": "测试付款成功",
+                    "-1": "订单未完成",
+                    "-2": "付款失败",
+                    "-3": "其他例外",
+                    "-4": "产生验证码失败"
+                },
+                "transaction_status": "交易状态",
+                "transaction_status_opt": {
+                    "-1": "订单未完成",
+                    "-2": "付款失败",
+                    "-3": "其他例外",
+                    "-4": "产生验证码失败",
+                    "0": "未付款",
+                    "1": "支付通知付款",
+                    "2": "手动付款"
+                },
+                "payed_at": "付款时间",
+                "callback_at": "回 call 时间",
+                "created_at": "建立时间",
+                "device": "装置",
+                "ip": "IP",
+                "payment_status_message": "付款状态",
+                "payment_status": "付款状态讯息",
+                "status_message": "订单状态讯息",
+                "trade_no": "第三方支付订单编号",
+                "fee": "手续费",
+                "amount": "金额",
+                "account": "使用者帐号",
+                "bank_code": "银行代码",
+                "payment_type": "支付方式",
+                "merchant_id": "商户 id",
+                "payment_id": "第三方支付 id",
+                "platform_order_id": "平台订单 ID",
+                "payment_merchant_id": "平台商户 ID",
+                "platform": "平台",
+                "order_id": "Fullpay 订单编号",
+                "user_type": "代理 或 会员",
+                "time-range": {
+                    "to": "至",
+                    "start": "开始时间",
+                    "end": "结束时间"
+                },
+                "detail": "第三方支付明细",
+                "platform_id": "平台id",
+                "manual-pay": "手动通过",
+                "manual-pay-confirm": "确认",
+                "manual-pay-confirm-message": "是否确定手动通过?"
+            }
+        },
+        "member": {
+            "member-activity-info": {
+                "time-range": {
+                    "to": "至",
+                    "start": "开始日期",
+                    "end": "结束日期",
+                    "invalid": "时间区间超过 {months} 个月"
+                },
+                "today": "本日",
+                "this-week": "本周",
+                "this-month": "本月",
+                "yesterday": "昨天",
+                "last-week": "上周",
+                "last-month": "上月",
+                "label-exclude-tester": "排除测试帐号",
+                "label-only-tester": "只有测试帐号",
+                "label-level": "当前组织层级",
+                "label-float-point": "显示小数点4位",
+                "table": {
+                    "total_title": "加总",
+                    "col-parent-agent": "上层",
+                    "col-agent": "代理",
+                    "col-franchisee": "加盟商",
+                    "num-first-deposit": "首次充值",
+                    "sum-first-deposit": "首次充值加总",
+                    "num-re-deposit": "再次充值",
+                    "sum-re-deposit": "再次充值加总",
+                    "num-first-withdraw": "首次提现",
+                    "sum-first-withdraw": "首次提现加总",
+                    "num-all-deposit": "总充值",
+                    "sum-all-deposit": "总充值加总",
+                    "num-re-withdraw": "再次提现",
+                    "sum-re-withdraw": "再次提现加总",
+                    "num-all-withdraw": "总提现",
+                    "sum-all-withdraw": "总提现加总",
+                    "num-login-member": "总登入人数",
+                    "num-registers": "注册人数",
+                    "sum-log": "笔",
+                    "sum-member": "人",
+                    "sum-money": "元"
+                }
+            },
+            "member-tag-manager": {
+                "btn-add": "新增标签",
+                "default-tag": "新标签",
+                "confirm-delete-tag": "确定要删除标签 {name} ？ (会员标记的此标签类型也会一并删除)"
+            },
+            "club": {
+                "clubName": "俱乐部名称",
+                "describe": "描述",
+                "remark": "备注",
+                "clubRankName": "层级名称",
+                "depositPer": "每次存款额度",
+                "depositDayTimes": "每日存款次数上限",
+                "withdrawPer": "每次提款额度",
+                "withdrawDayTimes": "每日提款次数上限",
+                "numMembers": "人数",
+                "order": "顺序",
+                "default-status": "预设状态",
+                "not-default": "非预设",
+                "default": "预设",
+                "club-list": "俱乐部列表",
+                "clubRank-list": "层级列表",
+                "add-club-rank": "新增俱乐部层级",
+                "default-club-rank": "预设的俱乐部层级",
+                "not-limit": "不限制",
+                "editAllWater": "退水管理"
+            }
+        },
+        "quest": {
+            "reward": {
+                "title": "优惠列表",
+                "start_at": "开始时间",
+                "fixed": {
+                    "franchisee": "加盟商",
+                    "title": "优惠列表",
+                    "quest-type": "类型",
+                    "quest-name": "名称",
+                    "reward": "赠送点数",
+                    "bet-amount": "流水量",
+                    "no-limit": "不限制"
+                },
+                "percent": {
+                    "franchisee": "加盟商",
+                    "no-limit": "不限制",
+                    "questName": "名称",
+                    "percent": "赠送百分比",
+                    "bet_amount": "流水量",
+                    "bet_amount_min": "最小流水量",
+                    "reward_max": "最大赠送点数",
+                    "start_at": "开始时间",
+                    "end_at": "结束时间"
+                },
+                "quest-condition": {
+                    "franchisee": "加盟商",
+                    "add-title": "新增优惠任务",
+                    "edit-title": "编辑优惠任务",
+                    "add-announcement-title": "新增优惠公告",
+                    "edit-announcement-title": "编辑优惠公告",
+                    "method": {
+                        "title": "领取方式",
+                        "before": "前派",
+                        "after": "后派"
+                    },
+                    "type": {
+                        "title": "活动类型",
+                        "fixed": "固定型",
+                        "percent": "百分比型",
+                        "stages": "阶段型"
+                    },
+                    "reward": "赠送点数",
+                    "percent_scale": "流水转换赠点的百分比",
+                    "title-deposit": "储值金额转换赠点的百分比",
+                    "reward_scale": "领取点数",
+                    "lock-amount": "额外锁定流水",
+                    "lock-amount-scale": "倍数",
+                    "lock-amount-fix": "固定值",
+                    "condition": {
+                        "title": "完成条件",
+                        "reward_max": "最大赠送点数",
+                        "bet_amount_min": "最少投注金额",
+                        "birthday": "会员生日",
+                        "bet_amount": "投注流水量",
+                        "valid_amount": "有效流水量",
+                        "win_amount": "中奖流水量",
+                        "amount_scale": "流水倍数",
+                        "first-time-deposit": "(最少)首储金额",
+                        "multiple-deposit": "(最少)累积型储值金额",
+                        "regular-deposit": "(最少)必需储值金额",
+                        "profit-report-total": "获利金额",
+                        "loss-report-total": "负利金额",
+                        "single-day-first-time-deposit": "(最少)每日首储金额",
+                        "days-after-registered": "注册后(至少)的天数"
+                    },
+                    "period": {
+                        "title": "触发周期",
+                        "daily": "每日",
+                        "week": "每周",
+                        "month": "每月",
+                        "quarterly": "每季",
+                        "half_year": "每半年",
+                        "year": "每年",
+                        "period": "期间",
+                        "trigger-title": "领取赠点",
+                        "trigger-immediately": "立即",
+                        "trigger-later": "周期结束后",
+                        "exist-title": "赠点保留时间"
+                    },
+                    "times": "领取次数",
+                    "select-agent": "是否指定代理",
+                    "select-member": "是否指定会员",
+                    "required-amount": "须达到的流水量",
+                    "check-unlock": "金额是否锁定",
+                    "locked": "锁定中",
+                    "unlock": "解锁",
+                    "group": "群组",
+                    "no-use": "不使用"
+                },
+                "noPhoto": "没有图片资料",
+                "btn": {
+                    "front-page": "返回",
+                    "fixed-add": "新增固定型",
+                    "percent-add": "新增百分比型",
+                    "stage-add": "新增阶段型",
+                    "quest-add": "新增优惠任务",
+                    "announcement-add": "新增优惠公告",
+                    "log": "流水纪录"
+                },
+                "filter": "筛选",
+                "filter-quest": "只显示任务",
+                "filter-announcement": "只显示公告"
+            },
+            "group": {
+                "company": "公司活动",
+                "quest-list": "优惠列表",
+                "group-name": "优惠群组",
+                "club-rank": "俱乐部等级",
+                "level": "排序",
+                "edit": "编辑"
+            },
+            "type": {
+                "first-time-deposit": "首储活动",
+                "regular-percent": "流水赠送 (百分比)",
+                "regular-fixed": "流水赠送 (固定)",
+                "period-fixed": "期间活动",
+                "birth-fixed": "生日活动",
+                "recommend-fixed": "介绍活动",
+                "daily-percent": "每日活动",
+                "daily-fixed": "每日活动",
+                "deposit-fixed": "储值活动",
+                "deposit-percent": "储值活动",
+                "multiple-deposit": "储值活动 (累积型)",
+                "stages-deposit": "阶段式活动"
+            }
+        },
+        "version": {
+            "title": "版本资讯",
+            "version-number": "版号",
+            "tittle": "版本标题",
+            "information": "改版内容",
+            "add": "新增版本资讯",
+            "delete": "删除"
+        },
+        "activity-wallet": {
+            "company-activity": "公司任务",
+            "company": "公司活动",
+            "club-rank": "俱乐部层级",
+            "select-agent": "是否指定代理",
+            "select-member": "是否指定会员",
+            "name": "活动名称",
+            "status": "状态",
+            "price": "价格",
+            "points": "可使用点数",
+            "water_limit": "限制的流水",
+            "platforms": "可使用的平台",
+            "start_at": "活动开始时间",
+            "end_at": "活动结束时间",
+            "limit_frequency": "可购买次数(0为无限)",
+            "limit_member_frequency": "单一会员可购买次数(0为无限)",
+            "enabled": "是否启用",
+            "add-title": "新增活动",
+            "edit-title": "修改活动",
+            "percent-point": "赠送点数百分比",
+            "percent-water": "流水倍数",
+            "percent-min-price": "最小购买金额",
+            "percent-max-point": "最大赠送点数",
+            "limit_give_up": "钱包余额底限"
+        },
+        "activity-wallet-log": {
+            "receive": {
+                "title": "转回状态",
+                "all": "全选",
+                "received": "已转回",
+                "not-received": "未转回"
+            },
+            "account": "会员帐号",
+            "product-name": "产品名称",
+            "water-limit": "流水限制",
+            "current-water": "当前流水",
+            "points": "可使用点数",
+            "current-points": "当前点数",
+            "receive-at": "领取时间",
+            "receive-amount": "领取金额",
+            "is-receive": "是否转回",
+            "created-at": "购买时间",
+            "title-cancel": "取消会员购买的活动钱包",
+            "price": "购买价格",
+            "amount": "退回的金额",
+            "reason": "取消原因",
+            "water": "锁定流水",
+            "btn-report-log": "注单",
+            "cancelDate": "取消时间",
+            "cancelReceiveAmount": "退回金额",
+            "cancel-agent": "取消操作人"
+        },
+        "bank-group": {
+            "title": "帐户群组",
+            "group-name": "帐户群组名称",
+            "add-group": "新增帐户群组",
+            "edit-group": "编辑帐户群组",
+            "member": "查看会员",
+            "member-list": "会员列表",
+            "member-number": "会员人数",
+            "fullpay-title": "金流通道",
+            "edit-fullpay-title": "金流通道设定",
+            "edit-amount-title": "累积额度设定",
+            "order": "顺序",
+            "amount-limit": "通道限额(0为不限制)",
+            "rotation_status": "是否启用通道轮流功能",
+            "confirm": "如果金流设定有更动,会移除之前的通道设定,确定修改吗?",
+            "curModify": {
+                "title": "变更累积额度"
+            }
+        },
+        "stuck-money": {
+            "col-franchisee": "加盟商",
+            "col-platform": "游戏平台",
+            "col-type": "动作类型",
+            "col-error": "错误方式",
+            "col-member": "会员帐号/名称",
+            "col-before-point": "转移前点数",
+            "col-after-point": "转移后点数",
+            "col-point": "被卡住的点数",
+            "col-agent": "负责处理的代理帐号/名称",
+            "col-status": "处理状态",
+            "col-error-message": "错误讯息",
+            "type-info": {
+                "withdraw": "从游戏取点",
+                "deposit": "存点到游戏"
+            },
+            "error-info": {
+                "transfer": "移转点数时产生的错误",
+                "balance": "余额产生的错",
+                "match": "两次余额不符的错",
+                "unknow": "未知错误"
+            },
+            "status-info": {
+                "completed": "完成",
+                "cancel": "取消",
+                "pending": "待处理"
+            },
+            "process-info": {
+                "none": "不须处理",
+                "back": "退款",
+                "pending": "未有动作"
+            },
+            "label-member": "会员帐号",
+            "label-agent": "代理帐号",
+            "label-process": "处理方式"
+        }
+    }
+}

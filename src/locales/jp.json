@@ -1,0 +1,3656 @@
+{
+    "message": "こんにちはi18n !!",
+    "menu": {
+        "view_31": "データレビュー",
+        "view_34": "ゲーム、プラットフォーム管理",
+        "view_35": "個人管理",
+        "view_36": "個人情報",
+        "view_38": "取引記録（アフィリエイトマス ター）",
+        "view_46": "システムマネジメント",
+        "view_48": "役割権限管理",
+        "view_49": "クラブ管理",
+        "view_50": "メニュー管理",
+        "view_51": "インターフェイス（API）管理",
+        "view_52": "プラットフォーム管理",
+        "view_53": "ゲームタイプの管理",
+        "view_54": "ゲーム管理",
+        "view_55": "会社員の管理",
+        "view_56": "組織管理",
+        "view_57": "会員管理",
+        "view_58": "会員登録レビュー",
+        "view_60": "インボックス管理",
+        "view_61": " タイプ管理",
+        "view_62": "走馬灯管理",
+        "view_63": "インボックス通知",
+        "view_66": "メッセージ",
+        "view_67": "レビュー/通知管理",
+        "view_69": "カルーセル管理",
+        "view_72": "プロモーション",
+        "view_73": "会社の アカウント管理",
+        "view_77": "メンバータグ管理",
+        "view_79": "エージェントアプリケーションプロモーション",
+        "view_80": "会員入金",
+        "view_82": "レビューエージェントアプリケーションプロモーション",
+        "view_84": "メンバー情報の変更",
+        "view_85": "SMSプラットフォームアカウント管理",
+        "view_86": "テキストメッセージ / SMS",
+        "view_87": "送信テキスト管理",
+        "view_94": "ゲームタグ管理",
+        "view_105": "間違ったのポイントを送ると撤回",
+        "view_111": "レポート",
+        "view_112": "ゲームレポート",
+        "view_115": "会員特典",
+        "view_116": "プロモーションタイプ",
+        "view_117": "プロモーション管理",
+        "view_119": "ホームページ / ホーム",
+        "view_123": "毎月の決済",
+        "view_124": "SMSレコード",
+        "view_126": "アフィリエイト管理",
+        "view_127": "事前借入額",
+        "view_129": "事前借入レコード(アフィリエイト)",
+        "view_131": "会員出金",
+        "view_132": "会員銀行カード管理",
+        "view_133": "毎日の決済",
+        "view_134": "ログイン記録",
+        "view_137": "システム記録",
+        "view_138": "エラーログ",
+        "view_139": "レポートの同期記録",
+        "view_140": "ゲームリクエスト記録",
+        "view_141": "操作記録",
+        "view_142": "リベート配布",
+        "view_143": "ボーナス配布",
+        "view_144": "ログイン記録",
+        "view_145": "会員管理",
+        "view_146": "電話変更記録",
+        "view_147": "会員銀行カードの記録",
+        "view_148": "ミッション",
+        "view_149": "固定タイプポイントを与える",
+        "view_150": "賭け金額のパーセンテージポイントを与える",
+        "view_151": "会員ミッションレビュー",
+        "view_152": "プロモーション管理",
+        "view_153": " ボーナスポイントキャンペーン",
+        "view_154": "版本資訊",
+        "view_156": "メンバーの取引記録",
+        "view_157": "ログインお知らせ",
+        "view_158": "お知らせ一覧",
+        "view_159": "自動配布",
+        "view_160": "第三者決済入金 記録",
+        "view_161": "第三者決済出金記録",
+        "view_162": "プロモーション（新規）",
+        "view_163": "メンバー出金",
+        "view_164": "顧客アカウントレポート",
+        "view_165": "クラブ会員アップグレード",
+        "view_166": "手 動で入金",
+        "view_167": "決済管理",
+        "view_168": "第三者決済入金",
+        "view_169": "メンバーアクティブな状況",
+        "view_170": "ボーナスウォレットレポート",
+        "view_171": "ボーナスウォレット管理",
+        "view_172": "ボ ーナスウォレット記録",
+        "view_173": "ゲームレポート（メンバーパートクエリ）",
+        "view_174": "プロモーションレポート",
+        "view_175": "ボーナスウォレット",
+        "view_177": "理由管理のレビュー",
+        "view_178": "合 計レポート",
+        "view_179": "アカウントグループ",
+        "view_180": "プロモートリンク管理",
+        "view_181": "過去のゲームレポート",
+        "view_182": "メンバーアカウント検索",
+        "view_185": "プロモーショングループ",
+        "view_186": "メンバーアクティブな状況",
+        "view_187": "ホームページ / ホーム",
+        "view_188": "卡錢紀錄",
+        "view_189": "平台部分功能管理",
+        "view_190": "舊系統歷史報表",
+        "view_191": "會員遊戲報表",
+        "view_192": "存款公告",
+        "view_193": "未轉移的會員"
+    },
+    "common": {
+        "all": "全て",
+        "type": "タイプ",
+        "status-label": "状態",
+        "status-enabled": "有効にする",
+        "status-disabled": "無効",
+        "api-disabled": "操作権限なし",
+        "noLimit": "制限なし",
+        "status-enabled-label": "有効状態",
+        "edit": "編集",
+        "clone": "コピー",
+        "copied": "コピーされました",
+        "announcement": "お知らせ",
+        "system": "システムメッ セージ",
+        "agent-send": "エージェント送信",
+        "status-locked": "ロック",
+        "status-unlocked": "ロックされていません",
+        "status-locked-label": "ロック状態",
+        "edit-password": "パスワードを変更する",
+        "invite-host": "プロモートリンク",
+        "add": "追加",
+        "copy": "コピー",
+        "dialog-add": "追加{name}",
+        "dialog-edit": "修正{name}",
+        "select": "選択してください",
+        "select-all": "すべて選択",
+        "select-other": "その他",
+        "send": "送る",
+        "franchisee": "アフィリエイト",
+        "testing-line": "テストライン",
+        "is-fun": "テストバージョン",
+        "query": "検索",
+        "save": "保存",
+        "search": "検索",
+        "clear": "クリア",
+        "reset": "リセット",
+        "submit": " 提出する",
+        "agent": "エージェント",
+        "member": "会員",
+        "member-name": "メンバー名",
+        "remove": "削除",
+        "close": "閉じる",
+        "delete": "削除する",
+        "option": "操作",
+        "detail": "詳細",
+        "not-set": "設定されていませ ん",
+        "date": "日付",
+        "site": "サイト",
+        "account": "アカウント",
+        "account-and-name": "{account}【{name}】",
+        "ok": "確定",
+        "cancel": "キャンセル",
+        "unset": "設定されていません",
+        "setup-is-complete": "設定完了",
+        "no-data": "データなし",
+        "device": "設備",
+        "os": "システム",
+        "list": "リスト",
+        "display": "展開する",
+        "hide": "隠す",
+        "browser": "ブラウザ",
+        "referrer": "ソース",
+        "fullpay-channel": "フルペイ チャンネル",
+        "show-qrcode": "QR code",
+        "dialog-add-title": "追加{name}",
+        "dialog-edit-title": "修正{name}",
+        "level-label": "組織レベル",
+        "level-0": "会社",
+        "level-1": "アフィリエイト",
+        "level-2": "大株主",
+        "level-3": "株主",
+        "level-4": "ジェネラル・エージェント / 総代理人",
+        "level-5": "エージェント",
+        "level-6": "会員",
+        "level-sub": "サブアカウント",
+        "level-member": "会員",
+        "col-member-parent": "上層エージェント",
+        "col-franchisee": "アフィリエイト",
+        "col-enabled": "有効/無効",
+        "col-bank": "銀行カード",
+        "col-bet_amount": "入金賭け金額",
+        "col-locked": "ロック",
+        "col-ip-white": "ホワイトリスト",
+        "col-committed-at": "レビューのための時間",
+        "col-date": "日付",
+        "col-week": "週間",
+        "col-updated-at": "変更時間",
+        "col-finished-at": "完了時間",
+        "col-created-at": "設立時間",
+        "col-transaction-at": "出金時間",
+        "col-register-at": "登録時間",
+        "col-deleted-at": "削除時間",
+        "col-show-time": "表示時間",
+        "col-editor": "変更者",
+        "col-creator": "創設者",
+        "col-operator": "操作の人",
+        "col-options": "操作",
+        "col-percent": "パーセンテージ",
+        "col-remark": "備考",
+        "col-status": "状 態",
+        "col-ip": "IP",
+        "col-phone": "携帯番号",
+        "col-account-name": "アカウント/名前",
+        "col-loggedin": "ログイン情報",
+        "col-loggedin-at": "ログイン時間",
+        "col-role": "役割",
+        "col-countryName": "国",
+        "col-loggedin-errors": "失敗の数",
+        "all-franchisee": "アフィリエイト",
+        "franchisee-label": "アフィリエイト",
+        "col-multi_wallet": "メインウォレット",
+        "col-transform_log": "取引履歴",
+        "col-forthDialog": "4世代組織",
+        "col-reset-lock": "リセットロック / すべてゼロ",
+        "col-last-summary": "メンバー備考",
+        "col-company": "会社名",
+        "col-game-platform": "プラットフォームロック",
+        "col-short-link": "短網址",
+        "upgradeRank": "アップグレードの設 定",
+        "start_at": "開始時間",
+        "end_at": "終了時間",
+        "change": "チェンジ",
+        "fast-setting": "クイックセットアップ",
+        "giveUp": "あきらめた",
+        "default": "デフォルト",
+        "index-no-auth": "ホームページの許可なし",
+        "bank": {
+            "name": "口座名",
+            "account": "銀行口座",
+            "bank-name": "銀行名",
+            "branch-name": "支店名",
+            "status": {
+                "title": "状態",
+                "create": "追加",
+                "modify": "変更",
+                "delete": "削除"
+            },
+            "auto-pass": "オートパス"
+        },
+        "common": "共有",
+        "setting": {
+            "use-money-format": "使用マネーフォーマット"
+        },
+        "gender": {
+            "F": "女",
+            "M": "男",
+            "NA": "設定されていません"
+        },
+        "franchisee-options": {
+            "company-label": "会社限定"
+        },
+        "year": "年",
+        "month": "月",
+        "week": {
+            "sunday": "日曜日",
+            "monday": "月曜日",
+            "tuesday": "火曜日",
+            "wednesday": "水曜日",
+            "thursday": "木曜日",
+            "friday": "金曜日",
+            "saturday": "土曜日"
+        },
+        "minute": "分",
+        "seconds": "秒",
+        "alert": {
+            "info": "ご注意",
+            "warning": "警告",
+            "error": "エラー"
+        },
+        "wallet": "ウォレット",
+        "agent-wallet": {
+            "money": "利用可能なポイント",
+            "settlement": "決算金",
+            "betAmount": "ベット額",
+            "deductionBetAmount": "控除ベット額"
+        },
+        "member-wallet": {
+            "money": "ポイント",
+            "bonus": "ボーナス"
+        },
+        "agent-wallet-type": {
+            "edit-money": "利用可能なポイント変更（会社）",
+            "edit-settlement": "決算金変更（会社）",
+            "month-settlement": "月決算入帳",
+            "month-settlement-from": "月決算支払い",
+            "undo-month-settlement": "月決算をキャンセルする",
+            "undo-month-settlement-from": "月決算支払いをキャンセルする",
+            "give-member": "ポイントを送る-メンバー",
+            "give-agent": "ポイントを送る-エージェント",
+            "give-error": "ポイントを送る-間違ったのポイントを送る",
+            "take-back-member": "ポイントを送り返す -メンバー",
+            "take-back-agent": " ポイントを送り返す -エージェント",
+            "get-from-agent": "上層からポイントを送る",
+            "get-from-error": "間違ったのポイントを送る",
+            "be-taken-back-agent": "上層から取り戻される",
+            "be-taken-back-error": " エラー回復",
+            "deposit-bank": "入金（銀行）",
+            "deposit-third": "入金（第三者）",
+            "money-to-settlement": "決算金を交換する",
+            "settlement-to-money": "利用可能なポイントを交換する",
+            "loan": "事前借入額",
+            "compensatory": "会社発行-間違ったのポイントを送る",
+            "settlement": "月決算"
+        },
+        "member-wallet-type": {
+            "all": "全て",
+            "be-taken-back-agent": "エージェントにポイントの取り戻される",
+            "be-taken-back-error": "エラー回復",
+            "bet-completed": "ベッティングオーダー完了",
+            "bet": "ベット",
+            "bonus-to-money": "ボーナスは、ポイントに変換しました",
+            "bonus": "配当",
+            "commission": "コミッション決算",
+            "coupon": "プロモーションのギフトポイント",
+            "deposit-bank": "銀行入金",
+            "deposit-fee": "入金手数料",
+            "deposit-third": "第三者決済入金",
+            "edit-bonus": "会社のボーナスポイントを送る",
+            "edit-money": "利用可能なポイン ト変更（会社）",
+            "error": "間違ったのポイントを送る/撤回",
+            "exchange": "ボーナス交換",
+            "get-from-agent": "ポイント代行送付",
+            "get-from-error": "間違ったのポイントを送る",
+            "get-or-be-taken-back": "受 け取ったポイント/撤回されました",
+            "payin": "シングルウォレット控除ポイント",
+            "payout": "シングルウォレットプラスポイント",
+            "prize": "賞金",
+            "reward": "現金へのポイント",
+            "rollback": "ベットスリップの再計算",
+            "settle": "当たり",
+            "transfer-game": "ゲームに転送されたポイント",
+            "transfer-wallet": "ポイントはプラットフォームに戻されます",
+            "undo-bonus": "配当を撤回",
+            "undo-water": "リベートを元に戻す",
+            "water": "リベート",
+            "withdraw": "出金",
+            "withdraw-fee": "出金手数料",
+            "application-withdraw": "出金を申請する",
+            "locked-amount": "ロックされた金額",
+            "edit-reward": "上層からプロモーションのギフトポ イントを変更する",
+            "withdraw-disapproved": "出金審査に失敗しました",
+            "transaction-cancel": "出金をキャンセルする",
+            "agent-edit-deposit": "手動入金",
+            "agent-edit-deposit-rollback": "手動入金を撤回",
+            "third-party-deposit": "第三者決済入金",
+            "third-party-deposit-rollback": "第三者決済入金を撤回",
+            "manual-edit-add": "クォータ手動で増やす",
+            "manual-edit-sub": "クォータ手動で減らす",
+            "activity-wallet-buy": "ボーナスウォレット",
+            "activity-wallet-disapprove": "ボーナスウォレットが失敗しました",
+            "get-from-activity-wallet": "ボーナスウォレットの転送バック",
+            "activity-wallet-cancel": "ボーナスウォレットの購入をキャンセルする",
+            "lost-money-from-platform": "點數遺失補點"
+        },
+        "invalids": {
+            "required": "これは入力必要項目です",
+            "confirm-password-invalid": "パスワードが2回異なります",
+            "franchisee-required": "アフィリエイトを選択してください"
+        },
+        "review-status": {
+            "approved": "合格しました",
+            "disapproved": "失敗します",
+            "review": "審査中",
+            "cancel": "キャンセル",
+            "pending": "審査のために提出されていません",
+            "none": "審査未完了",
+            "transaction": {
+                "completed": "出金済み",
+                "none": "未出金",
+                "error": "出金に失敗しました",
+                "transaction-cancel": "出金をキャンセルする",
+                "manual-transaction": "手動での出金"
+            }
+        },
+        "report-status": {
+            "completed": "すで に決算済み",
+            "error": "ベットスリップエラー",
+            "cancel": "すでにキャンセル",
+            "betting": "ベット中",
+            "settle": "すでに当たり",
+            "rollback": "ロールバック",
+            "invalid": "無効"
+        },
+        "carousel": {
+            "position": {
+                "web-home": "ウェブ / ホーム",
+                "web-slot": "ウェブ / スロットページ",
+                "mobile-home": "モバイル / ホーム",
+                "mobile-slot": "モバイル / スロットページ"
+            },
+            "link-type": {
+                "none": "ページめくりなし",
+                "link": "リンク",
+                "game": "ゲーム",
+                "coupon": "クーポン"
+            }
+        },
+        "log-data-modify": {
+            "model": {
+                "Agent": " ユーザー / エージェント",
+                "Member": "会員",
+                "Marquee": "走馬灯",
+                "Carousel": "カルーセル",
+                "MemberBank": "会員銀行カ ード",
+                "Franchisee": "アフィリエイト",
+                "FranchiseePlatformConfig": "アフィリエイト-ゲームプラットフォームのパーセンテージ",
+                "FranchiseePercentConfig": "アフィリエイト-手数料のパーセンテージ",
+                "AgentPlatformConfig": "エージェント組織-ゲームプラットフォームのパーセンテージ",
+                "AgentPercentConfig": "エージェント組織-手数料のパーセンテージ",
+                "Bank": "コーポレートバンクカード",
+                "Game": "ゲーム",
+                "GamePlatform": "ゲームプラットフォーム",
+                "Role": "役割",
+                "RoleView": "役割-メニューの権限",
+                "RoleApi": "役割-API権限",
+                "Club": "クラブ",
+                "ClubRank": "クラブレベル",
+                "ClubRankConfig": "クラブレベル-リベート設定",
+                "InvitationHost": "推廣連結管理",
+                "QuestRewardCombine": "優惠活動"
+            },
+            "action": {
+                "updated": "データ更新",
+                "replace": "バッチ更新",
+                "created": "データを追加する",
+                "deleted": "データを削除する"
+            }
+        }
+    },
+    "component": {
+        "move-invitation-code": {
+            "title": "招待コードを移 動する",
+            "log": "操作記録",
+            "btn-move": "移動",
+            "col-code": "招待コード",
+            "col-from": "元のエージェント",
+            "col-to": "現在のエージェント",
+            "col-operator": "操作者",
+            "col-created-at": "操作時間",
+            "confirm": "{name} [{account}]への招待コードを移動しますか？"
+        },
+        "app-header": {
+            "franchisee-label": "アフィリエイト",
+            "role-label": "役割",
+            "user-label": "アカウント/名前",
+            "logout": "ログアウト",
+            "btn-loan": "事前借入額",
+            "language": "言語",
+            "loans": {
+                "title": "事前融資申し込み記録",
+                "more-link": "その他の記録",
+                "col-committed-at": "提出日",
+                "col-apply-amount": "アプリケーションクォータ",
+                "col-status": "状態"
+            }
+        },
+        "app-menu": {
+            "title": "メニュー"
+        },
+        "socket": {
+            "socket-bar": {
+                "status": {
+                    "connected": "接続済み",
+                    "connecting": "接続する",
+                    "disconnected": "落ちました"
+                },
+                "online-agents": "コンソールでオンラインになっている人の数",
+                "online-members": "オンライン会員数",
+                "base-members": "オンラインの基本人数",
+                "min-base-members": "オンラインの最小人数",
+                "max-base-members": "オンラインの最大人数",
+                "more": "もっと",
+                "refresh-online": "更新",
+                "edit-base-member-propmpt": "オンラインで基本会員数を変更する",
+                "invalids": {
+                    "number-only": "数字でなければなりません",
+                    "positive-intege-only": "正の整数である必要がありま す"
+                }
+            },
+            "review-notification-bar": {
+                "agent-group": "エージェント",
+                "member-group": "会員",
+                "badge-label": {
+                    "bank-limit": "銀行口座限度額",
+                    "bank-limit-short": "銀行",
+                    "agent-compensatory": "間違ったのポイントを送る",
+                    "agent-compensatory-short": "",
+                    "agent-loan": "エージェント事前ローン",
+                    "agent-loan-short": "",
+                    "member-register": "メンバー登録",
+                    "member-register-short": "",
+                    "member-deposit": "会員入 金",
+                    "member-deposit-short": "",
+                    "member-information": "データの変更",
+                    "member-information-short": "",
+                    "member-withdraw": "メンバー出金",
+                    "member-withdraw-short": "",
+                    "member-bank": "銀行カード申請",
+                    "member-bank-short": "",
+                    "letter-message": "インボックスメッセージ",
+                    "letter-message-short": "",
+                    "member-quest": "メンバーのミッション",
+                    "member-quest-short": "",
+                    "member-transaction": "メンバーの出金",
+                    "member-transaction-short": "",
+                    "agent-edit-deposit": "手動で入金",
+                    "agent-edit-deposit-short": "",
+                    "agent-third-deposit": "第三者決済入金",
+                    "agent-third-deposit-short": "フルペイ チャンネル",
+                    "member-activity-wallet": "ボーナスウォレット",
+                    "member-activity-wallet-short": "",
+                    "path-limit": "第三者決済限度額",
+                    "path-limit-short": ""
+                }
+            },
+            "online-dialog": {
+                "title": "詳しい情報",
+                "refresh": "更新",
+                "col": {
+                    "name": "アフィリエイト",
+                    "agents": "コンソールでオンラインになっている人の数",
+                    "members": "会員数",
+                    "base": "基本人数",
+                    "sum": "総人数"
+                }
+            },
+            "online-agents-dialog": {
+                "title": "コンソールでオンライン になっている人の数リスト",
+                "col": {
+                    "id": "ナンバリング",
+                    "ip": "IP",
+                    "login-at": "ログイン時間",
+                    "account-name": "アカウント / 名前",
+                    "role-rank": "役割（階層）",
+                    "token": "Session",
+                    "level": "レベル",
+                    "num-connections": "接続数"
+                },
+                "logout": "ログアウト ",
+                "confirm-logout-user": "{name}を強制的にログアウトしてもよろしいですか？"
+            },
+            "online-members-dialog": {
+                "title": "オンライン会員リスト",
+                "col": {
+                    "id": "ナンバリング",
+                    "account-name": "アカウント / 名前",
+                    "token": "Session",
+                    "ip": "IP",
+                    "login-at": "ログイン時間"
+                },
+                "logout": "ログアウト ",
+                "confirm-logout-user": "{name}を強制的にログアウトしてもよろ しいですか？"
+            }
+        },
+        "notify": {
+            "title": {
+                "info": "ご注意",
+                "success": "成功",
+                "warning": "警告",
+                "error": "エラー"
+            }
+        },
+        "announcement": {
+            "list": {
+                "dialog-name": "お知らせ",
+                "title": "タイトル",
+                "show-time": "表示時間",
+                "no-limit": "無制限",
+                "updatedAt": "時間を変更する",
+                "createdAt": "設立時間",
+                "add": "追加"
+            },
+            "edit": {
+                "dialog-name-add": "お知らせ追加",
+                "dialog-name-edit": "お知らせ変更",
+                "title": "タイトル",
+                "content": "内容",
+                "start-at": "開始時間",
+                "end-at": "終了時間",
+                "visable": "目に見えますか",
+                "sendAll": "すべて送信"
+            }
+        },
+        "old-system-transfer-log": {
+            "list": {
+                "title": "會員轉移紀錄(手機異動)",
+                "account": "會員帳號",
+                "phone": "手機號碼",
+                "phone_old": "舊手機號碼",
+                "transfer_at": "轉移時間"
+            }
+        },
+        "common": {
+            "status-setting": {
+                "status-setting": "設定状態",
+                "enabled-status": "有効状 態",
+                "locked-status": "ロック状態",
+                "is-activity-wallet": "ボーナスウォレットを有効にするかどうか"
+            },
+            "testing-setting": {
+                "testing-setting": "テストステータス",
+                "enable-testing": "テストを有効にする"
+            },
+            "time": {
+                "createdAt": "設立時間",
+                "updatedAt": "時間変更",
+                "startTime": "開始時間",
+                "startTimeLimit": "開始時間無制限",
+                "endTime": "終了時間",
+                "endTimeLimit": "終了時間無制限",
+                "showTime": "表示時間"
+            },
+            "ip-whitelist-dialog": {
+                "title": "IP ホワイトリスト",
+                "input-ip-label": "IP を入力してください"
+            },
+            "franchisee-select": {
+                "label": "アフィリエイト",
+                "no-select": "アフィリエイト"
+            },
+            "wallet-operate-dialog": {
+                "no-select": "取引タイプ",
+                "mode-give": "ポイントを送る",
+                "mode-take-back": "撤回",
+                "mode-edit-add": "クォータを増やす",
+                "mode-edit-sub": "クォータを減らす",
+                "mode-manual-edit-add": "クォータ手動で増やす",
+                "mode-manual-edit-sub": "クォータ手動で減らす",
+                "mode-give-error": "間違ったのポイントを送る",
+                "mode-take-back-error": "エラー回復",
+                "mode-loan": "事前借入額",
+                "mode-write-off-in": "決済( 支払いを受け取る)",
+                "mode-write-off-out": "決済(出金)",
+                "mode-add-reward": "プロモーションのギフトポイントを増やす",
+                "mode-sub-reward": "プロモーションのギフトポイントを減らす",
+                "mode-add-deposit": "手動で入金",
+                "mode-third-deposit": "第三者決済入金",
+                "mode-lost-money-from-platform": "點數遺失補點",
+                "target": "対象",
+                "target-amount": "対象クォータ",
+                "user-amount": "あなたのクォータ",
+                "label-money": "利用可能なポイント",
+                "label-settlement": "決算金",
+                "remark-label": "備考",
+                "explain-label": "理由 / 説明",
+                "transaction-at": "送金時間",
+                "transaction-id": "口座番号の最後の5つのコード",
+                "select-lost-money-from-platform": "轉回的平臺名稱",
+                "invalid": {
+                    "user-money-insufficient": "あなたの残高不足です",
+                    "can-not-zero": "ゼロであってはなりません",
+                    "required": "これは入力必須"
+                },
+                "description": {
+                    "edit-add": "対象「{target}」のクォータを増やしても、利用可能なポイントには影響しません。",
+                    "edit-sub": "対象「（target）」のクォータを減らしても、使用可能なポイントには影響しません。",
+                    "give": "「利用可能なポイントの量」を差し引いて、対象「{target}」に分配します（PS：十分な利用可能なポイントが必要です）。",
+                    "take-back": "対象「{target}」から「利用可能なポイント量」までクォータを引き出します（PS：対象には十分な利用可能なポイントが必要です）。",
+                    "give-error": "システムエラーが原因でポイントが正しくない場合、会社は割り当てを確認してから、対象にポイントを再発行します。",
+                    "take-back-error": "システムエラーによりポイントが正しくない場合、ポイントは会社に返送されて処理されます。 （追記：集めたポイントはウォレットにカウントされません）",
+                    "loan": "指定された「アフィリエイト会員」に事前借入額を行い、「決算金」の事前借入額債務を増額します。",
+                    "write-off-in": "決済/支 払いを受け取る、対象の「決算金」からクォータを収集し、それを自分の「決算金」に蓄積します。",
+                    "write-off-out": "決済/支払い、対象の「決算金」からクォータを収集し、それを自分の「決算金」に蓄積 します。",
+                    "add-reward": "対象の「{target}」プロモーションのギフトポイントを追加",
+                    "sub-reward": "対象の「{target}」プロモーションのギフトポイントを減らす",
+                    "add-deposit": "対象「{target}」の入金制限を増やしても、利用可能なポイントには影響しません",
+                    "third-party-deposit": "対象「{target}」の入金制限を増やしても、利用可能なポイントには影響しません",
+                    "manual-edit-add": "対象の「{target} 」クォータを増やしても、利用可能なポイントには影響しません。備考が必要です。",
+                    "manual-edit-sub": "対象の「（target）」クォータを減らしても、利用可能なポイントには影響しません。備考が必要です。",
+                    "lost-money-from-platform": "增加對象「{target}」的額度，點數遺失補點"
+                }
+            },
+            "edit-password-dialog": {
+                "title": "バスワード変更",
+                "target": "対象",
+                "old-password": "旧パスワード",
+                "new-password": "新しいパスワード",
+                "confirm-password": "新しいパスワードを確認"
+            },
+            "invite-host-dialog": {
+                "title": "招待リンク",
+                "invite-code": "邀請碼"
+            }
+        },
+        "role": {
+            "role-edit-dialog": {
+                "title-edit": "役割を変更",
+                "title-add": "役割を追加",
+                "name": "役割名",
+                "rank": "役割レベル",
+                "level": "使用クラス",
+                "level-0": "会社",
+                "level-1": "アフィリエイト",
+                "level-2": "大株主",
+                "level-3": "株主",
+                "level-4": "ジェネラル・エージェント / 総代理人",
+                "level-5": "エージェント",
+                "status": "状態設定",
+                "common-status": "共有状態",
+                "enabled-status": "有効状態",
+                "full-ip-status": "フルIP見る",
+                "full-info-status": "完全な情報を見る",
+                "rank-tip": "レベル高いの役割をレベル低いの役割を設定できます（0に近いほどレベルが高くなります）。"
+            },
+            "role-authority-dialog": {
+                "title": "【{name}】役割の権限",
+                "filter-only": "フィルタステータス",
+                "filter-keyword": "キーワード",
+                "copy-role-auth": "役割の権限を適用する",
+                "btn-display-detail": "顯示群組底下 apis",
+                "query": {
+                    "checked": "有効化",
+                    "unchecked": "有効化されていません",
+                    "allowed": "管理できます"
+                },
+                "checkbox": {
+                    "list": "リスト",
+                    "add": "追加",
+                    "edit": "編集",
+                    "delete": "削除",
+                    "member-add": "會員-新增成員",
+                    "member-edit": "会員-個人情報",
+                    "member-destroy": "會員-註銷",
+                    "member-password": "会員-変更パスワード",
+                    "member-platform": "会員-プラットフォームの設定",
+                    "member-log": "会員-取引履歴",
+                    "member-bank": "会員-銀行カード",
+                    "member-bet-amount": "会員-入金ベット額",
+                    "member-quest": "会員-ボー ナス",
+                    "member-game-platform": "会員-メインウォレット",
+                    "member-forth-gen-org": "会員-4世代組織",
+                    "member-reset-lock-money": "会員-すべてゼロに戻る",
+                    "member-summary": "会員-備考",
+                    "member-transfer-old": "會員-手動轉移",
+                    "mamber-activity-wallet": "会員-ボーナスウォレット",
+                    "member-bank-group": "会員-グループアカウント",
+                    "agent-add": "代理-新增成員",
+                    "agent-move-invitation-code": "エージェント-招待コードを移動する",
+                    "agent-invitation": "エージェント-",
+                    "member-edit-money": "会員-クォータを 増やす /減らす",
+                    "member-manual-edit-money": "会員-クォータ手動で 増やす/減らす",
+                    "member-edit-bonus": "会員-会社のボーナスポイントを送る",
+                    "member-give": "会員-ポイントを送る",
+                    "member-take-back": "会員-撤回",
+                    "member-give-error": "会員-間違ったのポイントを送る",
+                    "member-take-back-error": "会員-エラー回復",
+                    "member-edit-reward": "会員-プロモーションのギフトポイントを増やす / 減らす",
+                    "member-add-deposit": "会員-手動で入金",
+                    "member-third-party-deposit": "会員-第三者決済入金",
+                    "member-loan": "会員-事前借入額",
+                    "member-fullpay-channel": "会員-フルペイチャ ンネル",
+                    "member-locked-game-platform": "会員-プラットフォームロック",
+                    "member-confirm-data": "会員-手動検証",
+                    "agent-sub-list": "サブアカウント-リスト",
+                    "agent-sub-add": "サブアカウント-追加",
+                    "agent-sub-edit": "サブアカウント-編集",
+                    "agent-edit-money": "エージェント-ポイントの変更関連",
+                    "socket-bank-group-fullpay": "通知-フルペイチャンネル制限額",
+                    "socket-bank-limit": "通知-銀行口座の制限 額",
+                    "member-lost-money-from-platform": "會員-點數遺失補點",
+                    "member-toggle-enabled": "會員-啟停用",
+                    "member-toggle-locked": "會員-鎖定",
+                    "member-reset-login-error": "會員-重置登入錯誤",
+                    "member-info": "會員-個人資料",
+                    "logger-third-deposit-manual": "第三方手動通過",
+                    "old-transfer-member": "會員轉移資訊",
+                    "link-365": "成數-365",
+                    "link-sg": "成數-SG"
+                }
+            },
+            "role-authority-tree": {
+                "default-group-name": "その他"
+            }
+        },
+        "company": {
+            "company-edit-dialog": {
+                "account": "アカウント ",
+                "password": "パスワード",
+                "name": "名前",
+                "title-edit": "会社を変更する",
+                "title-add": "会社を追加する",
+                "role-options": "役割の権限"
+            }
+        },
+        "franchisee": {
+            "franchisee-edit-dialog": {
+                "title-add": "アフィリエイトを追加する",
+                "title-edit": "アフィリエイトを変更する",
+                "name": "アフ ィリエイトの名前",
+                "host": "公式ウェブサイトhost",
+                "add-host": "追加host",
+                "default-agent": "デフォルトのエージェント",
+                "default-club-rank": "デフォルトのクラブレベル",
+                "resetLock": "ゼロに戻る（メンバーのポイントがロックされた量よりも低い場合はゼロに戻ります）",
+                "resetLockActTrue": "有効にする",
+                "resetLockActFalse": "有効になっていません",
+                "fullpayCrtPath": "FP認証ポジション",
+                "fullpayId": "FP ID",
+                "fullpayManageUrl": "FP管理ポジション",
+                "fullpayServerUrl": "FP接続ポジション",
+                "default-bank-group": "デフォルトのアカウントグループ",
+                "member-fullpay-mode": "フルペイチャンネルは上層のみをチェックします",
+                "paymentFlowMode": "決済管理モデル",
+                "handIn": "送金",
+                "agentTake": "お金を下層に渡す",
+                "reviewWithdrawSingleStep": "出金と引き出しのステップの組み合わせ",
+                "member-mode": "会員4世代 モデル"
+            },
+            "franchisee-config-dialog": {
+                "title": "各パーセンテージが設定されます",
+                "name": "名前",
+                "agent": "エージェントライン名",
+                "default-percent": "パーセンテージ比率のプリセット",
+                "real-percent": "{value}％を占める",
+                "fee-percent": "手数料のパーセンテージ比率（％）",
+                "fee-enabled": "手数料設定を有効にする",
+                "coupon-percent": "プロモーションのパーセンテージ比率（％）",
+                "commission-percent": "コミッションリベートのパーセンテージ比率（％）",
+                "coupon-enabled": "プロモーション設定を有効にする",
+                "fast-setting": "クイックセットアップ",
+                "game-platform": "ゲームプラットフォーム",
+                "percent": "パーセンテージ比率（％）",
+                "water-percent": "エージェントリベート（％）",
+                "bonus-percent": "エージェントボーナス（％）",
+                "member-bonus": "メンバーボーナス（4世代サイクル）",
+                "allocate-agent-water-percent": "エージェントのリベートパーセント（％）",
+                "allocate-agent-bonus-percent": "エージェントのボーナスパーセント（％）",
+                "allocate-member-bonus-percent": "メンバーのボーナスパーセント（％）",
+                "member-upper-3-bonus-percent": "メンバー上層3ボーナスパーセンテージ（％）",
+                "member-upper-2-bonus-percent": "メンバー上層2ボーナスパーセンテージ（％）",
+                "member-upper-1-bonus-percent": "メン バー上層1ボーナスパーセンテージ（％）",
+                "exists": "(設定されていません)"
+            },
+            "franchisee-commission-dialog": {
+                "title": "コミッションリベート設定",
+                "is-open": "有効にするかどうか",
+                "real-percent": "{value}％を占める",
+                "allocate-agent-water-percent": "エージェントのリベートパーセント（％）"
+            },
+            "franchisee-ration-dialog": {
+                "title": "自動発送",
+                "name": "名前",
+                "agent": "エージェントライン名"
+            },
+            "franchisee-ration-edit-dialog": {
+                "autoBonus": "自動ボーナス配布",
+                "autoBonusAt": "配布時間",
+                "enable": "有効にする",
+                "disable": "有効になっていません"
+            },
+            "clubRankWater": {
+                "title": "自動リベート",
+                "autoBonus": "自動ボーナス配布",
+                "autoBonusAt": "配布時間",
+                "enable": "有効にする",
+                "name": "クラブ",
+                "autoWater": "自動リベート配布",
+                "autoWaterAt": "配布時間",
+                "disable": "有効になっていません"
+            }
+        },
+        "marquee": {
+            "marquee-edit-dialog": {
+                "title-add": "走馬灯を追加する",
+                "title-edit": "走馬灯を変更する",
+                "franchisee": "アフィリエイト",
+                "suitable": {
+                    "label": "プラットフォーム",
+                    "agent": "コンソール",
+                    "member": "メンバ ーコンソール"
+                },
+                "type": {
+                    "label": "タイプ",
+                    "normal": "一般的",
+                    "hot": "人気",
+                    "deposit": "入金エリア"
+                },
+                "content": "走馬灯",
+                "time-range": {
+                    "label": "時間範囲",
+                    "to": "に",
+                    "start": "開始時間",
+                    "end": "終了時間"
+                },
+                "invalids": {
+                    "required": "これは入力必須",
+                    "must-over-start-time": "開始時間より長くする必要があります"
+                }
+            }
+        },
+        "carousel": {
+            "carousel-edit-dialog": {
+                "title-add": "カルーセルを追加する",
+                "title-edit": "カルーセルを変更する",
+                "franchisee": "アフィリエイト",
+                "position": "ポジションを選択",
+                "link-type": "リンクタイプ",
+                "name": "名前",
+                "order": "並べ替え",
+                "image": "画像をアップロード",
+                "mobile-image": "モバイル画像のアップロード",
+                "click-upload": "画像をクリックして選択",
+                "showOrgImg": "檢視原始圖檔",
+                "link": "リンクURL",
+                "platform": "ゲームプラットフォーム",
+                "game": "ゲームを選択してください",
+                "coupon": "プロモーションを選択してください",
+                "time-range": {
+                    "label": "時間範囲",
+                    "to": "に",
+                    "start": "開始時間",
+                    "end": "終了時間"
+                }
+            }
+        },
+        "api": {
+            "api-edit-dialog": {
+                "remark-label": "備考/名前",
+                "view-label": "バインドページ",
+                "group-name-label": "グループ名",
+                "path-label": "APIパス",
+                "no-select-view": "バインドページを選択してください",
+                "filter-label": "フィルタパス"
+            }
+        },
+        "agent": {
+            "agent-list": {
+                "type-agent": "組織のメンバー",
+                "type-sub-agent": "サブアカウント",
+                "type-member": "会員",
+                "edit-percent": "パーセンテージ",
+                "go-365": "佔成365",
+                "percent-setting": "個人成數設定:",
+                "go-sg": "佔成SG",
+                "col": {
+                    "parent": "上層",
+                    "account-name": "アカウント / 名前",
+                    "role": "役割",
+                    "children": "下層",
+                    "sub-agent": "サブアカウント",
+                    "wallets": "利用可能なポイント / 決算金",
+                    "status": "ステータス/ロック/ホワイトリスト",
+                    "member-money-total": "メンバー残高",
+                    "member-number-total": "会員数",
+                    "loggedin": "ログイン情報",
+                    "editor": "編集者",
+                    "invitation-code": "招待コード"
+                },
+                "member-money-total": "会員合計クォータ",
+                "member-number-total": "会員総数",
+                "confirm-reset-error-count": "{account} [{name}]メンバーのログインエ ラーの数をリセットしてもよろしいですか？"
+            },
+            "agent-fullpay-channel": {
+                "title": "第三者決済 チャネル管理",
+                "channel": "チャネル",
+                "bankGroup": "アカウントグループ",
+                "confirm-msg": "{account} [{name}]メンバーのチャンネルを変更すると、メンバーが持つべきではないすべてのチャンネルが自動的に削除されます!!!",
+                "inherit": "継承："
+            },
+            "sub-agent-list": {
+                "subRole": "サブアカウントの役割管理",
+                "col": {
+                    "extend": "継承",
+                    "account-name": "アカウント / 名前",
+                    "role": "役割",
+                    "children": "下層",
+                    "sub-agent": "サブアカウント",
+                    "status": "ステータス/ホワイトリスト",
+                    "loggedin": "ログイン情報",
+                    "editor": "編集者"
+                },
+                "dialog": {
+                    "title": "サブアカウントの役割管理"
+                }
+            },
+            "agent-edit-dialog": {
+                "title-add": "メンバーを追加",
+                "title-edit": "メンバーを変更する",
+                "account": "アカウント",
+                "password": "パスワード",
+                "confirm-password": "パスワードを確認する",
+                "name": "名前",
+                "role": "アカウントの役割",
+                "parent": "上層メンバー",
+                "no-select-rule": "役割を選択してください",
+                "invalids": {
+                    "confirm-password-invalid": "パスワー ドが2回異なります"
+                },
+                "line-id": "Line ID",
+                "line-link": "Line連結"
+            },
+            "agent-percent-dialog": {
+                "title": "各パーセンテージが設定されます",
+                "fee-percent": "手数料のパーセンテージ比率（％）",
+                "commission-percent": "コミッションリベートのパーセンテージ比率（％）",
+                "coupon-percent": "プロモーションのパーセンテージ比率（％）",
+                "upper-limit": "上限{value}％",
+                "parent-percent": "上層 {value} %",
+                "fast-setting": "クイックセットアップ",
+                "game-platform": "ゲームプラットフォーム",
+                "percent": "パーセンテージ比率（％）",
+                "water-percent": "リベートのパーセンテージ比率（％）",
+                "bonus-percent": "ボーナスのパーセンテージ比率（％）",
+                "no-setting": "( 設定されていません)",
+                "confirm-save": "パーセンテージ比率に上限を超える場合は、発送してもよろしいですか？"
+            },
+            "agent-wallet-list": {
+                "type-options": {
+                    "deposit": "入金",
+                    "widthdraw": "出金",
+                    "edit": "会社変更",
+                    "give-take-back": "ポイントを送る / 撤回",
+                    "get-or-be-taken-back": "受け取ったポイント/撤回される",
+                    "error": "間違ったのポイントを送る/撤回",
+                    "exchange": "エクスチェンジ決算 / 利用可能なポイント",
+                    "loan-write-off": "事前借入/決済"
+                }
+            },
+            "agent-wallet-dialog": {
+                "account": "メンバーアカウント",
+                "title": "取引記録",
+                "col-type": "取引タイプ",
+                "col-settlement": "決算金",
+                "col-money": "利用可能なポイント",
+                "col-change": "変化金額",
+                "col-result": "変化後",
+                "col-editor": "操作の人",
+                "col-platform-name": "ゲームプラットフォーム",
+                "give": "ポイントを送る",
+                "take-back": "撤回",
+                "edit": "変更",
+                "edit-money-title": "利用可能なポイント変更",
+                "edit-settlement-title": "決算金変更"
+            },
+            "agent-loan-dialog": {
+                "title": "事前借入額",
+                "label-loan-amount": "事前借入額",
+                "message-confirm-loan": "事前借入額{amount}にを借りてもよろしいですか？ （事前借入額は「決算資金」の費用に含まれます）"
+            },
+            "sub-agent-edit-dialog": {
+                "extend": "継承",
+                "title-add": "サブアカウントを追加する",
+                "title-edit": "サブアカウントを変更する",
+                "account": "アカウント",
+                "password": "パスワード",
+                "confirm-password": "パスワードを確認する",
+                "name": "名前",
+                "role": "アカウントの役割",
+                "no-select-rule": "役割を選択してください",
+                "invalids": {
+                    "confirm-password-invalid": "パスワードが2回異なります"
+                }
+            }
+        },
+        "review": {
+            "review-list": {
+                "col-applicate": "申請者",
+                "col-serial-num": "ナンバリング",
+                "col-review-role": "審査役割",
+                "col-status": "審査状態",
+                "col-committed-at": "審査のために送信する時間",
+                "col-finished-at": "完了時間",
+                "btn-review": "審査",
+                "btn-record": "記録",
+                "operator": "操作者",
+                "col-committed-pass-at": "審査合格時間",
+                "col-transaction-at": "出金時間",
+                "manual": "手動で渡す",
+                "col-pass": "すばやく合格"
+            },
+            "review-search-bar": {
+                "label-status": "審査状態",
+                "label-club-rank": "クラブレベル",
+                "label-member-account": "メンバー アカウント",
+                "label-apply-account": "応募者アカウント",
+                "label-review-account": "最終審査役割",
+                "label-exclude-tester": "テストアカウントを除外する",
+                "label-only-tester": "テストアカウントのみ",
+                "time-range": {
+                    "label": "時間範囲",
+                    "to": "に",
+                    "start": "開始時間",
+                    "end": "終了時間"
+                },
+                "money-range": {
+                    "label-deposit": "入金限度額範囲",
+                    "label-withdraw": "出金限度額範囲",
+                    "label-compensatory": "申請限度額範囲",
+                    "to": "に",
+                    "min": "最小金額",
+                    "max": "最大金額"
+                },
+                "invalid-money": "金額が間違っています。最小金額は{min}、最大金額は{max}です。",
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "今週",
+                "last-week": "先週",
+                "this-month": "今月",
+                "last-month": "先月",
+                "transaction-status-options": {
+                    "none": "未出金",
+                    "pending": "出金中",
+                    "completed": "出金済み",
+                    "error": "出金失敗",
+                    "transaction-cancel": "出金 をキャンセルする",
+                    "transaction-manual": "手動での出金"
+                },
+                "total-money": "実際総クォータ",
+                "total-apply-money": "出金総クォータを申請する",
+                "total-withdraw-fee": "合計出金手数料",
+                "total-deposit-fee": "總手續費",
+                "total-deposit-apply-money": "申請存款總額度",
+                "total-number": "総数"
+            },
+            "review-dialog": {
+                "title": "審査情報",
+                "record-title": "審査記録",
+                "record-title-change": "審査記録（変更されたフィールドのみを表示）",
+                "record-title-auto": "審査記録(オートパス)",
+                "label-review-options": "審査オプション",
+                "label-reason": "失敗の理由",
+                "label-remark": "備考",
+                "label-bet-amount": "ベット額",
+                "btn-approve": "パス",
+                "btn-disapprove": "失敗",
+                "btn-rollback-detail": "回滾任務",
+                "btn-reset-detail": "重置任務",
+                "btn-none": "選んでください",
+                "cheated": "不正行為ありますか",
+                "has-cheated": "不正行為ある",
+                "not-has-cheated": "不正行為はありません",
+                "deductionBetAmount": "控除ベット額",
+                "btn-before-change": "変更前",
+                "btn-change": "変更アイテム",
+                "transaction-record-title": "出金記録",
+                "withdraw-detail": "審査詳細",
+                "withdrawFee": "出金手数料",
+                "manual-remark": "手動パスの理由（必須）"
+            },
+            "review-steps-dialog": {
+                "title": "審査状態",
+                "step": "ステップ {step}",
+                "auto-pass": "オートパス",
+                "col-step": "ステップ",
+                "col-reviewer": "審査者",
+                "col-applicate": "申請者",
+                "col-status": "審査状態",
+                "col-review-at": "審査時間",
+                "col-trans-reviewer": "支払人",
+                "col-trans-status": "出金状況",
+                "col-trans-review-at": "出金時間",
+                "trans-title": "出金"
+            },
+            "transaction-dialog": {
+                "title": "出金",
+                "fee": "手数料",
+                "type": "支払方法",
+                "payer-name": "支払人口座名",
+                "payer-account": "出金銀行口座",
+                "payer-bank-name": "出金銀行名",
+                "payer-branch-name": "出金支店",
+                "transaction-id": "取引番号",
+                "transaction-at": "取引時間",
+                "withdraw-id": "第三者決済プラットフォーム",
+                "bank-account-name": "受取人の口座名",
+                "bank-name": "受取人銀行名",
+                "bank-code": "受取人銀行コード",
+                "bank-branch-name": "受取人の支店名",
+                "bank-branch-code": "受取人の支店コード",
+                "bank-province-name": "收款人省份名稱",
+                "bank-province-code": "收款人省份代碼",
+                "bank-city-name": "受取人の都市名",
+                "bank-city-code": "受取人の都市コード",
+                "select-bank": "支払銀行口座を選択",
+                "select-third": "第三者決済プラットフォームを選択する",
+                "withdrawFee": "出金手数料",
+                "cancel": "出金をキャンセルする",
+                "cancel-notice": "出金をキャンセルする",
+                "manual-transaction": "手動での出金"
+            },
+            "report-col": {
+                "game-id": "ゲーム番号",
+                "type": "ゲームタイ プ",
+                "mid": "ベットスリップ主番号",
+                "franchisee-name": "アフィリエイト",
+                "round": "局番号",
+                "table": "テーブル番号",
+                "status": "ベットスリップステータス",
+                "bet-amount": "ベット額",
+                "valid-amount": "有効 な賭け額",
+                "water-amount": "リベート",
+                "win-amount": "勝ち額",
+                "prize": "賞金",
+                "num-settles": "抽選回数",
+                "report-at": "レポートの時間"
+            },
+            "review-type-key": {
+                "AgentCompensatory": "エラー補償とリサイク ル",
+                "AgentCoupon": "エージェント申請プロモーション",
+                "AgentDepositBank": "エージェント銀行入金",
+                "AgentEditDeposit": "手動で入金",
+                "AgentLoan": "事前借入額",
+                "AgentSettlement": "エージェントの月決算額クォータ",
+                "MemberActivityWallet": "ボーナスウォレット",
+                "MemberBank": "会員銀行カード",
+                "MemberCoupon": "会員プロモーション申請",
+                "MemberDepositBank": "会員入金",
+                "MemberInformation": "会員情報修 正",
+                "MemberQuest": "会員ミッション",
+                "MemberRegister": "会員登録",
+                "MemberTransaction": "メンバーの出金",
+                "MemberWithdraw": "会員出金",
+                "ThirdPartyDeposit": "第三者決済入金"
+            }
+        },
+        "member": {
+            "info": "会員基本情報",
+            "member-forth-dialog": {
+                "upper-member-1": "1つ上のレベル",
+                "upper-member-2": "2つ上のレベル",
+                "upper-member-3": "3つ上のレベル",
+                "lower-member-1": "1つ下のレベル",
+                "lower-member-2": "2つ下 のレベル",
+                "lower-member-3": "3つ下のレベル",
+                "level": "レベル",
+                "member": "メンバー",
+                "account": "アカウント"
+            },
+            "member-list": {
+                "col": {
+                    "parent": "上層",
+                    "account-name": "アカウント / 名前",
+                    "wallets": " 利用可能なポイント / ",
+                    "status": "ステータス/ロック",
+                    "loggedin": "ログイン情報",
+                    "editor": "編集者",
+                    "tags": "タグ",
+                    "club-rank": "クラブレベル",
+                    "invitation-code": "招待コード"
+                },
+                "active-setting": "プラットフォームアカウント",
+                "edit-bank": "銀行カード",
+                "edit-member": "メンバーを編集する",
+                "confirm-reset-error-count": "{account} [{name}]メンバーのログインエラーの数をリセットしてもよろしいですか？",
+                "bank-and-phone-confirm": "手動検証",
+                "manual-transfer-confirm": "手動轉移",
+                "check-manual-transfer-confirm": "是否確認手動轉移",
+                "check-manual-transfer-confirm-success": "手動轉移成功",
+                "check-manual-transfer-confirm-failed": "手動轉移失敗",
+                "destroy": "取り消しました"
+            },
+            "member-edit-dialog": {
+                "parent": "上層エージェント",
+                "title-add": "メンバー追加",
+                "title-edit": "メンバーを変更する",
+                "account": "アカウント",
+                "password": "パスワード",
+                "confirm-password": "パスワードを確認する",
+                "name": "名前",
+                "phone": "電話",
+                "club-rank": "クラブレベル",
+                "gender": "性別",
+                "email": "Eメール",
+                "qq": "QQ",
+                "wechat": "WeChat",
+                "weibo": "Weibo",
+                "birth": "誕生日",
+                "nickname": "ニックネーム",
+                "address": "住所",
+                "line": "ライン",
+                "btn-destroy": "取り消し",
+                "more": "更多設定",
+                "confirm-destroy-phone": "{account} [{name}]メンバーの電話番号 を取り消しますか？",
+                "confirm-club-change": "ここでメンバーシップレベルを変更しても、トベット額は再計算されません。よろしいですか？"
+            },
+            "member-tag-dialog": {
+                "title": "メンバータグ管理",
+                "tag-default-name": "新タグ",
+                "confirm-delete-tag": "タグ{name}を削除してもよろしいですか？ （メンバーによってマークされたこのタグタイプも削除されます）",
+                "member": "メンバー",
+                "new-tag": "タグを追加"
+            },
+            "member-search-dialog": {
+                "title": "アカウントを検索"
+            },
+            "member-bank-dialog": {
+                "title": "メンバー{name}の銀行カード管理",
+                "sub-title-add": "銀行カードを追加する",
+                "sub-title-edit": "銀行カードを変更する",
+                "name": "銀行口座名",
+                "bank-account": "銀行口座",
+                "bank-name": "銀行名",
+                "branch-name": "支店名",
+                "delete-bank": "銀行カードを削除する",
+                "bank_code": "銀行コード",
+                "confirm-delete-bank": "{bank}の銀行カード情報を削除してもよろしいですか？"
+            },
+            "member-bet-amount-log": {
+                "title": "メンバー{name}の入金賭け金額記録",
+                "serial_num": "ナンバリング",
+                "type": "状態",
+                "member_deposit": "メンバー入金",
+                "give": "ポイントを送る",
+                "deduction_bet_amount": "リベートの賭け金額",
+                "take_back_agent": "ポイントを送り返す -エージェント",
+                "compensatory": "ポイントを送る",
+                "amount": "金額",
+                "bet_amount_multiple": "賭 け金額の倍数",
+                "bet_amount_limit": "賭け金額の制限",
+                "bet_amount": "現在の賭け金額",
+                "is_unlock": "ロックを解除しますか？",
+                "created_at": "作成日",
+                "col-editor": "操作の人",
+                "remark": "備考",
+                "btn": "明 細",
+                "locked": "ロックされた金額",
+                "take-back": "撤回",
+                "edit-add": "クォータを増やす",
+                "edit-sub": "クォータを減らす",
+                "give-error": "間違ったのポイントを送る",
+                "take-back-error": "エラー回復",
+                "add-reward": "プロモーションのギフトポイントを増やす",
+                "sub-reward": "プロモーションのギフトポイントを減らす",
+                "reward": "プロモーションのギフトポイント",
+                "agent-edit-deposit": "手動で入金",
+                "third-party-deposit": "第三者決済入金",
+                "member-third-party-deposit": "第三者入金",
+                "manual-edit-add": "クォータ手動で増やす",
+                "manual-edit-sub": "クォータ手動で減らす",
+                "sub-agent-edit-deposit": "手動入金を撤回",
+                "quest": "プロモーションが賭け金額にロック",
+                "report_approval_water": "リベート",
+                "report_approval_bonus": "ボーナス配布",
+                "lock_water": "未完成の賭け金額",
+                "unlock_amount": "出金可能な資金",
+                "activity-wallet-record": "ボーナスウォレット履歷",
+                "backfill": "クローバック",
+                "buy_activity_wallet": "ボーナスウォレット購入",
+                "cancel_buy_activity_wallet": "ボーナスウォレットの購入をキャンセルす る",
+                "freeMoney": "出金可能額",
+                "confirm-msg": "確定強制歸零 {account}【{name}】成員的【{sn}】？"
+            },
+            "member-bet-amount-log-detail": {
+                "title": "ベットスリップ明細",
+                "mid": "ナンバリング",
+                "deduction_bet_amount": "リベート賭け金額総額",
+                "make_up_bet_amount": "クローバ ック賭け金額総額",
+                "money": "金額",
+                "platform": "プラットホーム",
+                "bet_amount_multiple": "賭け金額の倍数",
+                "created_at": "日付",
+                "type": "タイプ",
+                "backfill-title": "クローバックの詳細"
+            },
+            "member-bet-amount-log-modify": {
+                "title": "賭け金額記録を手動で変更する[No.:{num}]",
+                "status": "状態",
+                "before": "変更前の賭け金額",
+                "after": "変更後の賭け金額",
+                "before_limit": "変更前の賭け金額制限",
+                "after_limit": "変更後の賭け金額制限",
+                "edit_input": "現在の賭け金額を変更します",
+                "edit_limit_input": "賭け金額制限を変更します",
+                "created_at": "日付",
+                "reset_lock": "ゼロを強制する",
+                "edit": "賭け金額を変更します",
+                "editor": "操作の人"
+            },
+            "member-activity-wallet-mount-log": {
+                "title": "ボーナスウォレットポイントの取引履歴",
+                "status": {
+                    "mounted": "マウント",
+                    "unmounted": "アンロード",
+                    "processing": "実行中"
+                },
+                "mount-at": "マウント時間",
+                "mount-amount": "マウント金額",
+                "unmount-at": "アンロード時間",
+                "unmount-amount": "アンロード金額",
+                "platform": "ゲームプラットフォーム",
+                "product": "ボーナスウォレット"
+            },
+            "member-transform-log": {
+                "title": "取引履歴",
+                "type": {
+                    "title": "タイプ",
+                    "select-title": "取引タイプ",
+                    "platform-title": "ゲームプラットフォーム",
+                    "total": "総変換"
+                },
+                "time-range": {
+                    "to": "に",
+                    "start": "開 始時間",
+                    "end": "終了時間"
+                },
+                "id": "ナンバリング",
+                "last-bonus": "残りのボーナス",
+                "change-bonus": "変動のボーナス",
+                "last-money": "残高",
+                "change-money": "変動の金額",
+                "remark": "備考",
+                "creator": "作成者",
+                "createdAt": "設立時間",
+                "no-remark": "備考なし",
+                "gamePlatformName": "ゲーム",
+                "activityWalletName": "ボーナスウォレット"
+            },
+            "member-wallet-dialog": {
+                "time-range": {
+                    "label": "時間範囲",
+                    "to": "に",
+                    "start": "開始時間",
+                    "end": "終了時間"
+                },
+                "transaction-not-yet": "（まだ出金されていません）",
+                "transaction-already": "出金済み",
+                "wallet-money": "利用可能なポイント",
+                "wallet-bonus": "ボーナス",
+                "title": "取引記録",
+                "col-type": "取引タイプ",
+                "col-bonus": "ボーナス",
+                "col-money": "利用可能なポイント",
+                "col-change": "変化金額",
+                "col-result": "結果",
+                "col-editor": "操作の人",
+                "col-quest-name": "プロモーショ ン名",
+                "give": "ポイントを送る",
+                "take-back": "撤回",
+                "edit": "変更",
+                "remark": "備考",
+                "order_id": "第三者の入金注文番号",
+                "reason": "失敗の理由",
+                "type-options": {
+                    "deposit-or-withdraw": "入金/出金",
+                    "bet": "ゲームの操作",
+                    "edit": "会社変更",
+                    "get-or-be-taken-back": "受け取ったポイント/撤回される",
+                    "error": "間違ったのポイントを送る/撤回",
+                    "exchange": "ボーナス交換",
+                    "bonus": "配当",
+                    "bet-completed": " 決算",
+                    "payin": "入る",
+                    "payout": "出る",
+                    "coupon": "プロモーションのギフトポイント",
+                    "edit-reward": "上層からプロモーションのギフトポイントを変更する",
+                    "disapproved": "審査失敗",
+                    "cancel": "出金をキャンセルする",
+                    "agent-edit-deposit": "手動で入金",
+                    "agent-third-deposit": "第三者決済入金",
+                    "manual-edit-add": "クォータ手動で増やす",
+                    "manual-edit-sub": "クォータ手動で減らす",
+                    "lost-money-from-platform": "點數遺失補點"
+                },
+                "totalChangeMoneyAbs": "総変化金額",
+                "totalChangeMoney": "変化合計",
+                "full-type-cates": {
+                    "bank": "入出金関連",
+                    "bet": "ベッティング関連（シングルウォレット）",
+                    "wallet": "ウォレット関連（複数のウォレット）",
+                    "water": "ボーナス関連",
+                    "agent": "人事関連",
+                    "franchisee-agent": "組織ラインの選択"
+                },
+                "full-type-options": {
+                    "all": "すべて選択",
+                    "cancelAll": "すべて選択解除",
+                    "commission": "コミッション決算",
+                    "reward": "ポイントを現金に換金する",
+                    "edit-bonus": "会社は「ボーナスポイント」を送る",
+                    "deposit-bank": "入金-銀行振込",
+                    "deposit-fee": "入金手数料",
+                    "deposit-third": "入金-第三者",
+                    "withdraw": "出金",
+                    "get-from-agent": " ポイント代行送付",
+                    "be-taken-back-agent": "エージェントにポイントの取り戻される",
+                    "get-from-error": "間違ったのポイントを送る",
+                    "be-taken-back-error": "間違ったのポイントを取り戻される",
+                    "edit-money": "会社補充クォータ",
+                    "transfer-game": "ゲームへのメンバー転送ポイント",
+                    "transfer-wallet": "ゲームをウォレットに戻す",
+                    "coupon": "プロモーションクォータを受け取る",
+                    "bet": "ベット",
+                    "prize": "賞金配当",
+                    "settle": "当たり",
+                    "rollback": "ロールバック",
+                    "diviend": "配当",
+                    "bet-completed": "ベッティングオーダー完了",
+                    "water": "リベート",
+                    "undo-water": "リベートを元に戻す",
+                    "bonus": "配当",
+                    "undo-bonus": "配当を撤回",
+                    "payin": "ゲームメーカーはポイントリクエストを追加します",
+                    "payout": "ゲームメーカーがポイント控除を要求します",
+                    "edit-reward": "上層からプロモーションのギフトポイントを変更する",
+                    "agent-edit-deposit": "手動で入金",
+                    "agent-edit-deposit-rollback": "手動入金を撤回",
+                    "agent-third-deposit": "第三者決済入金",
+                    "agent-third-deposit-rollback": "第三者決済入金撤回",
+                    "third-party-deposit": "第三者決済入金",
+                    "third-party-deposit-rollback": "第三者決済入金撤回",
+                    "manual-edit-add": "クォータ手動で増やす",
+                    "manual-edit-sub": "クォータ手動で減らす",
+                    "lost-money-from-platform": "點數遺失補點"
+                },
+                "edit-money-title": "利用可能なポイント変更",
+                "edit-bonus-title": "ボーナス修正"
+            },
+            "member-active-dialog": {
+                "title": "メンバープラットフォームの設定",
+                "unactive": "開設されていません",
+                "is-fun": "テストバージョン",
+                "col": {
+                    "platform-name": "プラットフォーム名",
+                    "player-id": "プレイヤーID",
+                    "loggined-at": "最終ログイン"
+                }
+            },
+            "member-multi-wallet-trans": {
+                "title": "メインウォレット",
+                "game-platform-key": "プラットフォームコード",
+                "game-platform": "プラットフォーム名",
+                "balance": "残高",
+                "option": "操作",
+                "trans-money": "金額",
+                "submit": "提出する",
+                "confirm": "確認",
+                "deposit": "ゲームプラットフォームへのデポジット",
+                "withdraw": "ゲ ームプラットフォームを提出する",
+                "cancel": "キャンセル",
+                "confirm_text": "送ってもよろしいですか？",
+                "money": "利用可能なポイント"
+            },
+            "member-quest-dialog": {
+                "title": "メンバー{name}のプロモーション リスト",
+                "locked": "ロックされた金額",
+                "col-cancel-log": "キャンセル履歴",
+                "col-diff-amount": "現在の賭け金額差分額",
+                "btn-cancel": "キャンセル",
+                "btn-unlock": "解鎖",
+                "confirm-msg": "異動 {account}【{name}】成員的【{quest}】 直接解鎖流水，點數不異動!!!",
+                "title-cancael-reward": "プロモーションギフトポイントをキャンセルする",
+                "forced-unlock": "強制解鎖流水，不異動點數",
+                "select": {
+                    "applied": "すでに適用されています",
+                    "cancel": "キャンセル",
+                    "all": "全て"
+                },
+                "cancel-log": {
+                    "change_amount": "変化ベット額",
+                    "change_reward": "変化ポイント",
+                    "operator": "操作者",
+                    "created_at": "操作時間",
+                    "remark": "備考"
+                },
+                "status": {
+                    "pending": "-",
+                    "processing": "実行中",
+                    "completed": "完了",
+                    "claimed": "出金申請する",
+                    "cancel": "すでにキャンセル",
+                    "force-unlock": "強制解鎖"
+                },
+                "locked-money-status": {
+                    "locked": "ロック中",
+                    "enabled": "適用できます",
+                    "applied": "審査中",
+                    "unlock": "ロックを解除する",
+                    "disapproved": "審核不通過"
+                }
+            },
+            "member-info-dialog": {
+                "title": {
+                    "login": "ログイン",
+                    "register": "登録",
+                    "deposit": "リチャージ",
+                    "re-deposit": "再びリチャージ",
+                    "all-deposit": "トータルリチャージ",
+                    "withdraw": "現金を引き出す",
+                    "re-withdraw": "再び現金を引き出す",
+                    "all-withdraw": "総現金引き出す"
+                },
+                "col": {
+                    "loggedin-at": "ログイン時間",
+                    "register-at": "登録時間",
+                    "finished-at": "完了時間",
+                    "type": "取引タイプ",
+                    "money": "金額",
+                    "fee": "手数料"
+                }
+            },
+            "game-platform-dialog": {
+                "title": "ゲームプラットフォーム管理をロックする",
+                "select": "ロックされたゲームプラットフォーム"
+            }
+        },
+        "gameType": {
+            "gameType-edit-dialog": {
+                "title-add": "ゲームタイプを追加する",
+                "title-edit": "ゲームタイプを変更する",
+                "type": "ゲームタイプ",
+                "name": "名前"
+            }
+        },
+        "gameTag": {
+            "gameTag-edit-dialog": {
+                "title-add": "ゲームタグを追加する",
+                "title-edit": "ゲームタグを変更する",
+                "type": "ゲームタイプ",
+                "tag": "ゲームタグ",
+                "name": "タグ名"
+            }
+        },
+        "gamePlatform": {
+            "gamePlatform-edit-dialog": {
+                "title-add": "ゲームプラットフォームを追加する",
+                "title-edit": "ゲームプラットフォームを変更する",
+                "name": "プラットフォーム名",
+                "key": "プラットフォームコード",
+                "setting-maintain": "日常のメンテナンス時間",
+                "start-time": "スタート時間",
+                "maintain-time": "メンテナンス時間（分）",
+                "disposable-start-time": "臨時維修(單次)",
+                "disposable-maintain-time": "臨時維修時長(分鐘)(單次)",
+                "order": "順序",
+                "limit-member": "制限付き会員",
+                "query-member": "会員検索",
+                "status-maintain": "一時的なメンテナンス状況",
+                "is-fun": "テストバージョン",
+                "select-relation-platform": "関連する公式ゲームプラットフォームを選択してください",
+                "namespace": "モジュールパス",
+                "member-prefix": "メンバーア カウントプレフィックス",
+                "sync-report": "同期レポート",
+                "sync-report-delay": "同期時間間隔",
+                "image": "プラットフォームリストのアイコン",
+                "icon": "ゲームリスト上のプラットフォームICON",
+                "pageBgImg": "プラットフォームページの背景画像",
+                "indexImg": "ホームページ画像",
+                "headerImg": "ヘッダースライドダウンメニュー画像",
+                "setting": "プラットフォームパラメータ",
+                "clickUpload": "画像をクリックして選 択します",
+                "showOrgImg": "檢視原始圖檔",
+                "whitelist": "ホワイトリスト",
+                "jsonFormat": "格式化",
+                "placeholder": "請輸入內容",
+                "invalid": {
+                    "error-json": "不正なjson形式"
+                },
+                "hasApp": "アプリはありますか"
+            },
+            "limit-members-dialog": {
+                "title": "メンバーリスト"
+            }
+        },
+        "game": {
+            "game-edit-dialog": {
+                "title-add": "ゲームを追加する",
+                "title-edit": "ゲームを変更する",
+                "id": "ナンバリング",
+                "platformName": "プラットフォーム名",
+                "type": "ゲームタイプ",
+                "name": {
+                    "en": "ゲーム名（英語）",
+                    "zh-tw": "ゲー ム名（繁体字）",
+                    "zh-cn": "ゲーム名（簡体字中国語）",
+                    "jp": "ゲーム名（日本語）"
+                },
+                "code": {
+                    "code": "ゲームコード",
+                    "code-report": "レポートコード",
+                    "code-mobile": "mobileコード（入力されていない場合 は、ゲームを開始するときにコード番号を使用してください）"
+                },
+                "game-hall": "ゲームメーカー",
+                "status-maintain": "一時的なメンテナンス状況",
+                "image": "画像をアップロード",
+                "clickUpload": "画像をクリックして選択します",
+                "showOrgImg": "檢視原始圖檔",
+                "order": "順序",
+                "remark": "備考",
+                "tag": "ゲームタグ"
+            }
+        },
+        "letter": {
+            "sendListDialog": {
+                "title": "送信されたメンバーリスト",
+                "id": "お知らせ id",
+                "account": "メンバーアカウント",
+                "name": "メンバーの名前",
+                "readedAt": "既読時間",
+                "removedAt": "削除時間",
+                "add": "メールを追加"
+            },
+            "letter-tag-edit-dialog": {
+                "tag-name": "タグ名"
+            },
+            "add-announcement-dialog": {
+                "title": "タイトル",
+                "tag": "タグ",
+                "selectTag": "タグを選択してください",
+                "content": "内容",
+                "selectAddressee": "受信者を選択",
+                "addressee-options": {
+                    "inputMemberAccount": "メンバーアカウントを入力してください",
+                    "inputAgentAccount": "エージェントアカウントを入力してください",
+                    "selectReceiver": "受信者を選択",
+                    "member": "会員",
+                    "memberTag": "メンバータグ",
+                    "clubRank": "クラブレベル",
+                    "agent": "エージェント",
+                    "registTime": "会員登 録時間",
+                    "registStartTime": "会員登録時（から）",
+                    "registEndTime": "会員登録時間（今まで）",
+                    "all": "すべてのメンバー",
+                    "submit": "提出する",
+                    "selectAll": "すべて選択",
+                    "selectDateTime": "日付と時刻を 選択してください",
+                    "none": "無制限",
+                    "registAmount": "受信者の総数である：{num}人"
+                }
+            },
+            "addMessageDialog": {
+                "newMessage": "メッセージを追加します",
+                "receiver": "受信メンバー",
+                "title": "タイトル",
+                "content": "内容"
+            },
+            "replyMessageDialog": {
+                "replyMessage": "メッセージに返信する",
+                "from": "送信者",
+                "reply": "返事"
+            }
+        },
+        "review-type": {
+            "review-type-step-dialog": {
+                "title": "審査可能な役割",
+                "label-name": "ステップ名",
+                "label-step": "審査役割",
+                "label-add-step": "追加ステップ",
+                "label-review-role": "審査役割"
+            },
+            "review-type-notify-dialog": {
+                "title": "審査通知",
+                "label-name": "ステップ名",
+                "label-status": " 通知条件",
+                "label-sms": "SMS通知",
+                "label-letter-tag": "インボックス通知",
+                "label-email": "Eメール通知",
+                "label-title": "タイトル",
+                "label-content": "内容",
+                "status": {
+                    "approved": "審査に合格したとき",
+                    "disapproved": "審査が失敗したとき",
+                    "transaction": "トランザクションが完了したとき",
+                    "transaction-cancel": "出金をキャンセルする"
+                },
+                "params": {
+                    "user-name": "申請者の名前",
+                    "user-account": "申請者のアカウント",
+                    "deposit-money": "入金額",
+                    "withdraw-money": "出金金額",
+                    "coupon-name": "プロモーション名",
+                    "bank-username": "銀行口座名",
+                    "bank-account": "銀行口座",
+                    "bank-name": "銀行名",
+                    "committed-at": " 申請時間",
+                    "reason": "失敗の理由",
+                    "reward": "優惠贈點",
+                    "quest-name": "優惠名稱"
+                }
+            }
+        },
+        "review-reason": {
+            "list": {
+                "reason": "失敗の理由",
+                "reviewType": "審査ページ",
+                "confirm-delete": "このデータを削除してもよろしいですか？"
+            },
+            "dialog": {
+                "add": "追加 された失敗の理由",
+                "edit": "失敗の理由を変更する"
+            }
+        },
+        "club": {
+            "club-edit-dialog": {
+                "title-add": "クラブを追加",
+                "title-edit": "クラブを変更",
+                "name": "クラブ名",
+                "describe": "説明",
+                "remark": "備考",
+                "game-list": "ゲームリスト",
+                "select-all": "すべて選択",
+                "comment": "（選択されていない場合は、フアフィリエイトがすでにクラブを持っていることを意味します）"
+            },
+            "clubRank-edit-dialog": {
+                "title-add": "ク ラブレベルを追加します",
+                "title-edit": "クラブレベルを変更します",
+                "name": "レベル名",
+                "depositPer": "各入金限度額",
+                "depositPerMax": "毎回の最大入金額制限（ゼロは無制限を意味します）",
+                "depositPerMin": "毎回の最低入金額（ゼロは無制限を意味します）",
+                "depositDayTimes": "一日あたりの入金の最大数（ゼロ手段は無制限）",
+                "withdrawPer": "各出金限度額",
+                "withdrawPerMax": "毎回の最大出金限度額（ゼロは無制限を意味します）",
+                "withdrawPerMin": "毎回の最低出金額（ゼロは無制限を意味します）",
+                "withdrawDayTimes": "毎日出金最大回数",
+                "order": "順序",
+                "setting-default": "デフォルトのレベル",
+                "game-list": "ゲームリスト",
+                "fast-setting": "クイックセットアップ",
+                "game-water-percent": "リベート",
+                "fullpay": "決済設定",
+                "bankLimit": "銀行カードの最大数を設定します（ゼロは無制限を意味します）",
+                "withdrawFee": "出金手数料",
+                "withdrawFeePercent": "出金手数料(%)",
+                "withdrawFreeTimes": "無料出金の最大回数",
+                "withdrawFeePeriod": "無料出金のサイクル",
+                "withdrawFeeType": "出金手数料タイプ",
+                "fixed": "固定タイプ",
+                "percent": "パーセンテージ",
+                "month": "毎月",
+                "day": "毎日",
+                "week": "毎週",
+                "withdraw-deposit-ok": "入出金設定",
+                "water-ok": "リベート設定",
+                "bonus-limit": "ボーナス制限（ゼロは無制限を意味します）",
+                "water-limit": "リベート制限（ゼロは無制限を意味します）",
+                "depositAccumulationPeriod": "入金リミットサイクル（第三者決済を含む）",
+                "withdrawAccumulationPeriod": "出金リミットサイクル（第 三者決済を含む）",
+                "depositAccumulationAmount": "入金限度額（無制限0）（第三者決済を含む）",
+                "withdrawAccumulationAmount": "出金限度額（無制限0）（第三者決済を含む）"
+            },
+            "club-upgrade-rank": {
+                "title": "アップグレード条件",
+                "upgradeByDeposit": "メンバーの総入金額",
+                "upgradeBywithdraw": "総出金額",
+                "upgradeByTotalBetAmount": "総ベッティングボリューム",
+                "clubRankList": "クラブ",
+                "newClubRank": " 交換レベル",
+                "list": "メンバーリスト",
+                "upgradeAt": "前次升級時間",
+                "name": "名前",
+                "account": "アカウント",
+                "clubRankName": "クラブレベル",
+                "search": {
+                    "title": "検索条件",
+                    "finish": "為し終わる",
+                    "not-finish": "未完成"
+                }
+            },
+            "club-rank-members": {
+                "title": "メンバーリスト",
+                "account": "アカウント",
+                "name": "名前",
+                "birth": "誕生日",
+                "phone": "携帯番号"
+            },
+            "clubRank-edit-all-water-dialog": {
+                "water": "リベート",
+                "title": "リベート",
+                "game": "ゲーム名",
+                "clubRankName": "クラブ名"
+            }
+        },
+        "bank": {
+            "bank-edit-dialog": {
+                "title-add": "アカウントを追加する",
+                "title-edit": "アカウントを編集する",
+                "type": "アカウントの目的",
+                "suitable": "適切対象",
+                "useable": "使用制限",
+                "name": "口座名",
+                "account": "口座",
+                "bankName": "銀行名",
+                "branchName": "支店名",
+                "clubRanks": "利用可能なクラブ",
+                "agents": "利用可能なエージェント",
+                "getClub": "クラブを選ぶ",
+                "getClubRank": "レベルを選択",
+                "limitAmount": "制限（0は制限なしを意味します）",
+                "getAgent": "エージェントを選択してください",
+                "getBankGroup": "アカウントグループを選択"
+            }
+        },
+        "report": {
+            "stg-report-detail": {
+                "lib": "リーグ",
+                "ht": "ホームチーム",
+                "ct": "アウェイチーム",
+                "profit": "利益％",
+                "fee": "手数料",
+                "lid2": "アリーナ",
+                "title": "コンテストの詳細",
+                "final": "コンテストの結果",
+                "bet": "ベッティングスコア",
+                "game-at": "コンテストの時間"
+            },
+            "formula-popover": {
+                "total": "結果"
+            },
+            "approval-water-dialog": {
+                "title": "リベート記録",
+                "water-amount": "リベートクォータ",
+                "delete-approval": "リベート記録を削除する",
+                "confirm-delete-approval": "「{amount}元」のリベート記録を削除してもよろしいですか？"
+            },
+            "approval-bonus-dialog": {
+                "title": "ボーナスレコード",
+                "bonus-amount": "ボーナスクォータ",
+                "delete-approval": "ボーナスレコードを削除する",
+                "confirm-delete-approval": "「{amount}元」のボーナスレコードを削除してもよろしいですか？"
+            },
+            "approval-bonus-detail-dialog": {
+                "title": "詳細情報",
+                "post": "下",
+                "level": "レベル",
+                "valid-amount": "有効な賭け額",
+                "total": "メンバー小計",
+                "amount": "ボーナスクォータ"
+            },
+            "settlement-month-records-dialog": {
+                "title": "決算記録",
+                "delete-record-confirm": "「{amount}元」の決算情報を削除してもよろしいですか？",
+                "col": {
+                    "amount": "決算額クォータ",
+                    "write-off": "決済クォータ",
+                    "from": "決算源"
+                }
+            },
+            "settlement-month-dialog": {
+                "user": "アカウント/名前",
+                "title": "エージェント月決算",
+                "write-off-options": {
+                    "in": "支払いを受け取る",
+                    "out": "出金"
+                },
+                "label": {
+                    "report-total": "今月の営業額",
+                    "fee-amount": "手数料",
+                    "record-amount": "すでに決算済みの金額",
+                    "total": "今月の決算の 小計",
+                    "receivable-amount": "前の残高",
+                    "result-receivable-amount": "決算後のうりかけきん",
+                    "write-off-amount": "決済金額"
+                }
+            }
+        },
+        "logger": {
+            "log-point-dialog": {
+                "title": "ゲームリクエスト記録",
+                "platform": "ゲームプラットフォーム",
+                "serial-num": "プラットフォームシリアル番号",
+                "before-point": "転送前のプラットフォームポイント",
+                "after-point": "転送後のプラットフォームポイント"
+            },
+            "log-login-list": {
+                "title": "ログイン記録",
+                "success": "成功",
+                "failed": "失敗",
+                "error-message": "エラーメッセージ",
+                "login-at": "ログイン時間"
+            },
+            "log-exception-dialog": {
+                "title": "エラーの詳細"
+            },
+            "log-sync-report-dialog": {
+                "title": "レポートの同期記録",
+                "platform": "ゲームプラットフォーム",
+                "total": "合計数",
+                "num-completes": "完了数",
+                "num-fails": "失敗数",
+                "stime": "時間-から",
+                "etime": "時間-まで",
+                "execute-time": " 実行時間（秒）",
+                "message": "メッセージ",
+                "fail-items": "失敗したプロジェクト",
+                "manual-sync": "手動同步"
+            },
+            "log-provider-request-dialog": {
+                "title": "ゲームリクエスト記録",
+                "platform": "ゲームプラットフォーム",
+                "player-id": "プレイヤーコード",
+                "action": "リクエストタイプ",
+                "execute-time": "実行時間（秒）",
+                "request-data": "リクエスト情報",
+                "response-data": "応答データ",
+                "status": {
+                    "label": "実行結果",
+                    "completed": "成功",
+                    "failed": "失敗"
+                }
+            },
+            "log-data-modify-dialog": {
+                "franchisee": "アフィリエイト",
+                "operator": "操作者",
+                "site": "サイト",
+                "model": "データ・タイプ",
+                "action": "操作動作",
+                "content": "操作内容",
+                "message": "メッセージ",
+                "add": "データを追加する",
+                "remove": "データを削除する",
+                "updated": "情報更新",
+                "content-type": {
+                    "table": "リスト",
+                    "json": "JSON"
+                },
+                "content-column": "データフィールド",
+                "content-before": "変更前",
+                "content-after": "変更後",
+                "content-value": "数値",
+                "content-value-change": "数値変更"
+            },
+            "log-reward-detail": {
+                "title": "メンバー{name}の{quest}ギフトポイントのベット額の記録",
+                "col-mid": "ベットス リップシリアル番号",
+                "col-platform": "ゲームプラットフォーム",
+                "col-quest-name": "プロモーション名",
+                "col-change-reward": "ギフトポイント-変動",
+                "col-valid-amount": "毎回有効ベット額",
+                "col-required-amount": "ベット額に到達しなければなりません",
+                "col-cumulative-amount": "累積ベット額",
+                "col-status": "状態",
+                "col-created-at": "取引時間",
+                "col-remark": "レビュー備考",
+                "status": {
+                    "count": "第 {number} ",
+                    "approve": "レビューに合格する",
+                    "disapprove": "レビューに失敗しました",
+                    "processing": "計算されたベット額",
+                    "completed": "完了",
+                    "claimed": "出金申請する",
+                    "cancel": "キャンセル",
+                    "rollback": "ロ ールバック",
+                    "unlock": "金額ロック解除",
+                    "deduction_bet_amount": "リベートのベット額",
+                    "deduction_deposit": "紀錄重置",
+                    "rollback_apply": "贈點可再次申請"
+                }
+            },
+            "log-reset-lock-money": {
+                "title": "メンバー{name}の強制リセット操作レコード",
+                "col-agent": "操作者",
+                "col-created-at": "操作時間",
+                "col-reset-lock": "ゼロに強制",
+                "confirm-reset-lock": "{account} [{name}]メンバーの金額を確実にロック解除しますか？ メンバーの現在のポイント：[{money}]、ロックされた金額：[{lock}]",
+                "updated-info": "{count}を更新します"
+            }
+        },
+        "quest": {
+            "reward": {
+                "fixed": {
+                    "franchisee": "アフィリエイト",
+                    "club-rank": "クラブレベル",
+                    "all-club-rank": "レベルに関係なく",
+                    "add-title": "固定タイ プのプロモーションを追加する",
+                    "edit-title": "固定タイプのプロモーションを編集する",
+                    "quest-type": "タイプ",
+                    "quest-name": "名前",
+                    "enabled": "有効にする",
+                    "reward": "ギフトポイント",
+                    "bet-amount": "ベット額",
+                    "limit-games": "限定ゲーム",
+                    "deposit": "初めての入金額",
+                    "limit-times": "プロモーションの最大数"
+                },
+                "percent": {
+                    "franchisee": "アフィリエイト",
+                    "club-rank": "クラブレベル",
+                    "all-club-rank": "レベルに関係なく",
+                    "title-add": "パーセンテージタイプのプロモーションを追加する",
+                    "title-edit": "パーセンテージタイプのプロモーションを編集する",
+                    "name": "名前",
+                    "percent": "ボーナス比率(%)",
+                    "bet_amount": "ベット額",
+                    "bet_amount_min": "最小ベット額",
+                    "reward_max": "最大ギフトポイント",
+                    "start_at": "開始時間",
+                    "end_at": "終了時間",
+                    "daily_quest": "デイリークエスト"
+                },
+                "stage": {
+                    "add-title": "ステージ タイプのプロモーションを追加する",
+                    "edit-title": "ステージタイプのプロモーションを編集する"
+                },
+                "time-picker": "時間選択",
+                "deposit": "初めての入金額",
+                "re-deposit": "プリペイド金額",
+                "min-deposit": " 最小プリペイド金額",
+                "multiple": "賭け金額の倍数",
+                "order": "並べ替え",
+                "image": "画像をクリックして選択します",
+                "image_small": "小さな画像のアップロード",
+                "image_large": "大きな画像のアップロード",
+                "showOrgImg": "檢視原始圖檔",
+                "information": "テキスト記述",
+                "information_enabled": "テキスト記述を有効にするかどうか",
+                "img-info": "最適な画像サイズは、高さ：{hight} px、幅：{width} pxです。",
+                "error": {
+                    "invaild-deposit-condition": "プリペイドプロモーションの1つのみをチェックできます",
+                    "invaild-report-total-condition": "利益またはマイナス利益の一方のみをチェックすることができます",
+                    "only-profit-report-total-condition": "利益額のみをチェックしてください",
+                    "only-loss-report-total-condition": "マイナス利益のみをチェックしてください"
+                }
+            },
+            "group": {
+                "company": "会社の活動",
+                "franchisee": "アフィリエイト",
+                "add-title": "プロモーションのグループを追加する",
+                "edit-title": "プロモーションのグループを編集する",
+                "level": "並べ替え"
+            },
+            "stage": {
+                "title": "ステージタイプ設定",
+                "btn-fixed-type": "固定ギフトポイント",
+                "btn-percent-type": "パーセンテージのギフトポイント",
+                "btn-deposit-type": "累積プリペイドギフトポイント",
+                "col-fixed-type": "固定タイプ",
+                "col-percent-type": "パーセンテージタイプ",
+                "col-amount-stage": "ベット額ステージ",
+                "col-deposit-stage": "累積プリペイドステージ",
+                "col-reward": "ギフトポイント",
+                "col-percent": "ギフトポイントの換算率",
+                "col-max-reward": "最大ギフトポイント",
+                "error": {
+                    "no-amount": "少なくとも1つのベット額タイプをチェックしてください"
+                }
+            },
+            "type": {
+                "company": "会社の活動",
+                "first-time-deposit": "初めての入金の活動",
+                "regular-percent": "賭け金額ギフト（パーセンテージ）",
+                "regular-fixed": "賭け金額ギフト（固定）",
+                "period-fixed": "期間活動",
+                "birth-fixed": "誕生日イベント",
+                "recommend-fixed": "紹介活動",
+                "daily-percent": "日々の活動",
+                "daily-fixed": "日々の活動",
+                "deposit-fixed": "プリペイドプロモーション",
+                "deposit-percent": "プリペイドプロモーション",
+                "multiple-deposit": "プリペイドプロモーション（累積）",
+                "stages-deposit": "ステージタイプのプロモーション"
+            }
+        },
+        "version": {
+            "version-number": "バージョンナンバー",
+            "tittle": "バージョンタイトル",
+            "information": "改訂内容",
+            "add-title": "バージョン情報を追加する",
+            "edit-title": "バージョン情報を編集する"
+        },
+        "login-info": {
+            "status": "状態",
+            "success": "成功",
+            "fail": "失敗",
+            "error-message": "エラーメッセージ",
+            "login-at": "ログイン時間"
+        },
+        "member-summary": {
+            "title": "メンバー備考",
+            "add-title": "備考を追加する",
+            "col-name": "メンバー名",
+            "col-summary": "備考",
+            "col-agent": "操作者",
+            "placeholder": "内容を入力してください",
+            "invalid": {
+                "required": "これは入力必要項目です"
+            }
+        },
+        "log-activity-wallet-report": {
+            "title": "【{name}】ベッティング履歴",
+            "col-mid": "ベットスリップシリアル番号",
+            "col-money": "金額",
+            "col-platform": "ゲームプラットフォーム"
+        },
+        "stuck-money-modify": {
+            "title": "修改卡錢紀錄",
+            "col-point": "返還點數",
+            "point-limit": "返還點數最多 {limit}"
+        }
+    },
+    "view": {
+        "move-organization": {
+            "select-label": "請選擇欲移動的層級",
+            "level1": "會員",
+            "level2": "代理",
+            "level3": "總代",
+            "level4": "股東",
+            "trans-label": "將轉移",
+            "to": "到"
+        },
+        "home": {
+            "time-range": {
+                "label": "時間範囲",
+                "to": "に",
+                "start": "開始時間",
+                "end": "終了時間",
+                "invalid": "時間範囲"
+            },
+            "today": "今日",
+            "this-week": "今週",
+            "this-month": "今月",
+            "yesterday": "昨日",
+            "last-week": "先週",
+            "last-month": "先月",
+            "num-registers": "登録人 数",
+            "num-first-deposit": "初めてリチャージ",
+            "num-first-withdraw": "初めて現金を引き出す",
+            "num-login-member": "ログインの総数",
+            "num-login-member-small": "同じメンバーは同じ日に1回だけカウントさ れます",
+            "sum-deposit": "入金クォータ",
+            "sum-withdraw": "出金クォータ",
+            "sum-give-member": "ポイント配りクォータ",
+            "sum-taken-back": "クォータ撤回",
+            "platform-name": "ゲームプラットフォーム",
+            "num-bets": "ベットスリップ数",
+            "sum-total": "メンバー小計",
+            "group-member-title": "メンバーシップ関連のクォータ",
+            "group-member-label": "分類",
+            "group-report-title": "完成されたレポートの総クォータ",
+            "total_title": "合計",
+            "balance-title": "入出金合計",
+            "sum-member": "人",
+            "label-exclude-tester": "テストアカウントを除外する",
+            "label-only-tester": "テストアカウントのみ",
+            "members": "人数",
+            "table": {
+                "num-member": "ベット人数",
+                "platform-name": "ゲームプラットフォーム",
+                "num-bets": "ベットスリップ数",
+                "sum-total": "メンバー小計",
+                "sum-bet-amount": "ベットのクォータ",
+                "sum-valid-amount": "有効な賭け額",
+                "total_title": "合計",
+                "parent": "上層"
+            },
+            "title": {
+                "income": "トータル受け取る額",
+                "expense": "総出金",
+                "quest": "プロモーション合計",
+                "agent": "ポイントを送るの合計"
+            }
+        },
+        "blank": {
+            "no-permission": "ホームページの許可なし"
+        },
+        "common": {
+            "toggle-button": {
+                "enabled": "有効にする",
+                "disabled": "無効",
+                "locked": "ロック",
+                "unlocked": "ロックを解除する"
+            }
+        },
+        "login": {
+            "account": "アカウント",
+            "password": "パスワード",
+            "login": "ログイン"
+        },
+        "personal-information": {
+            "modify-name": "名前を編集する",
+            "input-name": "名前を入力してください"
+        },
+        "personal-wallet": {
+            "loan": "事前借入額"
+        },
+        "personal-reviews": {
+            "label-status": "審査状態",
+            "btn-loan": "事前借入額",
+            "col": {
+                "apply-amount": "クォータを申請する",
+                "real-amount": "クォータの発行",
+                "status": "状態",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "committed-at": "申請時間",
+                "finished-at": "完了時間"
+            }
+        },
+        "agent": {
+            "account-label": "アカウント",
+            "game-account": "ゲームアカウント",
+            "creator": "操作の人のアカウント",
+            "name-label": "名前",
+            "sub-agent-list": "サブアカウント",
+            "target-label": "検索対象",
+            "member_phone": "メンバーの電話",
+            "target-type": {
+                "agent": "組織のメンバー",
+                "sub-agent": "サブアカウント",
+                "member": "会員"
+            },
+            "btn-add-sub-agent": "サブアカウントを追加す る",
+            "breadcrumb": {
+                "search-account": "検索{level}({account})",
+                "sub-agent": "サブアカウント",
+                "all-sub-agent": "サブアカウント"
+            }
+        },
+        "agent-write-off": {
+            "col-undone": "未収決済のデータ",
+            "col-undone-nums": "未収決済の数",
+            "col-undone-settlement": "未収決済の数"
+        },
+        "review": {
+            "review-agent-loan": {
+                "col-apply-amount": "クォータを申請する",
+                "col-real-amount": "発行されたクォータ",
+                "btn-copy-apply-amount": "申請クォータと同じ",
+                "remark": "備考",
+                "reason": "失敗の理由"
+            },
+            "review-agent-compensatory": {
+                "col-apply-amount": "クォータを申請する",
+                "col-real-amount": "発行されたクォータ",
+                "col-user-type": "対象",
+                "col-user": "アカウント/名前",
+                "reason": "申請の理由",
+                "remark": "備考",
+                "fail_remark": "失敗の理由"
+            },
+            "review-member-deposit": {
+                "col-club-rank": "クラブレベル",
+                "col-last-reviewer": "最終審査者",
+                "col-serial-num": "ナンバリング",
+                "col-deposit-apply-amount": "入金クォータ",
+                "col-deposit-bank-name": "入金銀行",
+                "col-deposit-real-amount": "実際のクォータ",
+                "col-fee": "手数料",
+                "btn-copy-apply-amount": "申請クォータと同じ",
+                "btn-rollback": "手動入金を撤回",
+                "account": "メンバーアカウント",
+                "transactionAt": "入金時間",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "payee-account": "受け取るのアカウント",
+                "payee-bank-name": "受け取る銀行名",
+                "payee-name": "受け取る口座名",
+                "operator": "操作者",
+                "rollback-warning": "{account} [{name}]メンバーをロールバックする金額を決定します：{money}？",
+                "rollback-success": "ロールバックされた金額：{money}",
+                "last-five-number": "入金口座",
+                "applicant-name": "入金者名",
+                "applicant-name2": "入金口座",
+                "confirm-reset-pass": "早く合格するかどうか",
+                "col-tags": "タグ",
+                "change-real-amount": "実際のクォータを変更してもよろしいですか？"
+            },
+            "review-third-party-deposit": {
+                "col-club-rank": "クラブレベル",
+                "col-last-reviewer": "最終審査者",
+                "col-serial-num": "ナンバリング",
+                "col-deposit-apply-amount": "入金クォータ",
+                "col-deposit-real-amount": "実際のクォータ",
+                "col-fee": "手数料",
+                "btn-copy-apply-amount": "申請クォータと同じ",
+                "btn-rollback": "第三者のリサイクル",
+                "account": "メンバーアカウント",
+                "transactionAt": "入金時間",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "payee-account": "受け取る口座",
+                "payee-bank-name": "受け取る銀行名",
+                "payee-name": "受け 取る口座名",
+                "operator": "操作者",
+                "rollback-warning": "{account} [{name}]メンバーをロールバックする金額を決定します：{money}？",
+                "rollback-success": "ロールバックされた金額：{money}"
+            },
+            "review-member-activity-wallet": {
+                "col-club-rank": "クラブレベル",
+                "col-last-reviewer": "最終審査者",
+                "col-serial-num": "ナンバリング",
+                "col-type": "ウォレットタイプ",
+                "type-fixed": "固定タイプ",
+                "type-percent": "パーセンテージタイプ",
+                "price": "金額",
+                "points": "ポイント",
+                "percent-point": "ギフトポイントのパーセンテージ",
+                "percent-water": "賭け金額の倍数",
+                "percent-min-price": "最小購入額",
+                "percent-max-point": "最大ギフトポイント",
+                "account": "メンバーアカウント",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "operator": "操作者",
+                "name": "ボーナスウォレット名",
+                "total-price": "合計金額",
+                "total-points": "合 計ポイント",
+                "col-water-limit": "賭け金額を制限する"
+            },
+            "review-member-quest": {
+                "account": "メンバーアカウント",
+                "col-deposit-amount": "プリペイド金額",
+                "col-quest-reward": "ボーナスポイント",
+                "col-quest-bet-amount": "ミッションに必要な賭け金額",
+                "col-quest-valid-amount": "メンバーの現在の賭け金額",
+                "col-quest-percentage": "ギフトパーセンテージ",
+                "col-quest-max-reward": "最大ボーナスポイント",
+                "col-quest-min-bet-amount": "最小ベット額",
+                "col-quest-start-time": "開始時間",
+                "col-quest-end-time": "終了時間",
+                "col-quest-commit-at": "レビューの時間",
+                "col-quest-report-total": "会員利益/マイナ ス利益",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "name": "ミッション名"
+            },
+            "review-member-register": {
+                "account": "アカウント",
+                "name": "名前",
+                "gender": "性別",
+                "phone": "電話",
+                "qq": "qq",
+                "wechat": "WeChat",
+                "birth": "誕生日",
+                "weibo": "Weibo",
+                "invitation_code": "招待コード",
+                "inviter": "招待者",
+                "club-rank": "クラブレベル",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "line": "ライン"
+            },
+            "review-member-information": {
+                "account": "アカウント",
+                "name": "メンバーの本名",
+                "phone": "携帯番号",
+                "qq": "qq",
+                "wechat": "WeChat",
+                "weibo": "Weibo",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "birth": "誕生日",
+                "address": "住所",
+                "line": "ライン",
+                "email": "Eメール"
+            },
+            "review-member-withdraw": {
+                "col-serial-num": "ナンバリング",
+                "col-club-rank": "クラブレベル",
+                "col-last-reviewer": "最終審査者",
+                "money": "出金金額",
+                "moneyLog": " 出金金額（出金手数料控除）",
+                "unlockMoney": "今回出金後のメンバー残高",
+                "balance": "會員本次提領後餘額",
+                "fee": "コスト手数料",
+                "withdrawFee": "出金手数料",
+                "type": "出金方法",
+                "typeOptions": {
+                    "none": "未払い",
+                    "bank": "銀行振込",
+                    "third": "第三者"
+                },
+                "transaction-at": "振込時間",
+                "transaction-id": "振込口座番号の最後の5桁",
+                "payer-name": "支払い口座名",
+                "payer-account": "支払口座",
+                "payer-bank-name": "支払銀行名",
+                "payer-branch-name": "支払い支店名",
+                "payee-name": "受け取る口座名",
+                "payee-account": "受け取る口座",
+                "payee-bank-name": "受け取る銀行名",
+                "payee-branch-name": "受け取る支店名",
+                "btn-transaction": "出金",
+                "btn-cancel": " 出金をキャンセルする",
+                "btn-manual": "手動での出金",
+                "transaction-status": "出金状況",
+                "real-money": "実際の出金金額",
+                "withdraw-fee": "出金手数料",
+                "transaction-status-options": {
+                    "none": "未出金",
+                    "pending": "出金中",
+                    "completed": "出金済み",
+                    "error": "出金失敗",
+                    "transaction-cancel": "出金をキャンセルする",
+                    "transaction-manual": "手動での出金"
+                },
+                "transaction-title": "出金",
+                "remark": "備考",
+                "reason": "失敗の理由",
+                "col-tags": "タグ",
+                "bank-account": "口座",
+                "bank-name": "銀行名"
+            },
+            "review-member-bank": {
+                "account": "メンバーアカウント",
+                "col-bank-name": "銀行名",
+                "col-branch-name": "支店名",
+                "col-bank-account": "銀行口座",
+                "col-bank-username": "銀行口座名",
+                "remark": "備考",
+                "reason": "失敗の理由"
+            }
+        },
+        "system": {
+            "role": {
+                "col-name": "名前",
+                "col-level": "レベルを使用する",
+                "col-level-0": "会社",
+                "col-level-1": "アフィリエイト",
+                "col-level-2": "大株主",
+                "col-level-3": "株主",
+                "col-level-4": "ジェネラル・エージェント / 総代理",
+                "col-level-5": "エージェント",
+                "col-rank": "クラス",
+                "col-whitelist": "ホ ワイトリスト",
+                "col-status": "状態",
+                "col-full-ip": "完全なIP",
+                "col-full-info": "詳細情報",
+                "col-updated-at": "時間を変更する",
+                "col-options": "操作",
+                "col-common": "共有状態",
+                "common": "共有",
+                "uncommon": "非共有",
+                "franchisee-label": "アフィリエイト",
+                "edit-auth": "権限を設定する",
+                "view-auth": "閲覧権限",
+                "full": "フル",
+                "section": "一部",
+                "clone-role-confirm": "[{name}]の役割をコピーしますか？",
+                "clone-success": "コピー成功",
+                "col-creator": "子帳號上層"
+            },
+            "view": {
+                "form-parent-label": "上層メニュー",
+                "form-name-label": "メニュー/リンク名",
+                "form-code-label": "翻訳ファイルコード",
+                "form-type-label": "タイプ",
+                "form-path-label": "パス",
+                "form-class-name-label": "クラススタイル",
+                "form-order-label": "並べ替え番号",
+                "form-enabled-label": "有効状態",
+                "form-remark-label": "備考",
+                "type-menu": "メニュー",
+                "type-link": "リンク",
+                "no-parent": "なし",
+                "add-children": "下層を追加する",
+                "delete-confirm": "「{name}」の{type}を削除してもよろしいですか？",
+                "page-name": "ページ名",
+                "title": "タイトル",
+                "option": "操作"
+            },
+            "api": {
+                "query-keyword-label": "キーワードクエリ（パス、説明）",
+                "col-remark": "説明",
+                "col-group-name": "グループ名",
+                "col-view-name": "ページ名",
+                "col-path": "パス",
+                "confirm-delete-api": "{name} apiを削除しても よろしいですか？"
+            },
+            "company": {
+                "col": {
+                    "account": "アカウント",
+                    "name": "名前",
+                    "roleName": "役割の権限",
+                    "editor": "最終編集者"
+                },
+                "search": {
+                    "name": "検索名",
+                    "account": "アカウントを検索する"
+                },
+                "confirm-reset-error-count": "{account} [{name}]メンバーのログインエラーの数をリセットしてもよろしいですか？"
+            },
+            "franchisee": {
+                "col": {
+                    "name": "名前",
+                    "host": "公式ウェブサイトhost",
+                    "default-agent": "デフ ォルトのエージェント",
+                    "default-bank-group": "預設帳戶群組",
+                    "default-club-rank": "デフォルトのクラブレベル",
+                    "configs": "パーセンテージ変更",
+                    "bet-amount-multiple": "賭け金額",
+                    "status-edit": "状態",
+                    "edit-auto-bonus": "自動ボーナス",
+                    "edit-auto-water": "自動リベート",
+                    "third-pay-setting": "立て替える設定",
+                    "commission": "コミッションリベート"
+                },
+                "search": {
+                    "name": "検索名",
+                    "host": "公式ウェブサイトhost"
+                },
+                "pay-setting": {
+                    "title": "立 て替える設定",
+                    "level": "レベル",
+                    "path": "決済チャネル",
+                    "status": "状態",
+                    "name": "名前",
+                    "address": "住所",
+                    "order": "並べ替え",
+                    "single-max-limit": "単一の最大制限",
+                    "input-money": "リチャージ額を入力 できますか",
+                    "fix-money": "固定リチャージ額",
+                    "pay-type": "決済タイプ",
+                    "notice": "ヒント",
+                    "account": "事業番号",
+                    "single-min-limit": "単一の最小制限",
+                    "decimal-length": "小数の長さ",
+                    "unabled-money": "無効金額"
+                }
+            },
+            "betAmountMultiple": {
+                "title": "賭け金額の倍数管理",
+                "type": {
+                    "title": "タイプ",
+                    "first": "初回入金",
+                    "normal": "一般的"
+                },
+                "betAmountMultiple": "賭け金額の倍数",
+                "weights": "ウェイト",
+                "disableDate": "無制限の時間",
+                "start": "開始日",
+                "end": "終了日"
+            },
+            "review-type": {
+                "col-key": "審査プロセス Key",
+                "col-name": "ステップ名",
+                "col-step": "審査可能な役割",
+                "col-enabled": "手動審査",
+                "col-auto-pass": "オートパス",
+                "col-customize": "審査プロセスカスタマイズ",
+                "col-when-group": "インボックス通知",
+                "col-when-approved": "審査合格",
+                "col-when-disapproved": "審査失敗",
+                "col-when-transaction": "取引完了後",
+                "col-when-transaction-cancel": "取引をキャンセルする",
+                "status-manual": "手動審査",
+                "status-auto": "オートパス",
+                "label-not-allow-auto-pass": "オートパスできない",
+                "status-customize": "アフ ィリエイト",
+                "status-uncustomized": "会社管理",
+                "label-no-setting": "設定されていません"
+            }
+        },
+        "marquee": {
+            "franchisee": "アフィリエイト",
+            "col": {
+                "suitable": "プラットホーム",
+                "type": "タイプ",
+                "content": "走馬灯内容"
+            },
+            "no-limit": "無制限",
+            "search": {
+                "nullOption": "無制限",
+                "suitable": "プラットホーム",
+                "suitableOptions": {
+                    "agent": "エージェントプラットホーム",
+                    "member": "メンバープラットフォーム"
+                },
+                "type": "タイプ",
+                "typeOptions": {
+                    "hot": "人気",
+                    "normal": "一般的",
+                    "deposit": "メンバー入金"
+                }
+            },
+            "confirm-delete-marquee": "「{content}」走馬灯メッセージを削除してもよろしいですか？"
+        },
+        "carousel": {
+            "no-limit": "無制限",
+            "col": {
+                "position": "位置",
+                "name": "名前",
+                "noLimit": "無制限",
+                "order": "並べ替え",
+                "link-type": "リンクタイプ",
+                "linkTypeName": "リンクタイプ名"
+            },
+            "search": {
+                "position": "位置を選択",
+                "link-type": "リンクタイプ"
+            },
+            "confirm-delete-carousel": "「{name}」カルーセルを削除してもよろしいですか？"
+        },
+        "gameType": {
+            "search": {
+                "type": "ゲームタイプ"
+            },
+            "col": {
+                "type": "ゲームタイプ",
+                "name": "名 前"
+            }
+        },
+        "gameTag": {
+            "search": {
+                "tag": "ゲームタグ",
+                "type": "ゲームタイプ"
+            },
+            "col": {
+                "type": "ゲームタイプ",
+                "tag": "ゲームタグ",
+                "name": "タグ名"
+            }
+        },
+        "gamePlatform": {
+            "key": "プラットフォームコード",
+            "name": "プラットフォーム名",
+            "is-fun": "テストバージョン",
+            "status-maintain": {
+                "status-maintain": "一時的なメンテナンス状況",
+                "yes": "メンテナンス中",
+                "no": "いいえ"
+            },
+            "col": {
+                "routine-temporary-maintain": "臨時維修",
+                "disposable-maintain-data": "{date}, 維修 {min} 分鐘",
+                "routine-maintain-data": "毎週{day} {time}、メンテナンス{min}分",
+                "routine-maintain": "定期メンテ ナンス",
+                "limit-member": "制限付きメンバー",
+                "no-limit-member": "無制限のメンバー",
+                "order": "順序"
+            }
+        },
+        "game": {
+            "name": "ゲーム名",
+            "key": "プラットフォームコード",
+            "type": "ゲームタイプ",
+            "tag": "ゲームタグ",
+            "status-maintain": {
+                "status-maintain": "一時的なメンテナンス状況",
+                "yes": "メンテナンス中",
+                "no": "いいえ"
+            },
+            "col": {
+                "platformName": "プラットフォーム名",
+                "code": "ゲームコード",
+                "order": "順序"
+            },
+            "batchMaintain": "バッチ設定メンテナンスステータス"
+        },
+        "letter": {
+            "letterTag": {
+                "tagName": "タイプ名",
+                "selectTag": "タイプを選択",
+                "col": {
+                    "franchisee": "アフィリエイト",
+                    "name": "タイプ名",
+                    "type": "タイプ",
+                    "updated-at": "最終変更時間",
+                    "operator": "操作",
+                    "status": "状態"
+                }
+            },
+            "announcement": {
+                "searchTitle": "タイトル検索",
+                "announcementTag": "タグ",
+                "memberTag": "メンバータグ",
+                "memberAccount": "會員帳號",
+                "time-range": {
+                    "label": "時間區間",
+                    "to": "至",
+                    "start": "開始時間",
+                    "end": "結束時間"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "本週",
+                "last-week": "上週",
+                "this-month": "本月",
+                "last-month": "上月",
+                "col": {
+                    "name": "送信者",
+                    "title": "件名",
+                    "content": "メールの内容",
+                    "numReads": "読んだメンバーの数",
+                    "numSends": "送信メンバー数",
+                    "created-at": "リリース時間"
+                }
+            },
+            "message": {
+                "queryAccount": "アカウント検索",
+                "queryStartTime": "開始日",
+                "queryEndTime": "終了日",
+                "queryRead": "読んだことがありますか",
+                "read": "既読",
+                "unread": "未読",
+                "none": "無制限",
+                "col": {
+                    "franchisee": "アフィリエイト",
+                    "title": "タイトル",
+                    "member": "会員",
+                    "replyAt": "返信時間",
+                    "createdAt": "送信時間",
+                    "reply": "メールに返信する"
+                }
+            }
+        },
+        "sms": {
+            "smsUser": {
+                "franchisee-id": "アフィリエイト ID",
+                "module-id": "SMSモジュールID",
+                "module-name": "SMSモジュール名",
+                "account": "ユーザーアカウント",
+                "copy": "コピー"
+            },
+            "smsUserDialog": {
+                "sms-module": "SMSモジュール",
+                "sms-user": "ユーザーアカウント",
+                "sms-password": "ユーザーパスワード",
+                "signature": "サイン"
+            },
+            "smsTemplate": {
+                "franchisee-name": "加盟商",
+                "recognize-name": "識別名",
+                "function-name": "機能名",
+                "updated-at": "最終変更時間"
+            },
+            "smsTemplateDialog": {
+                "account": "ユ ーザーアカウント",
+                "remark": "備考",
+                "content": "内容を送信する",
+                "phone-captcha": "電話確認コード",
+                "password-reset": "パスワードのリセット"
+            },
+            "smsLog": {
+                "module-name": "SMSモジュール名",
+                "user-name": "Smsアカウント",
+                "phone": "対象を送信します",
+                "content": "内容",
+                "sendId": "IDを返す",
+                "completed": "成功するかどうか",
+                "credit": "残高",
+                "cost": "今回使ったお金",
+                "total": "送信数",
+                "num-success": "成功数",
+                "num-failures": "失敗の数",
+                "message": "メッセージ",
+                "remark": "備考",
+                "creator": "操作者",
+                "created-at": "設立時間",
+                "send": "送信",
+                "resend": "再送信"
+            },
+            "smsLogDialog": {
+                "title": "SMSを送信",
+                "content": "内容を送信する",
+                "user-name": "Smsアカウント",
+                "phone": "対象を送信します",
+                "phone-placeholder": "\"電話番号は、0912345678"
+            }
+        },
+        "bank": {
+            "limit-amount": "制限",
+            "cumulative-amount": "累積クォータ",
+            "name": "口座名",
+            "account": "銀行口座",
+            "bank-name": "銀行名",
+            "bank-branch-name": "銀行名(支店)",
+            "type": "アカウントの目的",
+            "type-options": {
+                "deposit": "入金",
+                "withdraw": "出金"
+            },
+            "useable": "使用制限",
+            "useable-options": {
+                "all": "無制限",
+                "agent": "エージェント",
+                "club-rank": "クラブレベル",
+                "bank-group": "アカウントグループ"
+            },
+            "edit-cumulative-amount": "累積クォータを変更してもよろしいですか？",
+            "edit-limit-amount": "制限の変更",
+            "invalids": {
+                "number-only": "数字でなければなりません",
+                "amount": "妥当な数である必要があります（出金は0未満である必要があります）"
+            },
+            "msgbox": {
+                "warning": "警告",
+                "delete-msg": "このデータは削除されようとしています。よろしいですか？",
+                "deleting": "削除中..."
+            },
+            "bank-useable-dialog": {
+                "title": "使用制限",
+                "user": "制限された対象"
+            }
+        },
+        "third": {
+            "group_name": "グルー プ名",
+            "value": "コード",
+            "name": "名前",
+            "minAmount": "最小プリペイド金額",
+            "maxAmount": "最大プリペイド金額",
+            "pay-id": "決済手段",
+            "pay-name": "決済名",
+            "order": "並べ替え",
+            "optin": "チャンネル設定",
+            "amount-limit": "チャネルクォータ",
+            "amount-limit-title": "チャネルクォータ",
+            "order-description": "数値が小さいほど、優先度が高くなります",
+            "current-amount": "累積クォータ"
+        },
+        "report": {
+            "old-report": {
+                "mid": "編號",
+                "type": "交易類型",
+                "before-money": "異動前金額",
+                "change-money": "異動金額",
+                "after-money": "異動後金額",
+                "ip": "IP",
+                "create-at": "建立時間"
+            },
+            "agent-total-report": {
+                "col": {
+                    "sum": "合計",
+                    "quest": "ミッションのコスト",
+                    "agent": "名前",
+                    "level": "レベル",
+                    "franchisee": "アフィリエイト",
+                    "type": "ゲームタイプ",
+                    "platform": "ゲームプラットフォーム",
+                    "tip": "チップ",
+                    "count": "数",
+                    "bet-amount": "ベット額",
+                    "valid-amount": "有効な賭け額",
+                    "win-amount": "勝ち額",
+                    "water-amount": "会員リベート",
+                    "bonus-amount": "メンバーのボーナス",
+                    "prize": "賞金",
+                    "total": "メンバー小計",
+                    "agent-percent": "パーセンテージ（％）",
+                    "agent-amount": "パーセンテージクォータ",
+                    "agent-water-amount": "リベート",
+                    "agent-bonus-amount": "ボーナス",
+                    "agent-cost-group": "コスト支出",
+                    "agent-cost-agent-water-amount": "エージェントリベート",
+                    "agent-cost-member-water-amount": "会員リベート",
+                    "agent-cost-member-bonus-amount": "メンバーのボーナス",
+                    "agent-total": "小計",
+                    "formula": "計算方法",
+                    "reward": "合計ギフトポイント",
+                    "quest-amount": "ミッションのコストを負担する",
+                    "final-total": "最終合計",
+                    "agent-commission-amount": "コミッションリベート"
+                }
+            },
+            "quest-agent-total-report": {
+                "prise": "金額",
+                "amount": "ポイント",
+                "name": "ウォレット名",
+                "cost": "コスト",
+                "curPoint": "現在の残りのポイント",
+                "curWater": "現在の賭け金額",
+                "buyTime": "購入時間"
+            },
+            "quest-reward": {
+                "reward": "ポイント",
+                "name": "イベント名",
+                "cost": "コスト",
+                "finishedAt": "受け取る時間"
+            },
+            "member-total-report": {
+                "col": {
+                    "sum": "合計",
+                    "agent": "名前",
+                    "level": "レベル",
+                    "type": "ゲームタイプ",
+                    "platform": "ゲームプラットフォーム",
+                    "tip": "チップ",
+                    "count": "数",
+                    "bet-amount": "ベット額",
+                    "win-amount": "勝ち額",
+                    "water-amount": "会員リベート",
+                    "bonus-amount": "會員紅利",
+                    "prize": "賞金",
+                    "total": "メンバー小計",
+                    "agent-percent": "パーセンテージ（％）",
+                    "agent-amount": "パーセンテージクォータ",
+                    "agent-water-amount": "リベート",
+                    "agent-bonus-amount": "ボーナス",
+                    "agent-cost-group": "コスト支出",
+                    "agent-cost-agent-water-amount": "エージェントリベート",
+                    "agent-cost-member-water-amount": "会員リベート",
+                    "agent-cost-member-bonus-amount": "メンバーのボーナス",
+                    "agent-total": "エージェント小計",
+                    "formula": "計算方法",
+                    "valid-amount": "有効な賭け額"
+                }
+            },
+            "report-bets": {
+                "bets": "ベットスリップリスト",
+                "col": {
+                    "mid": "メインのベットスリップ番号",
+                    "ip": "IP",
+                    "member": "会員",
+                    "bet-amount": "ベット額",
+                    "total": "メンバー小計",
+                    "bet-at": "ベットタイム",
+                    "status": "状態",
+                    "settle-at": "当たり時間",
+                    "water-amount": "リベート",
+                    "win-amount": "勝ち額",
+                    "content": "ベッティングコンテンツ",
+                    "game": "ゲーム名",
+                    "platform": "ゲームプラットフォーム",
+                    "prize": "賞金",
+                    "tip": "チップ",
+                    "bonus": "紅利",
+                    "valid-amount": "有効な賭け額",
+                    "func": "機能",
+                    "detail": "詳細",
+                    "agent-commission-amount": "コミッションリベート",
+                    "report-game": "遊戲平臺帳務 ({platform})",
+                    "water-percent": "代理退水(%)",
+                    "sum": "小計",
+                    "sumAll": "總計",
+                    "game-account": "遊戲帳號",
+                    "betsDetail": "明細",
+                    "detailTitle": "投注明細"
+                }
+            },
+            "total-report": {
+                "query": {
+                    "game-platform": "ゲームプラットフォー ム",
+                    "game-type": "ゲームタイプ",
+                    "time-range": {
+                        "label": "時間範囲",
+                        "to": "に",
+                        "start": "開始時間",
+                        "end": "終了時間"
+                    },
+                    "account": "アカウント",
+                    "gameAccount": "遊戲帳號",
+                    "mid": "ベットスリップシリアル番号",
+                    "level": "レベル",
+                    "ip": "ベットスリップIP",
+                    "fun-status": {
+                        "label": "プラットフォームタイプ",
+                        "prod": "正式版",
+                        "fun": "テストバージョン"
+                    },
+                    "label-exclude-tester": "テストアカウントを除外する",
+                    "label-only-tester": "テストアカウントのみ",
+                    "game": "遊戲",
+                    "game-placeholder": "請輸入遊戲名稱",
+                    "time-type": "時間類型",
+                    "report-at": "下注時間",
+                    "settle-at": "派彩時間"
+                },
+                "setting": {
+                    "use-money-format": "通貨形式を使用する"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "今週",
+                "last-week": "先週",
+                "this-month": "今月",
+                "last-month": "先月",
+                "no-time": "無制限の時間",
+                "to-excel": "レポートのエクスポート",
+                "is-compelet": "レポートが完成しました",
+                "not-compelet": "レポートが完了していません",
+                "cancel": "すでにキャンセル",
+                "notify": "本報表僅顯示一週前的資料"
+            },
+            "settlement-day": {
+                "col": {
+                    "settlement-group": "決算情報",
+                    "count": "数",
+                    "bet-amount": "ベット額",
+                    "total": "メンバーの結果",
+                    "company-total": "会社の結果",
+                    "alv1-total": "アフィリエイトの結果",
+                    "alv2-total": "大株主の結果",
+                    "alv3-total": "株主の結果",
+                    "alv4-total": "総代理の結果",
+                    "alv5-total": "エージェントの結果",
+                    "num-completeds": "完成したベットスリップ"
+                },
+                "re-settlement": "再び決算"
+            },
+            "approval-water": {
+                "bet-amount": " メンバーのベット額",
+                "valid-amount": "有效投注金額",
+                "total-amount": "メンバーの結果",
+                "water-amount": "すべきのリベートを配布する必要があります",
+                "approval-amount": "リベートが配布されました",
+                "unpaid-amount": "未配布のクォータ",
+                "min-amount": "配布する必要のある最小クォータ",
+                "approval": "ポイントを送る",
+                "confirm-approval": "合計{amount}のポイントを送るデータの{count}項目を選択しました。ポイントを送るを実行してもよろ しいですか？",
+                "total-water": "総賭け金額",
+                "water-limit": "賭け金額の制限"
+            },
+            "approval-bonus": {
+                "bet-amount": "メンバーのベット額",
+                "total-amount": "メンバーの結果",
+                "bonus-amount": "送られるべきボーナス",
+                "approval-amount": "送られるボーナス",
+                "unpaid-amount": "未配布のクォータ",
+                "min-amount": "配布する必要のある最小クォータ",
+                "approval": "ポイントを送る",
+                "confirm-approval": "合計{amount}のポ イントを送るデータの{count}項目を選択しました。ポイントを送るを実行してもよろしいですか？",
+                "func": "機能",
+                "info": "詳細",
+                "total-bonus": "総ボーナス",
+                "bonus-limit": "ボーナス制限"
+            },
+            "settlement-month": {
+                "query": {
+                    "level": "レベル",
+                    "account": "アカウント"
+                },
+                "col": {
+                    "name": "名前",
+                    "settlement-record": "決済記録",
+                    "record-amount": "すでに決算済みの金額",
+                    "num-records": "決算の数",
+                    "report-total": "月レポートの決済合計",
+                    "report-total-current": "本層",
+                    "report-total-children": "下層",
+                    "fee-amount": "手数料",
+                    "receivable-amount": "前回剰余金",
+                    "total": "今回剰余金"
+                },
+                "settlement": "決算"
+            },
+            "account-report": {
+                "list": {
+                    "account": "メンバーアカウント",
+                    "applyAmount": "申請の入金額",
+                    "realAmount": "実際の入金額",
+                    "fee": "手数料",
+                    "payeeAccount": "受取人の銀行口座",
+                    "payeeBankName": "受け取る銀行",
+                    "payeeBranchName": "支店",
+                    "payeeName": "受取人の名前",
+                    "payerName": "入金口座名",
+                    "remarkTransactionAt": "振込時間",
+                    "remarkTransactionId": "取引番号",
+                    "money": "出金金額",
+                    "payerName2": "出金口座名",
+                    "sum": "小計",
+                    "withdrawFee": "提款手續費",
+                    "deposit": {
+                        "realAmount": "實際存款金額"
+                    },
+                    "withdraw": {
+                        "realAmount": "實際出款金額"
+                    }
+                },
+                "search": {
+                    "select": "選んでください",
+                    "bank": "口座",
+                    "type": "口座の種類",
+                    "deposit": "入金",
+                    "withdraw": "出金"
+                }
+            },
+            "company-total-report": {
+                "activityWallet": "ボーナスウォレット",
+                "quest": "プロモーション",
+                "tip": "チップ",
+                "handIn": "送金",
+                "agentTake": "お金を下層に渡す",
+                "agentTotal": "パーセンテージクォータ",
+                "parentReportTotal": "本層決済"
+            }
+        },
+        "logger": {
+            "log-exception": {
+                "site": {
+                    "label": "プラットホーム",
+                    "agent": "コンソール",
+                    "member": "メンバーコンソール"
+                },
+                "query": {
+                    "stime": "時間-から",
+                    "etime": "時間-まで"
+                },
+                "col": {
+                    "url": "アクセスパス",
+                    "status-code": "ステータスコード",
+                    "code": "エラー番号",
+                    "message": "エラーメッセージ"
+                }
+            },
+            "log-sync-report": {
+                "stime": "時間-から",
+                "etime": "時間-まで",
+                "platform": "ゲームプラットフォーム",
+                "executing": "同期中",
+                "sync-report": "同期",
+                "manual-sync-report": "手動同期",
+                "socket-disconnected": "サービスが接続されていません...",
+                "status": {
+                    "label": "処理結果",
+                    "completed": "成功",
+                    "failed": "一部的な失敗",
+                    "error": "エラー"
+                },
+                "col": {
+                    "time-range": "時間範囲",
+                    "total": "合計数",
+                    "num-completes": "完了数",
+                    "num-fails": "失敗の数",
+                    "status": "状態",
+                    "execute-time": "実行時間（秒）"
+                },
+                "retry": "リトライ{value} ...",
+                "last-time": "同期した時間",
+                "next-time": "次の同期時間"
+            },
+            "log-sync-report-time-range-dialog": {
+                "sync-report": "同期レポート"
+            },
+            "log-provider-request": {
+                "stime": "時間-から",
+                "etime": "時間-まで",
+                "platform": "ゲームプラットフォーム",
+                "account": "メンバーアカウント",
+                "status": {
+                    "label": "実行結果",
+                    "completed": "成功",
+                    "failed": "失敗"
+                },
+                "col": {
+                    "action": "リクエストタイプ",
+                    "status": "状態",
+                    "execute-time": "実行時間（秒）"
+                }
+            },
+            "log-data-modify": {
+                "operator": "操作者",
+                "site": "サイト",
+                "site-agent": "コンソール",
+                "site-member": "メンバーコンソール",
+                "action": "操作動作",
+                "model": "データ・タイプ",
+                "target": "データオブジェクト",
+                "model-id": "ID",
+                "view": "見る",
+                "action-updated": "データ更新",
+                "action-created": "データを追加する",
+                "action-deleted": "データを削除する",
+                "name": "名前"
+            },
+            "log-multi-wallet-stuck": {
+                "platform": "ゲームプラットフォーム",
+                "platform-name": "プラットフォーム名",
+                "member-id": "メンバー番号",
+                "type": "タイプ",
+                "error-code": "エラーコード",
+                "error-message": "エラーメッセージ",
+                "amount": "金額がスタック",
+                "process": "処理動作",
+                "status": "処理状況",
+                "created-at": "設立時間",
+                "deposit": "入金",
+                "withdraw": "出金",
+                "process-code": {
+                    "0": "通常の処理",
+                    "1": "お金がスタック処理"
+                },
+                "status-code": {
+                    "0": "通常の状態",
+                    "1": "お金がスタック中",
+                    "2": "戻る",
+                    "3": "正常に動作なので、処理せず"
+                }
+            },
+            "log-third-search-bar": {
+                "search": "ユーザーアカウントまたはプラットフォームベンダーIDを検索します",
+                "order_id": "Fullpayオーダー番号を検索する",
+                "user_type": "エージェントまたはメンバー",
+                "status": "オーダーの状況",
+                "transaction_status": "取引状況",
+                "created_at": "設立時間",
+                "time-range": {
+                    "label": "時間範囲",
+                    "to": "に",
+                    "start": "開始時間",
+                    "end": "終了時間"
+                },
+                "today": "今日",
+                "yesterday": "昨日",
+                "this-week": "今週",
+                "last-week": "先週",
+                "this-month": "今月",
+                "last-month": "先月"
+            },
+            "log-third-deposit": {
+                "payment_merchant": "プラットフォーム マーチャントID",
+                "name": "カスタム決済名",
+                "search": "ユーザーまたはプラットフォームのベンダーIDを検索する",
+                "status": "オーダーの状況",
+                "pay-name": "決済名",
+                "status_opt": {
+                    "0": "未払い",
+                    "1": "支払い が成功しました",
+                    "2": "テスト支払いが成功しました",
+                    "-1": "オーダーが完了していません",
+                    "-2": "お支払い失敗",
+                    "-3": "その他の例外",
+                    "-4": "確認コードの生成に失敗しました"
+                },
+                "transaction_status": "取引 状況",
+                "transaction_status_opt": {
+                    "0": "未払い",
+                    "1": "決済通知の支払い",
+                    "2": "手動支払い",
+                    "-1": "オーダーが完了していません",
+                    "-2": "お支払い失敗",
+                    "-3": "その他の例外",
+                    "-4": "確認コードの生成に失敗しました"
+                },
+                "payed_at": "支払い時間",
+                "callback_at": "コールバック時間",
+                "created_at": "設立時間",
+                "device": "装置",
+                "ip": "IP",
+                "payment_status_message": "支払いステータス",
+                "payment_status": "支払いステ ータスメッセージ",
+                "status_message": "オーダー状況のメッセージ",
+                "trade_no": "第三者決済オーダー番号",
+                "fee": "手数料",
+                "amount": "金額",
+                "account": "ユーザーアカウント",
+                "bank_code": "銀行コード",
+                "payment_type": "決済手段",
+                "merchant_id": "マーチャントID",
+                "payment_id": "第三者決済 id",
+                "platform_order_id": "プラットフォームオーダーID",
+                "payment_merchant_id": "プラットフォームマーチャントID",
+                "platform": "プラットホーム",
+                "order_id": "Fullpayオーダー番号",
+                "user_type": "エージェントまたはメンバー",
+                "time-range": {
+                    "to": "に",
+                    "start": "開始時間",
+                    "end": "終了時間"
+                },
+                "detail": "第三者決済の詳細",
+                "platform_id": "プラットフォームID",
+                "manual-pay": "手動通過",
+                "manual-pay-confirm": "確認",
+                "manual-pay-confirm-message": "是否確定手動通過?"
+            }
+        },
+        "member": {
+            "member-activity-info": {
+                "time-range": {
+                    "to": "に",
+                    "start": "開始日",
+                    "end": "終了日",
+                    "invalid": "時間範囲"
+                },
+                "today": "今日",
+                "this-week": "今週",
+                "this-month": "今月",
+                "yesterday": "昨日",
+                "last-week": "先週",
+                "last-month": "先月",
+                "label-exclude-tester": "テストアカウントを除外する",
+                "label-only-tester": "テストアカウントのみ",
+                "label-level": "現在の組織レベル",
+                "label-float-point": "小数点以下4桁を表示",
+                "table": {
+                    "total_title": "合計",
+                    "col-parent-agent": "上層",
+                    "col-agent": "エージェント",
+                    "col-franchisee": "アフィリエイト",
+                    "num-first-deposit": "初めてリチャージ",
+                    "sum-first-deposit": "初めてリチャージ合計",
+                    "num-re-deposit": "再びリチャージ",
+                    "sum-re-deposit": "再びリチャージ合計",
+                    "num-first-withdraw": "初めて現金を引き出す",
+                    "sum-first-withdraw": "初めて現金を引き出しの合計額",
+                    "num-all-deposit": "トータルリチャージ",
+                    "sum-all-deposit": "トータルリチャージ合計",
+                    "num-re-withdraw": "再び現金を引き出す",
+                    "sum-re-withdraw": "再び現金を引き出しの合計額",
+                    "num-all-withdraw": "総現金引き出す",
+                    "sum-all-withdraw": "総現金引き出しの合計額",
+                    "num-login-member": "ログインの総人数",
+                    "num-registers": "登録人数",
+                    "sum-log": "ログ",
+                    "sum-member": "人",
+                    "sum-money": "円"
+                }
+            },
+            "member-tag-manager": {
+                "btn-add": "タグを追加する",
+                "default-tag": "新しいタグ",
+                "confirm-delete-tag": "タグ{name}を削除してもよろしいですか？ （メンバーによってマークされたこのタグタイプも削除されます）"
+            },
+            "club": {
+                "clubName": "クラブ名",
+                "describe": "説明",
+                "remark": "備考",
+                "clubRankName": "レベル名",
+                "depositPer": "毎回入金クォータ",
+                "depositDayTimes": "毎日の 入金の最大数",
+                "withdrawPer": "毎回出金クォータ",
+                "withdrawDayTimes": "毎日出金最大回数",
+                "numMembers": "人数",
+                "order": "順序",
+                "default-status": "デフォルトの状態",
+                "not-default": "デフォルトではない",
+                "default": "デフォルト",
+                "club-list": "クラブリスト",
+                "clubRank-list": "レベルリスト",
+                "add-club-rank": "クラブのレベルが追加します",
+                "default-club-rank": "デフォルトのクラブレベル",
+                "not-limit": " 無制限",
+                "editAllWater": "リベート管理"
+            }
+        },
+        "quest": {
+            "reward": {
+                "title": "プロモーションリスト",
+                "start_at": "開始時間",
+                "fixed": {
+                    "franchisee": "アフィリエイト",
+                    "title": "プロモーションリスト",
+                    "quest-type": "タイプ",
+                    "quest-name": "名前",
+                    "reward": "ギフトポイント",
+                    "bet-amount": "ベット額",
+                    "no-limit": "無制限"
+                },
+                "percent": {
+                    "franchisee": "アフィリエイト",
+                    "no-limit": "無制限",
+                    "questName": "名前",
+                    "percent": "ギフトパーセンテージ",
+                    "bet_amount": "ベット額",
+                    "bet_amount_min": "最小ベット額",
+                    "reward_max": "最大ギフトポイント",
+                    "start_at": "開始時間",
+                    "end_at": "終了時間"
+                },
+                "quest-condition": {
+                    "franchisee": "アフィリエイト",
+                    "add-title": "プロモーションミッションを追加する",
+                    "edit-title": "プロモーションミッションを編集する",
+                    "add-announcement-title": "プロモーションのお知らせを追加する",
+                    "edit-announcement-title": "プロモーションのお知らせを編集する",
+                    "method": {
+                        "title": "受け取る方法",
+                        "before": "事前の配布されます",
+                        "after": "その後の配布されます"
+                    },
+                    "type": {
+                        "title": "活動の種類",
+                        "fixed": "固定タイプ",
+                        "percent": "パーセンテージタイプ",
+                        "stages": "ステージタイプ"
+                    },
+                    "reward": "ギフトポイント",
+                    "percent_scale": "賭け金額変換のギフトポイントのパーセンテージ",
+                    "title-deposit": "プリペイ ド金額から変換されたギフトポイントのパーセンテージ",
+                    "reward_scale": "ポイントを受け取る",
+                    "lock-amount": "追加のロック賭け金額",
+                    "lock-amount-scale": "倍数",
+                    "lock-amount-fix": "固定値",
+                    "condition": {
+                        "title": "完了条件",
+                        "reward_max": "最大ギフトポイント",
+                        "bet_amount_min": "最小ベット額",
+                        "birthday": "メンバーの誕生日",
+                        "bet_amount": "ベッティングのベット額",
+                        "valid_amount": "有効ベット額",
+                        "win_amount": "ベット額に当選する",
+                        "amount_scale": "賭け金額の倍数",
+                        "first-time-deposit": "（最低）初回入金金額",
+                        "multiple-deposit": "（最小）累積プリペイド金額",
+                        "regular-deposit": "（最小）必要な プリペイド金額",
+                        "profit-report-total": "利益額",
+                        "loss-report-total": "マイナス利益額",
+                        "single-day-first-time-deposit": "（最低）1日あたりの初回入金額",
+                        "days-after-registered": "（少なくとも）登録後日数"
+                    },
+                    "period": {
+                        "title": "トリガー期間",
+                        "daily": "毎日",
+                        "week": "毎週",
+                        "month": "毎月",
+                        "quarterly": "毎シーズン",
+                        "half_year": "毎半年",
+                        "year": "毎年",
+                        "period": "期間",
+                        "trigger-title": "ギフトポイントを受け取る",
+                        "trigger-immediately": "すぐに",
+                        "trigger-later": "期間終了後",
+                        "exist-title": "ギフトポイントの保持時間"
+                    },
+                    "times": "受け取るの数",
+                    "select-agent": "エージェントを指定するかどうか",
+                    "select-member": "メンバーを指定するかどうか",
+                    "required-amount": "ベット額に到達しなければなりません",
+                    "check-unlock": "金額はロックされていますか",
+                    "locked": "ロック中",
+                    "unlock": "ロックを解除 する",
+                    "group": "グループ",
+                    "no-use": "使わないで"
+                },
+                "noPhoto": "画像データなし",
+                "btn": {
+                    "front-page": "戻る",
+                    "fixed-add": "固定タイプを追加する",
+                    "percent-add": "パーセンテージタイプを追加する",
+                    "stage-add": "ステージタイプを追加する",
+                    "quest-add": "プロモーションミッションを追加する",
+                    "announcement-add": "プロモーションのお知らせを追加する",
+                    "log": "賭け金額記録"
+                },
+                "filter": "フィルター",
+                "filter-quest": "ミッションのみを表示",
+                "filter-announcement": "お知らせのみを表示"
+            },
+            "group": {
+                "company": "会社の活動",
+                "quest-list": "プロモーションリスト",
+                "group-name": "プロモーショングループ",
+                "club-rank": "クラブレベル",
+                "level": "並べ替え",
+                "edit": "編集"
+            },
+            "type": {
+                "first-time-deposit": "初めての入金の活動",
+                "regular-percent": "賭け金額ギフト（パーセンテージ）",
+                "regular-fixed": "賭け金額ギフト （固定）",
+                "period-fixed": "期間イベント",
+                "birth-fixed": "誕生日イベント",
+                "recommend-fixed": "紹介イベント",
+                "daily-percent": "毎日イベント",
+                "daily-fixed": "毎日イベント",
+                "deposit-fixed": "プリペイドイベント",
+                "deposit-percent": "プリペイドイベント",
+                "multiple-deposit": "プリペイドイベント（累積）",
+                "stages-deposit": "ステージタイプのイベント"
+            }
+        },
+        "version": {
+            "title": "バージョン情報",
+            "version-number": "バージョンナンバー",
+            "tittle": "バージョンタイトル",
+            "information": "改訂内容",
+            "add": "バージョン情報を追加する",
+            "delete": "削除"
+        },
+        "activity-wallet": {
+            "company-activity": "会社のミッショ ン",
+            "company": "会社の活動",
+            "club-rank": "クラブレベル",
+            "select-agent": "エージェントを指定するかどうか",
+            "select-member": "メンバーを指定するかどうか",
+            "name": "イベント名",
+            "status": "状態",
+            "price": "価格",
+            "points": "利用可能なポイント",
+            "water_limit": "賭け金額の制限",
+            "platforms": "利用可能なプラットフォーム",
+            "start_at": "イベント開始時間",
+            "end_at": "イベント終了時間",
+            "limit_frequency": " 利用可能な購入数（0は無制限）",
+            "limit_member_frequency": "単一メンバーの購入できる回数（0は無制限）",
+            "enabled": "有効にするかどうか",
+            "add-title": "プロモーションを追加する",
+            "edit-title": "イベ ントの変更",
+            "percent-point": "ギフトパーセンテージ",
+            "percent-water": "賭け金額の倍数",
+            "percent-min-price": "最小購入額",
+            "percent-max-point": "最大ギフトポイント",
+            "limit_give_up": "ウォレット残高のしきい値"
+        },
+        "activity-wallet-log": {
+            "receive": {
+                "title": "戻す状態",
+                "all": "すべて選択",
+                "received": "戻しました",
+                "not-received": "戻されません"
+            },
+            "account": "メンバーアカウント",
+            "product-name": "商品名",
+            "water-limit": "賭け金額の制限",
+            "current-water": "現在の賭け金額",
+            "points": "利用可能なポイント",
+            "current-points": "現在のポイント",
+            "receive-at": "受け取る時間",
+            "receive-amount": "受け取っ た金額",
+            "is-receive": "戻すかどうか",
+            "created-at": "購入時間",
+            "title-cancel": "メンバーが購入したボーナスウォレットをキャンセルする",
+            "price": "購入金額",
+            "amount": "返される金額",
+            "reason": "キャンセルの理由",
+            "water": "ロック賭け金額",
+            "btn-report-log": "ベットスリップ",
+            "cancelDate": "キャンセル時間",
+            "cancelReceiveAmount": "返金金額",
+            "cancel-agent": "操作の人をキャンセル"
+        },
+        "bank-group": {
+            "title": "アカウントグループ",
+            "group-name": "アカウントグループ名",
+            "add-group": "アカウントグループを追加する",
+            "edit-group": "アカウントグループ編集",
+            "member": "メンバーを見る",
+            "member-list": "メンバーリスト",
+            "member-number": "会員数",
+            "fullpay-title": "決済チャネル",
+            "edit-fullpay-title": "決済チャネル設定",
+            "edit-amount-title": "累積クォータ設定",
+            "order": "順序",
+            "amount-limit": "チャネル制 限（0は制限なしを意味します）",
+            "rotation_status": "チャネル回転機能を有効にするかどうか",
+            "confirm": "決済チャネル設定を変更すると、以前のチャンネル設定が削除されますが、変更してもよろしいですか？",
+            "curModify": {
+                "title": "累積クォータを変更する"
+            }
+        },
+        "stuck-money": {
+            "col-franchisee": "加盟商",
+            "col-platform": "遊戲平臺",
+            "col-type": "動作類型",
+            "col-error": "錯誤方式",
+            "col-member": "會員帳號/名稱",
+            "col-before-point": "轉移前點數",
+            "col-after-point": "轉移後點數",
+            "col-point": "被卡住的點數",
+            "col-agent": "負責處理的代理帳號/名稱",
+            "col-status": "處理狀態",
+            "col-error-message": "錯誤訊息",
+            "type-info": {
+                "withdraw": "從遊戲取點",
+                "deposit": "存點到遊戲"
+            },
+            "error-info": {
+                "transfer": "移轉點數時產生的錯誤",
+                "balance": "餘額產生的錯",
+                "match": "兩次餘額不符的錯",
+                "unknow": "未知錯誤"
+            },
+            "status-info": {
+                "completed": "完成",
+                "cancel": "取消",
+                "pending": "待處理"
+            },
+            "process-info": {
+                "none": "不須處理",
+                "back": "退款",
+                "pending": "未有動作"
+            },
+            "label-member": "會員帳號",
+            "label-agent": "代理帳號",
+            "label-process": "處理方式"
+        }
+    }
+}
